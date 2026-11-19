@@ -1,0 +1,33 @@
+### Beat 1: Introduction to Mud Witch (0:00 – 0:15)
+
+* **Goal:** Introduce Viviana Matsuda and Mud Witch, establishing a warm, inviting tone.
+
+* **A-Roll & Audio:** Open directly on Viviana's on-camera introduction: “Hi, I'm Viviana matsuda. Um, I do pottery for a living. My brand name is Mud Witch.” [[clip: A001C002_240718OR | 14s-25s]]
+
+* **B-Roll / Transition:** Start with Viviana on camera, then cut to establish the studio space with b-roll of the Mud Witch storefront signage. [[clip: B003C009_240719KG | 16s-20.3s]]
+
+* **Music:** Establish a warm, inviting tone introducing Viviana and her pottery business, set to a continuous bed of upbeat, dreamy background music (dreamy_upbeat.wav). [[sound: 323b9eab-509f-4428-bb58-cc0d4eb72260]]
+
+### Beat 2: Developing Style and Voice (0:15 – 0:30)
+
+* **Goal:** Explore how Viviana found her creative identity and shaped the Mud Witch brand.
+
+* **Interview / Narration:** Viviana narrates her journey of finding her voice and distinctive style for Mud Witch, continuing into her artistic expression. [[clip: A001C004_240718BC | 668.9s-682.5s]] [[clip: A001C004_240718BC | 682.6s-693.9s]]
+
+* **B-Roll:** Cut to b-roll of the Mud Witch sign displayed on a studio shelf, followed by close details of her ceramics on display. [[clip: B003C028_240719CX | 11.3s-13.6s]] [[clip: B003C011_240719YX | 5.9s-9.1s]]
+
+### Beat 3: Craft and Daily Dedication (0:30 – 0:45)
+
+* **Goal:** Highlight the tactile, meditative craft of pottery and the joy Viviana derives from making pieces by hand.
+
+* **Interview / Voiceover:** Layer interview reflections on her creative process and daily work, speaking to why she loves what she does. [[clip: A001C004_240718BC | 702.3s-707.8s]] [[clip: A001C004_240718BC | 756s-762s]] [[clip: A001C004_240718BC | 892.3s-897.1s]] [[clip: A001C004_240718BC | 907.1s-923.6s]]
+
+* **B-Roll / Craft Montage:** Showcase hands-on pottery creation and studio details through active B-roll of throwing clay, shaping forms, and colorful finished mugs. [[clip: B003C006_240719KM | 42.6s-52.4s]] [[clip: B003C007_240719CC | 34.2s-39.8s]] [[clip: B003C050_240719XK | 9.6s-14.2s]]
+
+### Beat 4: Value, Simplicity, and Outro (0:45 – 1:00)
+
+* **Goal:** Conclude with Viviana's core philosophy about keeping life simple and cherishing handmade objects.
+
+* **Interview / Closing Reflection:** Viviana reflects on consumer habits, and concludes with her closing message: “But not only that, but like, you don't need all of that stuff. Like, you could literally just get a couple things that make you happy.” [[clip: A001C004_240718BC | 1209.2s-1221.1s]] [[clip: A001C004_240718BC | 1257.6s-1263.8s]]
+
+* **B-Roll / Outro:** Cut between finished pottery on studio shelves, and end on the exterior shot of Viviana walking out of the studio as the music gently resolves. [[clip: B003C050_240719XK | 29.2s-33.9s]] [[clip: B003C061_240719AN | 6.5s-13.6s]]

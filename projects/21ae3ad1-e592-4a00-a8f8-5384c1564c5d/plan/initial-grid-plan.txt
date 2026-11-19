@@ -1,0 +1,41 @@
+### Beat 1: Departure & The Commuter Rail (0:00 – 0:14)
+
+* **Goal:** Begin the cycling journey with the departure, neighborhood ride, and commuter-rail connection.
+
+* **Vlog / Dialogue:** Start immediately on the first-person alley rollout dialogue, "And we're off. Let's go." Follow with the quick couple check-in inside the train car announcing their destination. [[clip: 01 | 0.3s-2.44s]] [[clip: 03 | 0.02s-5.68s]]
+
+* **Travel Montage / Transitions:** Cut smoothly to a brief, scenic snippet navigating neighborhood streets and the roundabout. Softly cross-dissolve to walking along the platform and boarding the train with loaded bikes. [[clip: 01 | 13s-40.8s]] [[clip: 02 | 122s-169s]]
+
+* **Music:** Introduce an upbeat swing track underneath to propel the journey forward. [[sound: a55c00c5-a814-41bb-8ea9-f5294ceaa127]]
+
+### Beat 2: Newburyport Trail Ride & Speed Ramp (0:14 – 0:30)
+
+* **Goal:** Develop the journey through Newburyport and the wooded trail, using the planned speed ramp.
+
+* **Cycling Montage / Speed Ramp:** Transition smoothly from the train to departing the Newburyport station along the tracks. Transition into the lush, wooded Upper City Rail Trail. Feature this segment slightly longer than other rides: start at normal speed, ramp up to 2× speed across the tree-lined path to cover distance dynamically, and gradually ramp back down to 1× as the dialogue plays out. Dissolve into crossing the open bridge and taking in the coastal marina overlook. [[clip: 04 | 0s-46s]] [[clip: 04 | 156s-248s]] [[clip: 04 | 384s-428s]]
+
+### Beat 3: Incoming Weather & Beach Pit Stop (0:30 – 0:42)
+
+* **Goal:** Introduce the incoming weather and beach stop, including the brief dog-related visual joke.
+
+* **Vlog / Dialogue:** Cut to the man pointing out the ominous storm clouds rolling in and mentioning setting up camp. [[clip: 05 | 0.78s-8.4s]]
+
+* **Visuals / Transition:** Crossfade to the beach stop under dramatic skies. [[clip: 06 | 0s-14.6s]]
+
+* **Graphics / Sound Effect:** Highlight the dog pooping near the start using a brief, subtle on-screen arrow graphic and a light comedic audio cue before tracking the dog running on the sand.
+
+### Beat 4: Campsite Setup & Dinner (0:42 – 0:52)
+
+* **Goal:** Show the arrival at camp and the small pleasures of setting up and making dinner.
+
+* **Visuals / Establishing Shot:** Pan across the campsite showing the pitched tent, bikes, and picnic bench. [[clip: 07 | 0.91s-18s]]
+
+* **Close-up / Dialogue:** Cut closely to the sizzling barbecue grill with hot dogs and corn over the dialogue "Max is grilling up our dogs. Toasty dogs!" [[clip: 07 | 15s-28s]]
+
+### Beat 5: Morning Light & Final Ride (0:52 – 1:00)
+
+* **Goal:** Resolve the trip with the morning check-in and a final sunlit ride.
+
+* **Vlog / Morning Check-in:** Open the morning with the vlog check-in summarizing the chilly but peaceful night at the camp. [[clip: 08 | 0s-20.16s]]
+
+* **Closing Visual / Fade-out:** Dissolve into a brief, picturesque shot following the partner down the sunlit bike path. Let the final ride smoothly fade to black as the music comes to a clean finish. [[clip: 09 | 11s-62s]]

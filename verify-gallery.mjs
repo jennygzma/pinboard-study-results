@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import vm from 'node:vm';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import { createArchiveServer } from './server.mjs';
 const root = path.dirname(fileURLToPath(import.meta.url));
 const read = async file => JSON.parse(await fs.readFile(path.join(root, file), 'utf8'));
@@ -18,9 +19,46 @@ for (const [key,file] of Object.entries({'e4:grid:initial':'jonah-grid-initial.j
   const recovery=await read(`design-review/recovered-initial-plans/${file}`);
   candidates[key]={...candidates[key],plan:recovery.plan,recovery:{file,sourceEvents:recovery.sourceEvents,verification:recovery.verification}};
 }
-let linked = 0, unavailable = 0;
+let linked = 0, unavailable = 0, narrativeCount = 0, initialTextBeats = 0;
 for (const item of index) {
   const p = await read(`gallery-data/grids/${item.id}.json`);
+  const prose=p.initialTextPlan;
+  assert(prose,`Missing Initial Grid text plan for ${item.code}`);
+  assert.equal(prose.sourceFile,`projects/${item.id}/plan/initial-grid-plan.txt`);
+  assert.equal(await fs.readFile(path.join(root,prose.sourceFile),'utf8'),prose.text);
+  assert.equal(prose.sourceGridSha256,createHash('sha256').update(JSON.stringify(p.initial)).digest('hex'));
+  assert.equal(prose.beats.length,p.initial.beats.length);
+  initialTextBeats+=prose.beats.length;
+  const flatten=cards=>cards.flatMap(card=>[card,...flatten(card.children||[])]);
+  let elapsed=0;
+  for(const [i,beat] of p.initial.beats.entries()){
+    const rendered=prose.beats[i];
+    assert.equal(rendered.id,beat.id);assert(rendered.title&&rendered.goal);
+    assert.equal(rendered.startS,elapsed);elapsed+=beat.targetDurationSeconds;assert.equal(rendered.endS,elapsed);
+    for(const track of beat.tracks)for(const card of flatten(track.cards))if(card.kind==='asset'){
+      const section=rendered.sections.find(section=>section.track===track.row&&section.cardIds.includes(card.id));
+      assert(section,`Every Initial asset belongs to its saved text section: ${item.code} ${card.id}`);
+      const moment=p.moments[card.momentId];
+      if(moment?.videoName&&Number.isFinite(card.sourceStartS??moment.startS)&&Number.isFinite(card.sourceEndS??moment.endS))assert(section.references.some(ref=>ref.type==='clip'&&ref.videoName===moment.videoName&&ref.startS===(card.sourceStartS??moment.startS)&&ref.endS===(card.sourceEndS??moment.endS)));
+    }
+    for(const section of rendered.sections)for(const ref of section.references)if(ref.type==='clip'){
+      assert(prose.text.includes(ref.tag));
+      const card=beat.tracks.filter(track=>track.row===section.track).flatMap(track=>flatten(track.cards)).find(card=>card.id===ref.cardId);
+      assert(card,'A text-plan clip must belong to this Initial beat and track');
+      const moment=p.moments[card.momentId];
+      assert.equal(ref.videoName,moment.videoName);
+      assert.equal(ref.startS,card.sourceStartS??moment.startS);assert.equal(ref.endS,card.sourceEndS??moment.endS);
+    }
+  }
+  if(item.code==='n7')assert.equal(elapsed,55,'Preserve the actual Initial Grid runtime');
+  const savedNarrative=await read(`projects/${item.id}/plan/narrative-plan.json`).catch(error=>{if(error.code==='ENOENT')return null;throw error;});
+  if(savedNarrative?.text?.trim()){
+    narrativeCount++;
+    assert.equal(p.narrative.text,savedNarrative.text,'The full saved LLM input must remain exact');
+    assert.equal(p.narrative.narrativeText+p.narrative.executionInstructions,p.narrative.text,'Separating technical instructions must not remove any text');
+    assert.equal(p.narrative.updatedAt,savedNarrative.updatedAt);
+    assert.equal(p.narrative.sourceFile,`projects/${item.id}/plan/narrative-plan.json`);
+  }else assert.equal(p.narrative,null,'Do not fabricate a missing narrative');
   for (const phase of ['initial','revised']) {
     assert.deepEqual(p[phase],candidates[`${item.code}:grid:${phase}`].plan);
     assert.deepEqual(p.references[phase].map(image=>image.name),audit.rows.find(row=>row.projectId===item.id).phases[phase].screenshots);
@@ -32,6 +70,7 @@ for (const item of index) {
     }
   }
 }
+assert.equal(initialTextBeats,52);
 // Ensure all 52 saved snapshots retain their audited source and plan, including Brian/Jonah repairs.
 for (const file of await fs.readdir(path.join(root, 'gallery-data/plans'))) if (file.endsWith('-snapshots.json')) {
   const pair = await read(`gallery-data/plans/${file}`);
@@ -65,11 +104,37 @@ for (const item of index) {
   assert(!content.innerHTML.includes('data-mode="compare"'));
   assert(!content.innerHTML.includes('grid-inspector'));
   assert(content.innerHTML.includes('data-phase="revised"'));
+  assert(content.innerHTML.includes('What the video-generation LLM reads'));
+  const narrativeSection=content.innerHTML.split('<section class="g-narrative"')[1].split('</section>')[0];
+  const record=await read(`gallery-data/grids/${item.id}.json`);
+  const proseSection=()=>content.innerHTML.split('<section class="g-initial-text"')[1].split('</section>')[0];
+  assert(proseSection().includes('Initial Grid text plan'));
+  assert(!proseSection().includes('Download .txt'));
+  assert(!proseSection().includes('Source information'));
+  const htmlEscape=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  assert(proseSection().includes(`<div class="g-initial-text-prose">${htmlEscape(record.initialTextPlan.text)}</div>`),'Show exact saved plain text without formatting');
+  assert(proseSection().includes('<details ><summary>Read Initial text plan'));
+  if(record.narrative){
+    assert(narrativeSection.includes('Latest saved narrative'));
+    assert(narrativeSection.includes('separate Initial and Revised narratives are not preserved'));
+    assert(narrativeSection.includes('Full exact saved LLM input'));
+    assert(narrativeSection.includes(record.narrative.sourceFile));
+    assert(!narrativeSection.includes('\\n\\n##'),'Render real line breaks rather than JSON escapes');
+  }else assert(narrativeSection.includes('No saved narrative plan is available'));
   await element.emit('click',{target:{closest:()=>({dataset:{mode:'initial'}})}});
   assert(content.innerHTML.includes('data-phase="initial"'));
+  assert(proseSection().includes('<details open><summary>Read Initial text plan'));
   assert([...content.innerHTML.matchAll(/data-status="([^"]+)"/g)].every(match=>match[1]==='plain'),'Initial must not have diff styling');
   assert(!/g-card-mark|g-changebar|data-step=|id="grid-show-diff"/.test(content.innerHTML),'Initial must not have diff controls or badges');
   assert(content.innerHTML.includes('Initial reference screenshots'));
+  const notes=record.initial.beats.flatMap(beat=>beat.tracks.flatMap(track=>track.cards)).filter(card=>card.kind==='text'&&card.text);
+  assert(notes.length,'Each participant has a note to inspect');
+  await element.emit('click',{target:{closest:()=>({dataset:{card:notes[0].id,phase:'initial'}})}});
+  assert(dialog.open);assert(heading.textContent.includes('Initial plan · Full note'));
+  assert(source.innerHTML.includes(`<div class="g-full-note">${htmlEscape(notes[0].text)}</div>`),'Clicking a note displays its complete text');
+  assert(!source.innerHTML.includes('<video'));
+  dialog.close();
+  assert.equal(content.innerHTML.split('<section class="g-narrative"')[1].split('</section>')[0],narrativeSection,'Switching Grid versions must not imply a different saved narrative');
   await element.emit('click',{target:{closest:()=>({dataset:{mode:'revised'}})}});
   await element.emit('change',{target:{id:'grid-show-diff',checked:false}});
   assert([...content.innerHTML.matchAll(/data-status="([^"]+)"/g)].every(match=>match[1]==='plain'),'Revised with diff off must be clean');
@@ -120,7 +185,7 @@ for(const id of Object.keys(media)){
   }
   assert(html.includes('Requirement text:'));
 }
-console.log(`Data/UI checks passed: 13 participants, 26 modals, 52 audited snapshots; ${linked} source references linked, ${unavailable} explicitly unavailable.`);
+console.log(`Data/UI checks passed: 13 Initial Grid text files (${initialTextBeats} beats), 26 modals, 52 audited snapshots, ${narrativeCount} exact saved narratives; ${linked} source references linked, ${unavailable} explicitly unavailable.`);
 // Exercise real HTTP byte-range streaming, route isolation, and JSON responses.
 const server=await createArchiveServer(root);await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 try{

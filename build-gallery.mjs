@@ -117,6 +117,20 @@ for (const seed of snapshots.projects) {
     } else {
       seed.initial = initial.plan;
       seed.revised = revised.plan;
+      // Retain the saved text-plan outputs; rebuilding does not generate new study prose.
+      const savedTextPlan = (await read(`gallery-data/grids/${project.id}.json`)).initialTextPlan;
+      const initialTextPlan = savedTextPlan && { text: savedTextPlan.text, beats: savedTextPlan.beats, sourceFile: savedTextPlan.sourceFile, sourceGridSha256: savedTextPlan.sourceGridSha256 };
+      if (!initialTextPlan || initialTextPlan.sourceGridSha256 !== createHash('sha256').update(JSON.stringify(initial.plan)).digest('hex')) throw Error(`Saved Initial Grid text plan needs review: ${project.id}`);
+      initialTextPlan.text = await fs.readFile(initialTextPlan.sourceFile, 'utf8');
+      const narrativeFile = `projects/${project.id}/plan/narrative-plan.json`;
+      const savedNarrative = await read(narrativeFile).catch(error => { if (error.code === 'ENOENT') return null; throw error; });
+      let narrative = null;
+      if (typeof savedNarrative?.text === 'string' && savedNarrative.text.trim()) {
+        const text = savedNarrative.text;
+        const boundary = text.lastIndexOf('\n## Constraints\n');
+        const hasRules = boundary >= 0 && text.slice(boundary).includes('## Instructions for tagging') && text.slice(boundary).includes('## Completion requirements');
+        narrative = { text, narrativeText: hasRules ? text.slice(0, boundary) : text, executionInstructions: hasRules ? text.slice(boundary) : '', updatedAt: savedNarrative.updatedAt || null, sourceGridUpdatedAt: savedNarrative.sourceGridUpdatedAt || null, sourceFile: narrativeFile };
+      }
       const clips = {};
       const visit = cards => { for (const card of cards) { const moment = seed.moments[card.momentId]; const raw = rawIndex[moment?.videoName]; const start = card.sourceStartS ?? moment?.startS, end = card.sourceEndS ?? moment?.endS;
         if (card.kind === 'asset') clips[card.id] = raw && Number.isFinite(start) && Number.isFinite(end) && start >= 0 && end > start && end <= raw.duration + 0.15 ? { file: raw.file, start, end, poster: poster(raw.file, start), name: moment.videoName } : { unavailable: true, name: moment?.videoName || 'Unidentified source', reason: raw ? 'Saved source range is unavailable.' : 'Original source footage has not been added.' };
@@ -125,7 +139,7 @@ for (const seed of snapshots.projects) {
       // Key by phase as trims can differ while card IDs remain the same.
       const phaseClips = {};
       for (const phase of ['initial', 'revised']) { for (const beat of seed[phase].beats) for (const track of beat.tracks) visit(track.cards); phaseClips[phase] = { ...clips }; for (const key of Object.keys(clips)) delete clips[key]; }
-      const grid = { ...seed, videos: media, clips: phaseClips, references, verification: { initial: { source: initial.source, status: initial.status }, revised: { source: revised.source, status: revised.status } } };
+      const grid = { ...seed, videos: media, clips: phaseClips, references, narrative, initialTextPlan, verification: { initial: { source: initial.source, status: initial.status }, revised: { source: revised.source, status: revised.status } } };
       await write(`gallery-data/grids/${project.id}.json`, grid);
       await write(`gallery-data/plans/${project.id}.json`, { kind: 'grid', projectId: project.id, projectName: project.name, viewer: `/grid-view.html?project=${project.id}&embed=1`, note: `Saved audited Grid snapshots. Verification: ${initial.status} / ${revised.status}.` });
       gridIndex.push({ id: project.id, code: seed.code, participant: seed.participant });

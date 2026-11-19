@@ -1,0 +1,35 @@
+### Beat 1: Cold Open & Introduction (0:00 – 0:14)
+
+* **Goal:** Introduce Mud Witch through its distinctive mug shapes before bringing Viviana on camera.
+
+* **Voiceover → A-Roll:** Pair the opening visuals with Viviana’s voiceover naming her signature shapes: "I was like starting to make these like chubby shapes and they're literally called this is the Chubby Mug. This is the Venus mug". Directly on the cut following the cold open, cut on-camera to Viviana introducing herself and her studio: "Hi, I'm Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I'm a full-time potter". [[clip: A001C004_240718BC | 693.9s-702.1s]] [[clip: A001C002_240718OR | 14s-25s]]
+
+* **Cold Open / B-Roll / Silence:** Open cold in total silence without music. Establish the visual identity of Mud Witch through colorful shelf B-roll of pastel mugs and tableware. [[clip: B003C050_240719XK | 9.6s-14.2s]]
+
+* **Music / Entrance:** The music track calm_reflective enters right on this cut, establishing a gentle, contemplative tone beneath her introduction. [[sound: c0e2c875-8cdb-4495-8be1-1347e1355675]]
+
+### Beat 2: Mud Witch Origin & Body Positivity (0:14 – 0:32)
+
+* **Goal:** Trace Mud Witch’s forms and colors to Viviana’s encounter with ceramics and body positivity.
+
+* **Interview / Dialogue Sequence:** Viviana explains how her artistic voice formed at the intersection of learning ceramics and engaging with the body positivity movement. She describes her early experimentation with natural clay: "I used like 11 different types of clay, and they were all the range of skin tones. So they were like naked". Cut immediately to her next line: "And then I was like, well, let's slap some color on these, let's clothe these babes". [[clip: A001C004_240718BC | 668.9s-682.5s]] [[clip: A001C004_240718BC | 728.5s-737.2s]] [[clip: A001C004_240718BC | 738.1s-742.4s]]
+
+* **B-Roll / Dialogue Coverage:** Cover "so they were like naked" with B-roll of stacked, unpainted ceramic bisque wares resting on studio shelving. Cover this line with B-roll of glaze and color being painted onto a ceramic piece. [[clip: B003C028_240719CX | 5.8s-11.2s]] [[clip: B003C007_240719CC | 39.7s-41.8s]]
+
+### Beat 3: The Value of Handmade Pottery (0:32 – 0:49)
+
+* **Goal:** Explain the tactile and emotional value of handmade pottery in contrast with mass consumption.
+
+* **Interview / Reflection:** Transition into the deeper philosophical value of ceramics. Viviana reflects on physical mediums as a tool for human connection, and explains the tactile concept of the artist's hand: "There's something called the artist's hand where when you hand-build something or wheel throw it, you can kind of feel where the artist's hands have been". Follow with her challenge to mass-consumer culture and questions around handmade pricing: "People are like, well, why is it 50 bucks? I can buy ten mugs with that. And I'm like, but you need ten more mugs because like, do you have ten people in your family?" [[clip: A001C004_240718BC | 892.3s-897.1s]] [[clip: A001C004_240718BC | 897.6s-906.3s]] [[clip: A001C004_240718BC | 1151.6s-1168.7s]]
+
+* **B-Roll / Close-up:** Support this sentiment with close-up footage of her hands actively shaping wet clay on the pottery wheel. [[clip: B003C011_240719YX | 5.9s-9.1s]]
+
+### Beat 4: Resolution & Outro (0:49 – 1:00)
+
+* **Goal:** Close on the pleasure of making people smile and the Mud Witch title card.
+
+* **A-Roll / Final Line:** Bring the film to a warm, grounded conclusion. Viviana delivers the final spoken line of the piece on-camera: "It started off as one thing, and now it's just like, I just want to make something that, like, makes people smile". [[clip: A001C004_240718BC | 756s-762s]]
+
+* **Music / Fade-out:** Let the piano notes of calm_reflective ring out gently over the card before fading out. [[sound: c0e2c875-8cdb-4495-8be1-1347e1355675]]
+
+* **Title Card:** Cut directly from her line to a graphic title card displaying the Mud Witch text box.
