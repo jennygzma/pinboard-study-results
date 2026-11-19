@@ -1,0 +1,510 @@
+{
+  "beats": [
+    {
+      "id": "80f21808-9d78-4e27-8aa2-98f7b72662ab",
+      "name": "Beat 1: Countering Overconsumption with Meaningful Objects",
+      "order": 0,
+      "targetDurationSeconds": 18,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "950e8674-3722-490b-9515-990665c5d65c",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "5103dc13-e586-4808-821b-2726b83080bf",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 11.899999999999864,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "notes": "cut after \"wern't bringing them joy\""
+            },
+            {
+              "id": "68cdd304-1b8c-453b-8170-1fcc326396f3",
+              "order": 1,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "8e3b8d4d-6e17-46be-88ea-07c38bad633b",
+              "notes": "go directly into \"extreme fast fashion...\" ",
+              "time": {
+                "positionSeconds": 7.636591478696742,
+                "durationSeconds": 13.047619047619047,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "sourceStartS": 1225.1,
+              "sourceEndS": 1247.2
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "6037b881-b370-4d09-98ab-64e8683b7da8",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Open on a slow vertical pan up of Viviana focused on painting",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 12
+              }
+            },
+            {
+              "id": "1c57f802-256c-47a4-8758-666dab34e471",
+              "order": 1,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "3bc33874-02dc-44ca-9020-93e7cfc67dd7",
+                  "order": 2,
+                  "createdAt": "2026-09-18T22:39:38.299Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "4405a26c-6c17-4d72-8241-ed0c002bab94",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8.699999999999989
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16.599999999999998
+              },
+              "summary": "Raw asset clip footage"
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "f3369f7a-afd5-4abf-ad4c-cac773be3f7d",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "A calm, reflective track begins under natural studio room tone.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 18
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "af658b5a-be3d-47c6-bf35-1ba2078926c0",
+      "name": "Beat 2: Feeling the Artist’s Hand",
+      "order": 1,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "1d0171ac-a246-48eb-bf83-28b69fbd99d4",
+              "order": 0,
+              "createdAt": "2026-09-18T22:42:08.072Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "84c9bbb6-1e6e-49ed-a477-f1b41dcf1286",
+              "time": {
+                "positionSeconds": 1.1052631578947367,
+                "durationSeconds": 8.699999999999932,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "notes": "take out \"hand build something or you wheel throw it\" "
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "6c142453-32c5-4211-8322-e72ab474adbc",
+              "order": 4,
+              "createdAt": "2026-09-18T22:45:31.843Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "b38dd9db-b220-499a-bbd3-d23be8e4b88c",
+                  "order": 0,
+                  "createdAt": "2026-09-18T22:45:15.598Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "4405a26c-6c17-4d72-8241-ed0c002bab94",
+                  "time": {
+                    "positionSeconds": 4.491484142485119,
+                    "durationSeconds": 7.984706333705358
+                  }
+                },
+                {
+                  "id": "ad0a976b-d6db-4146-8941-dd31ee5c3180",
+                  "order": 1,
+                  "createdAt": "2026-09-18T22:40:51.901Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "describe-more",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "621faef6-8afb-4afc-85b2-c04be41dc6ad",
+                  "notes": "start this clip when it is stably framed and keep it until brush is dipped ",
+                  "time": {
+                    "positionSeconds": 6.857142857142858,
+                    "durationSeconds": 6
+                  }
+                },
+                {
+                  "id": "1c0cd80c-ee7d-41de-8ede-6fc84f528da7",
+                  "order": 2,
+                  "createdAt": "2026-09-18T22:46:25.430Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "text",
+                  "row": "b_roll",
+                  "text": "first start with viviana painting then at the moment she reaches to get more paint cut to the footage with the hand palette so it looks like one smooth movement.",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 5.062912713913691,
+                "durationSeconds": 9
+              },
+              "summary": "Match cut from painting to hand palette"
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "ce8dd477-0d2f-4e8d-a849-c9f81924c705",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Music remains soft and contemplative",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "f5007fd8-1b83-434d-ba60-36b114890a23",
+      "name": "Beat 3: Reflective Studio Interlude",
+      "order": 2,
+      "targetDurationSeconds": 17,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "42329a01-50b2-4be8-bb38-ea9e224194aa",
+              "order": 1,
+              "createdAt": "2026-09-18T22:47:50.685Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "c1771688-d185-42ea-a640-0fe561fa5559",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16.5,
+                "durationManuallySet": true,
+                "endBeatId": "ab8ec562-d787-4422-8476-4089766d66b1"
+              },
+              "hasHumanEdit": true,
+              "sourceStartS": 904.6794422490972,
+              "sourceEndS": 923.6
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "5c65b16f-6230-424f-95a4-c3ecdd970143",
+              "order": 3,
+              "createdAt": "2026-09-18T22:50:20.358Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "4a5adf0b-161d-4956-801f-450818a0c2eb",
+                  "order": 0,
+                  "createdAt": "2026-09-18T15:58:13.948Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "4816c5ee-234b-4bbe-9dbd-9977f4f7dfe0",
+                  "notes": "Select the most tactile, meditative segment of clay trimming and handling.",
+                  "time": {
+                    "positionSeconds": 2.736842105263158,
+                    "durationSeconds": 8
+                  }
+                },
+                {
+                  "id": "1309580d-d69d-488f-b16f-7a7c01f209bb",
+                  "order": 1,
+                  "createdAt": "2026-09-18T22:49:19.027Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "55eb1ac7-3de8-4671-8181-07261394c612",
+                  "time": {
+                    "positionSeconds": 10.960156892475329,
+                    "durationSeconds": 3.1999999999999993
+                  }
+                },
+                {
+                  "id": "7d04c401-3468-429b-bab9-7a856ba933ce",
+                  "order": 2,
+                  "createdAt": "2026-09-18T22:50:34.406Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "text",
+                  "row": "b_roll",
+                  "text": "montage when she says \"in society\"",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 4.486472681949013,
+                "durationSeconds": 8.631578947368421
+              },
+              "summary": "Montage clips for in society line"
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "20f788d1-8e50-4bee-beee-d43f16748ff9",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The reflective music swells slightly alongside subtle ambient clay-handling sounds.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 8
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "ab8ec562-d787-4422-8476-4089766d66b1",
+      "name": "Beat 4: Physical Connection and Mud Witch",
+      "order": 3,
+      "targetDurationSeconds": 18,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "161133a1-c201-4667-95b0-fee8db99665d",
+              "order": 0,
+              "createdAt": "2026-09-18T22:51:30.323Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "a5960a28-85e8-48a0-8562-172247ec8823",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 4.2000000000000455,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "bd8f05de-c3f8-410f-af4a-47944e4e83ba",
+              "order": 1,
+              "createdAt": "2026-09-18T22:59:28.515Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "bf172949-0d48-4c65-a8e6-451b4526b626",
+              "time": {
+                "positionSeconds": 6.170956260279606,
+                "durationSeconds": 3.219999999999999,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "a481e2c0-72f6-4d20-8c28-87ac99c98bd1",
+              "order": 6,
+              "createdAt": "2026-09-18T22:54:54.477Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "8161134b-f0ec-443d-a5ce-23a74bb36367",
+                  "order": 0,
+                  "createdAt": "2026-09-18T22:54:41.634Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "192f3dbe-4326-46dc-b07c-2134b3500251",
+                  "time": {
+                    "positionSeconds": 2.8262939453125,
+                    "durationSeconds": 12.7
+                  }
+                },
+                {
+                  "id": "48166e11-226e-4103-bdc9-f901113d63df",
+                  "order": 1,
+                  "createdAt": "2026-09-18T15:58:13.948Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "c262c2c1-a6d5-4019-9663-32d320486351",
+                  "time": {
+                    "positionSeconds": 5.157894736842105,
+                    "durationSeconds": 5.3999999999999995
+                  }
+                },
+                {
+                  "id": "117e7592-3ff0-4d92-b616-94b70025f699",
+                  "order": 2,
+                  "createdAt": "2026-09-18T22:52:52.389Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "6dc01677-9684-4b40-bbac-effe5f392fc1",
+                  "time": {
+                    "positionSeconds": 8.288285104851974,
+                    "durationSeconds": 5.1
+                  }
+                },
+                {
+                  "id": "65f5fa09-3839-4edd-95f5-ca64e3539453",
+                  "order": 3,
+                  "createdAt": "2026-09-18T22:55:20.898Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "text",
+                  "row": "b_roll",
+                  "text": "finish with mudwitdh sign.",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 2.036820261101974,
+                "durationSeconds": 12.578947368421051
+              },
+              "summary": "Sequence finishing on mudwitdh sign"
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "2089f5d7-7d3f-4aea-932b-ff8b8e524557",
+              "order": 0,
+              "createdAt": "2026-09-18T15:58:13.948Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The music gently resolves at the close.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 18
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    }
+  ]
+}

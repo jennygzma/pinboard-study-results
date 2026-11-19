@@ -1,0 +1,63 @@
+{
+  "id": "aea2cadc-891f-47ee-8808-7d189b3a2273",
+  "status": "done",
+  "cardId": "5bb7dd25-13b6-4e8e-87b8-fa1dc6dc38b9",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "80caf274-533b-48f6-8bc4-e7939de4ec18",
+        "rationale": "Shows Viviana using a piping bag to playfully decorate and glaze ceramic dishware."
+      },
+      {
+        "momentId": "81d766be-aea0-43e8-81a4-e548c412b286",
+        "rationale": "Captures close-up glaze spreading on a signature hand-shaped Mud Witch dish."
+      },
+      {
+        "momentId": "00350e1f-509b-4b2d-8f97-06b9d6752c28",
+        "rationale": "Captures a fun, candid studio moment laughing with the crew in the 'splash zone.'"
+      },
+      {
+        "momentId": "5112aa3b-dce0-41ba-87ef-b2c83ff4d9db",
+        "rationale": "Provides a lighthearted moment of Viviana finishing a piece with an indelicate dismount."
+      },
+      {
+        "momentId": "902c1a23-bee6-4d25-bbb1-d24738d0f68f",
+        "rationale": "Shows Viviana laughing authentically about the relatable stress of glazing pottery."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Intercut piping glaze onto dishes with laughing about wheel splatter",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Glaze application close-ups paired with candid studio outtake banter",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Spreading glaze on hand dish followed by playful dismount joke",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Candid studio bloopers and playful wheel moments with crew",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes authentic humor and personality over technical refining footage."
+      },
+      {
+        "text": "Sensory close-ups of delicate piping glaze and fine brushwork",
+        "durationSeconds": 5,
+        "howItDiffers": "Focuses strictly on tactile craftsmanship and visual aesthetic without comedic cuts."
+      },
+      {
+        "text": "Freeform glazing gestures illustrating dialogue about embracing spontaneous flow",
+        "durationSeconds": 6,
+        "howItDiffers": "Ties the glazing process directly to the thematic message of releasing creative rigidity."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The library contains exact matches for both the glazing process and spontaneous, playful studio banter."
+  }
+}

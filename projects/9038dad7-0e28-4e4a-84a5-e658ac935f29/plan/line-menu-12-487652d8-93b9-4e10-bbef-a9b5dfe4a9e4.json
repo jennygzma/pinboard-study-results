@@ -1,0 +1,37 @@
+{
+  "id": "487652d8-93b9-4e10-bbef-a9b5dfe4a9e4",
+  "status": "done",
+  "lineNumber": 12,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut to static shot of stacked bisque-ware on studio metal shelves.",
+        "durationSeconds": 5.4
+      },
+      {
+        "text": "Insert shot of labeled ceramic blocks and unpainted pottery on shelving.",
+        "durationSeconds": 3.6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut to Viviana piping colorful decorative glaze onto dishware.",
+        "durationSeconds": 5,
+        "howItDiffers": "Emphasizes Viviana's colorful, playful process instead of static unpainted raw pieces [[clip: B003C006_240719KM | 4s-14.5s]]."
+      },
+      {
+        "text": "Cut to display shelf lined with pastel mugs and watermelon containers.",
+        "durationSeconds": 4.6,
+        "howItDiffers": "Highlights vibrant, finished contemporary pottery to contrast against traditional pottery books [[clip: B003C050_240719XK | 9.6s-14.2s]]."
+      },
+      {
+        "text": "Cut to close-up of hands shaping raw clay on the pottery wheel.",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Focuses on the tactile physical act of throwing clay rather than static storage shelves [[clip: B003C011_240719YX | 139.5s-148.5s]]."
+      }
+    ],
+    "primaryAction": "generateAlternatives",
+    "primaryActionReason": "The current line is already specific and matched to clip B003C028_240719CX, but exploring alternatives like active colorful glazing or finished pastel pieces may better support Viviana's point about departing from traditional, color-free pottery."
+  }
+}

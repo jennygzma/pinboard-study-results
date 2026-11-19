@@ -1,0 +1,67 @@
+{
+  "id": "2dce3813-b80c-4c15-b563-521304e27190",
+  "status": "done",
+  "cardId": "9381801a-6af2-41cf-81cd-3e4022401adf",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "db118176-73d2-4d28-bfa9-010a7cb409cc",
+        "rationale": "Close-up of the artist's tattooed arm against a soft-focus background, maintaining anonymity while highlighting artistic personality."
+      },
+      {
+        "momentId": "1dbdb672-d3db-44a5-8b6c-d9c7a2245e6e",
+        "rationale": "Over-the-shoulder macro framing showing only the artist's ear and colorful overalls, concealing facial features."
+      },
+      {
+        "momentId": "cdd71b18-a21a-4d4e-83d9-339f09c1043f",
+        "rationale": "Tight framing on a paint-stained apron and torso behind a painted partition to tease the artist's craft without revealing identity."
+      },
+      {
+        "momentId": "e31fb3a6-d8ea-4cd3-870a-48e5d7f01476",
+        "rationale": "Partially obscured silhouette against vibrant studio lighting that creates visual intrigue."
+      },
+      {
+        "momentId": "d5572f18-e19b-4e5b-b4c0-fb816538d9ff",
+        "rationale": "Close-up focused on hands and dripping glaze over a bowl edge, establishing tactile mystery."
+      },
+      {
+        "momentId": "95a13ea6-1587-418a-8bdd-496dada4cd18",
+        "rationale": "Macro detail shot of wet clay spinning between hands without tilting up to the face."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Macro close-ups of hands shaping wet clay on spinning wheel",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Enigmatic cutaways of tattooed arms and paint-splattered studio apron",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Obscured profile and dripping glaze details before the on-camera reveal",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Atmospheric wide pan across colorful studio shelves and finished pottery",
+        "durationSeconds": 5,
+        "howItDiffers": "Builds intrigue through the vibrant studio environment and finished pieces rather than anonymous body cutaways."
+      },
+      {
+        "text": "Punchy close-ups of the Mud Witch studio sign and branding",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on studio identity and brand intrigue rather than tactile craft details."
+      },
+      {
+        "text": "Rhythmic montage of raw clay preparation and tool selection",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes the tactile, gritty preparation phase of pottery rather than abstract visual mystery."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The project footage includes several dedicated b-roll clips specifically framed to obscure the artist's face while highlighting tactile details like tattoos, aprons, and hands at work."
+  }
+}

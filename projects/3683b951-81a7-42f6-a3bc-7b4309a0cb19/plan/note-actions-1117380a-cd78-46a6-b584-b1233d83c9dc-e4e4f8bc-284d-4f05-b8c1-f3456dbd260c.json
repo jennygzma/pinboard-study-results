@@ -1,0 +1,50 @@
+{
+  "id": "e4e4f8bc-284d-4f05-b8c1-f3456dbd260c",
+  "status": "done",
+  "cardId": "1117380a-cd78-46a6-b584-b1233d83c9dc",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "766ec672-7bf7-4bb0-84ba-0e2fe49f7cbd",
+        "rationale": "Captures the full sequence of the staff watching the monitor and immediately rushing to the window."
+      },
+      {
+        "momentId": "e27d26f7-9a9d-4e62-ac08-33290551260b",
+        "rationale": "Shows the crowded desk huddle focused intensely on the live standoff broadcast."
+      },
+      {
+        "momentId": "927969fa-b82d-468e-a35a-442dbc06374e",
+        "rationale": "Covers the payoff action where the group scrambles to the window to watch police cars speed by."
+      },
+      {
+        "momentId": "50fef4f4-bdc6-4b43-b7f7-261727081383",
+        "rationale": "Alternative angle of the entire staff huddled around the monitor."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Desk huddle watching monitor cuts quickly to staff scrambling toward window.",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Hold on crowded screen reaction, then rapid pan as cars pass window.",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Lead with Jim's talking head justifying why the entire office stopped working.",
+        "durationSeconds": 6,
+        "howItDiffers": "Frames the moment through Jim's comedic commentary rather than purely visual ensemble action."
+      },
+      {
+        "text": "Cut directly to the chaotic scramble at the window as sirens pass.",
+        "durationSeconds": 4,
+        "howItDiffers": "Skips the computer monitor setup to maximize instant physical chaos."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Direct footage matches exist in the library covering both the desk huddle and the window rush."
+  }
+}

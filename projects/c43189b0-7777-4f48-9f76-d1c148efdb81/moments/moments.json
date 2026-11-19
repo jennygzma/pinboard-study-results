@@ -1,0 +1,303 @@
+[
+  {
+    "id": "1e1bc7df-ba5f-4c20-90e8-7e7c76557f5a",
+    "videoName": "IMG_6865",
+    "startS": 0,
+    "endS": 12.6,
+    "kind": "broll",
+    "visualSummary": "Climber attempts a move on a climbing wall and falls.",
+    "relevance": "Provides the requested rock climbing clip to start the sequence.",
+    "tags": [
+      "bright_lit",
+      "sharp_focus",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:07:35.028Z"
+  },
+  {
+    "id": "3659d4ec-42c4-487b-ae57-bee6c790db6e",
+    "videoName": "796",
+    "startS": 0,
+    "endS": 20.9,
+    "kind": "broll",
+    "visualSummary": "Woman tells an animated story on a couch amidst laughter.",
+    "relevance": "Directly matches the requested second clip 796.mp4.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:07:35.028Z"
+  },
+  {
+    "id": "31d7cc06-2250-45c6-9d9d-6b69546d13d1",
+    "videoName": "80654591326__1D8CBEB8-1766-45F8-BD8B-924305967670",
+    "startS": 0,
+    "endS": 8,
+    "kind": "broll",
+    "visualSummary": "Hands play a classical melody on a grand piano.",
+    "relevance": "Supplies the piano sound requested to play as 796.mp4 begins.",
+    "tags": [
+      "bright_lit",
+      "sharp_focus"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:07:35.028Z"
+  },
+  {
+    "id": "e0335f4e-567e-457a-824a-240683c1734e",
+    "videoName": "MVI_2049",
+    "startS": 0,
+    "endS": 35.2,
+    "kind": "broll",
+    "visualSummary": "Friends enthusiastically sing Christmas karaoke together in a living room.",
+    "relevance": "Directly matches the requested clip MVI_2049.mov to follow 796.mp4.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:07:35.028Z"
+  },
+  {
+    "id": "d7850502-3914-4e2d-b8bd-76860098af8d",
+    "videoName": "MVI_2989",
+    "startS": 0,
+    "endS": 6.6,
+    "kind": "broll",
+    "visualSummary": "Person attempts a cartwheel and tumbles playfully to the floor.",
+    "relevance": "Serves as the concluding clip MVI_2989.mov as instructed.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:07:35.028Z"
+  },
+  {
+    "id": "64bcb8c0-9164-44fa-b16f-483e36c465a8",
+    "videoName": "MVI_5225",
+    "startS": 9.123464973349938,
+    "endS": 22.723560019688172,
+    "kind": "interview",
+    "relevance": "",
+    "notes": "farmers market",
+    "tags": [],
+    "source": "manual",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:38:06.822Z"
+  },
+  {
+    "id": "653c7858-f815-441c-9c1c-6285fb32da3f",
+    "videoName": "MVI_2715",
+    "startS": 0.07883563887755639,
+    "endS": 12.592021662958894,
+    "kind": "interview",
+    "relevance": "",
+    "notes": "use dialogue",
+    "tags": [],
+    "source": "manual",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:38:59.096Z"
+  },
+  {
+    "id": "64c01b8f-ec87-4455-973c-9965183f5715",
+    "videoName": "IMG_9458",
+    "startS": 10,
+    "endS": 30,
+    "kind": "broll",
+    "visualSummary": "Audience sings along to karaoke and does a coordinated arm-waving dance.",
+    "relevance": "Captures a fun, communal karaoke sing-along moment among friends.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "03d5d01b-af41-4bf4-9b19-ea92095aa36f",
+    "videoName": "MVI_2049",
+    "startS": 0,
+    "endS": 28,
+    "kind": "broll",
+    "visualSummary": "Friends sing holiday karaoke enthusiastically into the camera together.",
+    "relevance": "Energetic, intimate friend group karaoke session in a living room.",
+    "tags": [
+      "sustained_shot_10s",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "e63bb68b-38ca-4c68-ac80-940226bb198c",
+    "videoName": "IMG_6865",
+    "startS": 0,
+    "endS": 12,
+    "kind": "broll",
+    "visualSummary": "A climber falls from a gym wall hold and swings on rope.",
+    "relevance": "Direct match for the rock climbing example requested in the brief.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "2b942dca-886b-4f4d-b71f-b5f5d9741d7d",
+    "videoName": "IMG_0830",
+    "startS": 0,
+    "endS": 18,
+    "kind": "interview",
+    "transcriptExcerpt": "Blow out your candle, Atlas. Make a wish.",
+    "visualSummary": "A young woman laughs and blows out her birthday candle at dinner.",
+    "relevance": "A sweet dining and birthday celebration moment between friends.",
+    "tags": [
+      "bright_lit",
+      "complete_sentence",
+      "no_filler_words",
+      "sharp_focus",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "36b9f822-1692-4cbf-a8d7-5791ef7745ea",
+    "videoName": "MVI_2715",
+    "startS": 0,
+    "endS": 11,
+    "kind": "interview",
+    "transcriptExcerpt": "Okay, I think I need a fork to eat the noodles.",
+    "visualSummary": "Friends chat and reveal a table full of noodle bowls.",
+    "relevance": "Playful banter while eating food together at a restaurant.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "74a520f6-213e-424e-b608-ba948c7e042e",
+    "videoName": "IMG_0859",
+    "startS": 0,
+    "endS": 7,
+    "kind": "broll",
+    "visualSummary": "Dark sauce is poured generously over an omelet at a table.",
+    "relevance": "Appetizing food b-roll to intercut into a friend meal montage.",
+    "tags": [
+      "bright_lit",
+      "sharp_focus"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "9f578e0e-f1e7-41eb-942d-1c9ce73c6912",
+    "videoName": "E991020A-FCF9-4DE1-B0EE-5F8F77A4763B",
+    "startS": 0,
+    "endS": 9,
+    "kind": "interview",
+    "transcriptExcerpt": "She wanted to know what's up to me and why I was truthful.",
+    "visualSummary": "Two young women lie in bed singing playfully and laughing together.",
+    "relevance": "Candid, lighthearted singing and laughing interaction between close friends.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "3a9add2e-f788-48a2-b709-57d50c32da13",
+    "videoName": "MDG_3834",
+    "startS": 18,
+    "endS": 45,
+    "kind": "broll",
+    "visualSummary": "A group of friends gathers on couches posing and taking photos.",
+    "relevance": "Shows lively group hangout and photo-taking camaraderie among friends.",
+    "tags": [
+      "sustained_shot_10s",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "b7d568aa-6e6e-4165-b573-0b54d79b5737",
+    "videoName": "796",
+    "startS": 0,
+    "endS": 16,
+    "kind": "broll",
+    "visualSummary": "A woman tells an animated story on a couch while laughing hysterically.",
+    "relevance": "High-energy comedic hangout moment with contagious friend laughter.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  },
+  {
+    "id": "6f7640bc-6add-41c7-bf42-2feb5ed3dacd",
+    "videoName": "IMG_4316",
+    "startS": 0,
+    "endS": 13,
+    "kind": "broll",
+    "visualSummary": "Friends laugh and react dramatically as one falls onto a gym mat.",
+    "relevance": "Fun, physical play and goofy interaction between friends.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:47:05.659Z"
+  }
+]

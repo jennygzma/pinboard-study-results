@@ -1,0 +1,734 @@
+{
+  "beats": [
+    {
+      "id": "b88a0ecd-3ddd-4411-b46c-ce14fcd70eea",
+      "name": "Beat 1: Hook & The Ceramics Surge",
+      "order": 0,
+      "targetDurationSeconds": 12,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "8e5ebfc3-2e7e-4489-bfcd-6f74ffda8fae",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "9dc55ef6-bf4e-4601-8fd5-56c96b9a7274",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 2.3000000000000007
+              },
+              "notes": "Cut out vocal hesitations and tighten inter-phrase pacing for a fast, clean line rhythm.",
+              "proposedKind": "edit"
+            },
+            {
+              "id": "259b686c-7b63-4102-87e3-d12e0dce0595",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Open on complete silence, then introduce Viviana’s voiceover delivering the opening hook with brisk, tightened pacing: \"I think that it's so easy to desire so many things that we actually don't need.\"",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 3
+              },
+              "proposedKind": "edit"
+            },
+            {
+              "id": "5b597400-c99d-4042-9ec1-9565bd045861",
+              "order": 2,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "3bda6137-51d2-46b2-9309-113a1e5a6273",
+              "time": {
+                "positionSeconds": 3,
+                "durationSeconds": 7.600000000000001
+              },
+              "notes": "Trim filler sounds and dead air to maintain a brisk interview rhythm.",
+              "proposedKind": "edit"
+            },
+            {
+              "id": "c9daf269-e8fc-4935-84e3-d54bd069c630",
+              "order": 3,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Cut abruptly from black as she continues: \"with lockdown, people really sat in their houses and realized that the things that were surrounding them weren't bringing them joy. And I think that's why ceramics has had such a big surge.\"",
+              "time": {
+                "positionSeconds": 3,
+                "durationSeconds": 9
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "9dcf3fad-a83a-44b3-91ed-b30912677de3",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Start on a solid black screen during the entire first line to focus the audience purely on her words.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 3
+              }
+            },
+            {
+              "id": "51b283e4-cba7-4b30-8056-fd53dec80fe6",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "ad8c330d-16d5-4e81-8f26-3d64b703c1ed",
+              "time": {
+                "positionSeconds": 3,
+                "durationSeconds": 5
+              }
+            },
+            {
+              "id": "bcda68ff-53a2-4361-9bdd-085924b87b42",
+              "order": 3,
+              "createdAt": "2026-09-19T01:07:45.741Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "b314ca17-07f7-4506-b79c-f225fddd04aa",
+              "time": {
+                "positionSeconds": 8.33468288845486,
+                "durationSeconds": 3.6653171115451393
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": []
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "7fa5caaa-6ead-4926-a3d3-9f5c043a8c67",
+      "name": "Beat 2: Introduction & Playful Pottery",
+      "order": 1,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "4f2dc757-74ba-4e90-a3e1-91551b68f0b4",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Introduce Viviana as an artist and author, establishing her creative background and her book Playful Pottery.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            },
+            {
+              "id": "6638ae07-a446-4995-aee2-0ba8708e91f2",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "c76d953e-6f2d-4ce6-ac34-1df94a4e699d",
+                  "order": 0,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "momentId": "e553009a-d9df-4275-9663-cef70f4404a5",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 9.599999999999994
+                  },
+                  "row": "a_roll",
+                  "notes": "Edit out any filler noises and tighten the speech rhythm for a quicker delivery.",
+                  "proposedKind": "edit"
+                },
+                {
+                  "id": "7cf5f188-37bc-4082-b40a-46c0195e9548",
+                  "order": 1,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "row": "a_roll",
+                  "momentId": "363e0c4a-e1f9-4a1c-b4fc-fd9dbe2e34d7",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  },
+                  "notes": "Cut internal pauses and verbal hesitations to speed up line delivery.",
+                  "proposedKind": "edit"
+                }
+              ],
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 9.599999999999994
+              },
+              "summary": "Supporting asset and archival footage"
+            },
+            {
+              "id": "0bed349e-ca31-4d0b-a6f3-0a481160ed0c",
+              "order": 2,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Cut to on-camera interview framing as Viviana introduces herself and outlines the journey of writing her book",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 8
+              }
+            },
+            {
+              "id": "beca0fe8-9010-4180-a002-d7f9fcfebd72",
+              "order": 4,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "continuing with her discussion of the book's purpose",
+              "time": {
+                "positionSeconds": 8,
+                "durationSeconds": 8
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "c574b609-25b8-4e42-bc3a-379f1aa2615f",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "c6fb45b8-6c2e-4962-852e-4279a396b081",
+              "time": {
+                "positionSeconds": 8,
+                "durationSeconds": 2.299999999999999
+              }
+            },
+            {
+              "id": "3f81c359-76f7-4c30-8e8b-5ae67290af8e",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Cut to close-up details of her book and showcase finished colorful ceramics around the studio",
+              "time": {
+                "positionSeconds": 8,
+                "durationSeconds": 8
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "3f02b288-0afb-45b9-be4e-2c2a1b716638",
+              "order": 0,
+              "createdAt": "2026-09-19T01:20:00.554Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "5cb1dc2d-1ead-4aa4-b2e7-6f3d74296d91",
+              "time": {
+                "positionSeconds": 1.5555555555555556,
+                "durationSeconds": 47.01398044162327,
+                "durationManuallySet": true,
+                "endBeatId": "86a9f85d-0e5b-4bce-9fe2-935e9c0c526c"
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "36fd7ef6-0210-47b7-bcf0-673295be06f5",
+              "order": 1,
+              "createdAt": "2026-09-19T01:20:55.544Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "text",
+              "text": "starts when she starts to talk about her book",
+              "time": {
+                "positionSeconds": 2.9451192220052085,
+                "durationSeconds": 10.11111111111111
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "8185ca87-bdc9-4875-8ac7-837edb37e88b",
+      "name": "Beat 3: Creativity, Kindness & Tactile Joy",
+      "order": 2,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "6fca4938-4c10-457e-8a04-38e7aa184db8",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Explore the core theme of the book—how hands-on craft fosters self-kindness and reconnects people to creative intuition.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            },
+            {
+              "id": "51a27f75-b9d4-4941-8e82-97e270b6d13a",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "700ced05-97e0-4313-bd1f-a2f74fca8fce",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 10
+              },
+              "notes": "Cut out 'um' and vocal pauses to tighten the line pacing and keep the rhythm fast.",
+              "proposedKind": "edit"
+            },
+            {
+              "id": "5ac04f92-7f09-4a8b-86ff-8e2fd9a090dd",
+              "order": 2,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Viviana speaks about the role of kindness and patience in clay-making, emphasizing process over perfection",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "c98a2a4c-9e6f-4571-9846-24d991d358c4",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "fe3db68e-1f03-4b10-bf28-5c07417bdf8a",
+                  "order": 0,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "b9b88cb1-c8f4-4f98-8608-c1d11f647899",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  }
+                },
+                {
+                  "id": "deb8e32b-941d-4fbd-92ea-48f6a75a49ec",
+                  "order": 1,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "ec5a0189-30f5-4b78-a87d-2aab311e74b5",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 8
+                  }
+                },
+                {
+                  "id": "e4dd0379-137f-4e1c-9677-ace85a0bbd21",
+                  "order": 2,
+                  "createdAt": "2026-09-19T01:09:06.250Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "dfd676ab-2b3b-4f74-93ed-b654a9f41b09",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 25
+                  }
+                },
+                {
+                  "id": "8450eaa7-4966-4229-babe-4167d0b575a1",
+                  "order": 3,
+                  "createdAt": "2026-09-19T01:09:06.253Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "3e2469fe-5c66-4b8d-bbbf-08d5c34ef1d0",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 9.099999999999994
+                  }
+                },
+                {
+                  "id": "13cd7948-fba1-41b1-a837-60e770a25267",
+                  "order": 4,
+                  "createdAt": "2026-09-19T01:09:06.255Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "78f836d5-6892-4bb9-af7c-d0fd4e0634e9",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 7.899999999999999
+                  }
+                },
+                {
+                  "id": "1688e7d3-e583-4a50-b7a5-3724ed179db2",
+                  "order": 5,
+                  "createdAt": "2026-09-19T01:09:06.257Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "f3598bdb-3398-4dc8-a29e-0abeb630b9e4",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 7
+                  }
+                },
+                {
+                  "id": "f3bdcee0-94b6-4780-bbb8-845ea4cbb36a",
+                  "order": 6,
+                  "createdAt": "2026-09-19T01:09:06.259Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "4c69869a-4707-425a-972e-e5c89b82ab59",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 12.7
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              },
+              "summary": "Asset footage and media clips"
+            },
+            {
+              "id": "97635463-9148-4049-8371-12dc0402283d",
+              "order": 1,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "a middle-paced intercut of different hand-movements",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": []
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "86a9f85d-0e5b-4bce-9fe2-935e9c0c526c",
+      "name": "Beat 4: Spontaneity & Growth",
+      "order": 3,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "14b95b7f-df5d-42c4-8a13-5269765d8e6c",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Deliver an inspiring concluding message encouraging creators to stay spontaneous, let go of rigidity, and embrace organic flow.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            },
+            {
+              "id": "c8b7c037-d7f6-437a-80de-30fa37c4cd95",
+              "order": 2,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Viviana discusses releasing creative expectations",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 5
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "e5dd9119-876c-4262-9092-143ff70d3799",
+              "order": 4,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "concluding with the final takeaway on creative freedom: \"...just letting yourself adjust, grow whatever ideas...\"",
+              "time": {
+                "positionSeconds": 5,
+                "durationSeconds": 11
+              }
+            },
+            {
+              "id": "513a3f74-7ae8-46a2-927e-4a0a997e1899",
+              "order": 5,
+              "createdAt": "2026-09-19T01:16:49.183Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "1e8f7ac9-0ab1-47a7-91c1-2bcfbfe4c88e",
+              "time": {
+                "positionSeconds": 6.556803385416668,
+                "durationSeconds": 9.443196614583334,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "notes": "Trim pauses and filler sounds to make the interview cadence faster and more dynamic.",
+              "proposedKind": "edit"
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "578dd08f-1ca3-44fa-981b-9e4bdf5a7add",
+              "order": 0,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "fa92f74d-4870-4322-8a98-77cf56404d5b",
+                  "order": 0,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "31a15cd8-377d-4bbb-aa68-359284f58a37",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 6
+                  }
+                },
+                {
+                  "id": "03c75536-1550-4b2c-96c4-7e10debfaf79",
+                  "order": 1,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "9f02eb8f-3ac2-467a-8dd3-60d8889de7f1",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 6
+                  }
+                },
+                {
+                  "id": "902e5d76-87bf-4c95-b60d-10208cf14e62",
+                  "order": 2,
+                  "createdAt": "2026-09-19T01:12:54.304Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "describe-more",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "5112aa3b-dce0-41ba-87ef-b2c83ff4d9db",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 13.319999999999993
+                  }
+                },
+                {
+                  "id": "e1c45b7e-7006-45ed-b451-921c993bb57c",
+                  "order": 3,
+                  "createdAt": "2026-09-19T01:12:54.316Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "describe-more",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "902c1a23-bee6-4d25-bbb1-d24738d0f68f",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 13.660000000000025
+                  }
+                },
+                {
+                  "id": "07e47a22-6726-466c-8578-6f78759bab80",
+                  "order": 4,
+                  "createdAt": "2026-09-19T01:13:45.819Z",
+                  "status": "confirmed",
+                  "originatedBy": "human",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "0f621522-8eb7-4906-b7a4-e0aaaa43b905",
+                  "time": {
+                    "positionSeconds": 1.4464653862847223,
+                    "durationSeconds": 1.9000000000000004
+                  }
+                },
+                {
+                  "id": "5bb7dd25-13b6-4e8e-87b8-fa1dc6dc38b9",
+                  "order": 5,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "hasHumanEdit": true,
+                  "kind": "text",
+                  "row": "b_roll",
+                  "text": "Viviana refining and glazing pieces in the studio and showing playful studio moments",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 12
+                  }
+                },
+                {
+                  "id": "2b434c29-e446-447b-8b0f-1e19b6d36d82",
+                  "order": 6,
+                  "createdAt": "2026-09-18T23:58:19.019Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "initial",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "fdce9cc4-8680-4f97-947d-8450474975c5",
+                  "time": {
+                    "positionSeconds": 12,
+                    "durationSeconds": 3.299999999999997
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 12
+              },
+              "summary": "Viviana glazing and finishing pottery"
+            },
+            {
+              "id": "215004d0-aabb-41fb-97af-1c4ffa15cc69",
+              "order": 3,
+              "createdAt": "2026-09-18T23:58:19.019Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Fade visuals to a warm, gentle hold on a completed ceramic piece as the dialogue concludes.",
+              "time": {
+                "positionSeconds": 12,
+                "durationSeconds": 4
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": []
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    }
+  ]
+}

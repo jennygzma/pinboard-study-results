@@ -1,0 +1,698 @@
+{
+  "schema": "nami-evidence-reconstruction-v1",
+  "reconstructedAt": "2026-10-08T15:29:09.196Z",
+  "deletedProjectId": "6ac1ceac-fe6c-49ae-b8d0-d329a0857212",
+  "deletedProjectName": "ryan task 2 4.6 sonnet",
+  "sources": {
+    "recording": "/Users/jennym/Desktop/ryan reconstructed .mov",
+    "clipFile": "/Users/jennym/Downloads/mudwitch-selected-clips (1) (4).jsonl"
+  },
+  "warning": "NOT ORIGINAL RECOVERED DATA. This is a partial visual reconstruction with an INFERRED interaction log requested by the user. Original card IDs, exact timestamps, hidden text, source trims and much group membership are unavailable. Unknown footage is represented as text placeholders. All inferred events carry confidence and evidence; timestamps are reconstruction-order markers, not original event times.",
+  "recordingDurationSeconds": 429.98712,
+  "chronology": "The recording is an edited montage. Use visible on-screen clock times; playback order is not chronological.",
+  "projects": [
+    {
+      "state": "original",
+      "id": "672ef475-c985-4ecb-b952-6980520f563a",
+      "url": "http://localhost:3000/672ef475-c985-4ecb-b952-6980520f563a"
+    },
+    {
+      "state": "latest-visible",
+      "id": "317e6e3c-241f-423c-ac8c-ffcb9232ac70",
+      "url": "http://localhost:3000/317e6e3c-241f-423c-ac8c-ffcb9232ac70"
+    }
+  ],
+  "countsMeaning": "The Interactions page includes inferred events. Its counts are estimates based on guessed histories and unresolved placeholders, NOT recovered study metrics.",
+  "evidence": {
+    "original:reconstructed-intro": {
+      "snapshot": "original",
+      "cardId": "reconstructed-intro",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "Source range confirmed by the provided introduction-card popover: 14–25s.",
+      "sourceRange": [
+        14,
+        25
+      ]
+    },
+    "original:reconstructed-intro-tone": {
+      "snapshot": "original",
+      "cardId": "reconstructed-intro-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-intro-quiet": {
+      "snapshot": "original",
+      "cardId": "reconstructed-intro-quiet",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "original:reconstructed-origins-broll-1": {
+      "snapshot": "original",
+      "cardId": "reconstructed-origins-broll-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-origins-broll-2": {
+      "snapshot": "original",
+      "cardId": "reconstructed-origins-broll-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-origins-broll": {
+      "snapshot": "original",
+      "cardId": "reconstructed-origins-broll",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "original:reconstructed-sign-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-sign-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-ceramics-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-ceramics-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-creative-interview": {
+      "snapshot": "original",
+      "cardId": "reconstructed-creative-interview",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        501.6,
+        521.3
+      ]
+    },
+    "original:reconstructed-origins-voiceover": {
+      "snapshot": "original",
+      "cardId": "reconstructed-origins-voiceover",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text in later recording checkpoint"
+    },
+    "original:reconstructed-origins-tone": {
+      "snapshot": "original",
+      "cardId": "reconstructed-origins-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "original:reconstructed-value-broll-1": {
+      "snapshot": "original",
+      "cardId": "reconstructed-value-broll-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-value-broll-2": {
+      "snapshot": "original",
+      "cardId": "reconstructed-value-broll-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-value-broll": {
+      "snapshot": "original",
+      "cardId": "reconstructed-value-broll",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "original:reconstructed-clay-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-clay-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "original:reconstructed-mugs-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-mugs-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-original-value-interview": {
+      "snapshot": "original",
+      "cardId": "reconstructed-original-value-interview",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-reflective-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-reflective-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text in original A-Roll row, not initially Music"
+    },
+    "original:reconstructed-value-tone": {
+      "snapshot": "original",
+      "cardId": "reconstructed-value-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "original:reconstructed-outro-original-broll": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-original-broll",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-outro-ceramics-instruction": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-ceramics-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "complete wording recovered from later text-card editor; initial wording not fully visible"
+    },
+    "original:reconstructed-outro-original-1": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-original-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-outro-original-2": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-original-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "original:reconstructed-outro-original-group": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-original-group",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "original:reconstructed-outro-joy": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-joy",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-outro-smile": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-smile",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "original:reconstructed-outro-tone": {
+      "snapshot": "original",
+      "cardId": "reconstructed-outro-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-intro": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-intro",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "Source range confirmed by introduction popover; note added by AI is visible.",
+      "sourceRange": [
+        14,
+        25
+      ]
+    },
+    "latest-visible:reconstructed-intro-tone": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-intro-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-intro-quiet": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-intro-quiet",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-intro-unreadable-note": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-intro-unreadable-note",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown wording; placeholder"
+    },
+    "latest-visible:reconstructed-dreamy-upbeat": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-dreamy-upbeat",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "dreamy_upbeat name and 182.7s catalog duration visible at 4:54 PM; timeline span approximate"
+    },
+    "latest-visible:reconstructed-origins-broll-1": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-broll-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-origins-broll-2": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-broll-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-origins-broll-3": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-broll-3",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-origins-broll": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-broll",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "latest-visible:reconstructed-sign-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-sign-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-ceramics-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-ceramics-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-origins-voiceover": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-voiceover",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text in intermediate checkpoint"
+    },
+    "latest-visible:reconstructed-origins-tone": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-origins-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-body-positive": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-body-positive",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "Source start 668.9s is visible in an intermediate popover; export provides the 682.5s end.",
+      "sourceRange": [
+        668.9,
+        682.5
+      ]
+    },
+    "latest-visible:reconstructed-body-shapes": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-body-shapes",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        682.6,
+        693.9
+      ]
+    },
+    "latest-visible:reconstructed-style-fun": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-style-fun",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        747.2,
+        753.7
+      ]
+    },
+    "latest-visible:reconstructed-value-broll-1": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-value-broll-2": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-value-broll-3": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll-3",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-value-broll-4": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll-4",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-value-broll-5": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll-5",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-value-broll": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-broll",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "latest-visible:reconstructed-clay-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-clay-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-mugs-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-mugs-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-cut-to-talking": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-cut-to-talking",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-value-tone": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-value-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text"
+    },
+    "latest-visible:reconstructed-physical-connection": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-physical-connection",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        892.3,
+        897.1
+      ]
+    },
+    "latest-visible:reconstructed-artists-hand": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-artists-hand",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        897.6,
+        906.3
+      ]
+    },
+    "latest-visible:reconstructed-human-disconnection": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-human-disconnection",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "Visible filename, 907s start label and 16.5s duration match this exported clip.",
+      "sourceRange": [
+        907.1,
+        923.6
+      ]
+    },
+    "latest-visible:reconstructed-reflective-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-reflective-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text; relocation to Music is directly visible"
+    },
+    "latest-visible:reconstructed-outro-ceramics-instruction": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-ceramics-instruction",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "complete wording visible in text-card editor at 4:45 PM"
+    },
+    "latest-visible:reconstructed-outro-slow-smile": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-slow-smile",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        2.8,
+        8
+      ]
+    },
+    "latest-visible:reconstructed-outro-whimsical-1": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical-1",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-outro-whimsical-2": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical-2",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-outro-whimsical-3": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical-3",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-outro-whimsical-4": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical-4",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-outro-whimsical-5": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical-5",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "unknown source; text placeholder, not recovered footage"
+    },
+    "latest-visible:reconstructed-outro-whimsical": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-whimsical",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "summaryEvidence": "visible group summary",
+      "membershipEvidence": "known members or explicitly labeled placeholders"
+    },
+    "latest-visible:reconstructed-outro-smile": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-smile",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-outro-make-smile": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-make-smile",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "sourceEvidence": "INFERRED source match from the selected-clip export and visible filename/duration; placement is not an original saved value.",
+      "sourceRange": [
+        756,
+        762
+      ]
+    },
+    "latest-visible:reconstructed-outro-joy": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-joy",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible text; may be truncated"
+    },
+    "latest-visible:reconstructed-outro-tone": {
+      "snapshot": "latest-visible",
+      "cardId": "reconstructed-outro-tone",
+      "placement": "approximate; reconstructed from visible ruler and card widths",
+      "originalCardId": null,
+      "originalActor": null,
+      "textEvidence": "visible complete text; extends beyond 13s planned beat as seen on screen"
+    }
+  },
+  "history": [
+    {
+      "clock": "4:18 PM",
+      "classification": "observed state",
+      "actor": "unknown",
+      "evidence": "detail-01.png; recording offset 0s",
+      "description": "Four original beats with planned durations approximately 10/15/20/15s. Supporting asset footage and Assorted asset footage clips each have 2 children; Project asset footage has 2 children. Reflective-music instruction is in A-Roll."
+    },
+    {
+      "clock": "about 4:19–4:21 PM",
+      "classification": "observed AI proposal; exact acceptance timing unknown",
+      "actor": "AI",
+      "evidence": "overview contact sheets and user-provided edited-card screenshot",
+      "description": "Ask AI instruction \"remove all ums\" is visible. Two interview cards display edited proposals. Introduction note says to cut the \"um\" filler words for a clean, direct delivery. This proves a note/proposal, not actual audio removal."
+    },
+    {
+      "clock": "4:28–4:40 PM",
+      "classification": "observed additions and rearrangement; individual action sequence incomplete",
+      "actor": "user for directly visible drag/add gestures; otherwise unknown",
+      "evidence": "contact-01.jpg; contact-02.jpg; detail-02.png; detail-03.png; proposal-210.png",
+      "description": "Additional interview clips appear in Beats 2 and 3. Popover identifies source 668.9–682.5s. The added cards overlap initially, then are rearranged. Supporting group has 3 members and is renamed Asset footage and cutaways. Reflective instruction moves to Music. Do not treat every preview selection as an insertion."
+    },
+    {
+      "clock": "4:44–4:48 PM",
+      "classification": "observed state changes",
+      "actor": "unknown unless a direct gesture is visible",
+      "evidence": "contact-04.jpg; detail-06.png; late-325.png",
+      "description": "Beat durations increase to about 32s and 31s. The pottery-value interview is arranged as three adjacent clips. \"Cut briefly to colorful finished pottery in the studio.\" is visible in the text editor. Outro footage is moved between A-Roll and B-Roll."
+    },
+    {
+      "clock": "4:49 PM",
+      "classification": "observed state",
+      "actor": "unknown",
+      "evidence": "detail-07.png",
+      "description": "Beat 3 group is Montage of her making things (5 members), with a new \"cut to her talking here\" note. Slow-smile footage is on B-Roll. Ending group conversion/expansion follows in later excerpts."
+    },
+    {
+      "clock": "4:51 PM",
+      "classification": "observed group state",
+      "actor": "unknown; suggestion versus final attribution not recoverable",
+      "evidence": "late-395.png; user-provided final screenshots",
+      "description": "Outro group is Whimsical ceramic figurines on display, 5 members, duration 8s; popover says its clips total 26s. One child visibly references B003C050_240719XK around 20–27s. This range is not present in the supplied clip export. Earlier screenshot shows a 3-member B-roll group, so it is an intermediate state, not the last visible state."
+    },
+    {
+      "clock": "4:52 PM",
+      "classification": "observed requirements, not proof of completed edits",
+      "actor": "unknown",
+      "evidence": "detail-04.png",
+      "description": "Task 2 notes require the introduction without music, a Mud Witch sign transition with upbeat music, calm_reflective for pottery value, and a smile/giggle ending. Notes also mention pauses between A-Roll and Viviana’s dream of being a full-time artist. These requirements do not prove corresponding edits happened."
+    },
+    {
+      "clock": "4:53–4:54 PM",
+      "classification": "observed latest composite state",
+      "actor": "unknown for music insertion",
+      "evidence": "contact-05.jpg; latest-425.png",
+      "description": "A Music note says \"start music after intro during this pause\". At 4:54 dreamy_upbeat is placed after the introduction with an approximately 34s cross-beat timeline span. Latest visible beat estimates are about 14/32/31/13s. Last view hides Beat 4 to the right; its reconstruction uses the last visible 4:51 checkpoint, so the snapshot is composite, not a single recovered saved state."
+    }
+  ],
+  "inferredLog": {
+    "originalEvents": 27,
+    "latestEvents": 70,
+    "confidenceCounts": {
+      "medium": 37,
+      "low": 28,
+      "high": 5
+    },
+    "policy": "Baseline AI origins are guesses. New direct additions and moves are inferred user actions. Unknown removals retain an unknown actorConfidence despite the schema-required user actor. No acceptance events are invented. Absent originals may actually be hidden or replaced. Synthetic timestamps are generated now for ordering, not recovered historical timestamps."
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "beats": [
+    {
+      "id": "c7c75780-9b99-4ae4-931b-ecbecbe8ce6a",
+      "name": "Beat 1: Opening Leap (0:00–0:10)",
+      "order": 0,
+      "targetDurationSeconds": 10,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": []
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "d155dd2e-ae01-4418-89f7-742037c472a9",
+              "order": 0,
+              "createdAt": "2026-10-04T19:39:54.195Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "64bcb8c0-9164-44fa-b16f-483e36c465a8",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 9.200095046338234,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "794db61b-f889-4a23-9ead-c122c73a8d10",
+              "order": 1,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "b5891360-0057-4a12-b4b3-36e877496b11",
+              "notes": "Play music bed under the karaoke scene.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 59.63333333333334,
+                "endBeatId": "a2bd217b-dade-4a17-911b-f045a5306b2d",
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "8d881255-f21d-4e72-8bf5-7088ae8369fe",
+              "order": 2,
+              "createdAt": "2026-10-04T19:45:51.184Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "text",
+              "text": "keep music low",
+              "time": {
+                "positionSeconds": 0.3009246826171875,
+                "durationSeconds": 51.03333333333333,
+                "endBeatId": "23b0a57e-4180-4546-8a13-6b69bea38a28"
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "a76f824b-d3ee-456f-8069-320c91b6dd64",
+      "name": "Beat 2: Warm Conversations & Piano Melody (0:10–0:28)",
+      "order": 1,
+      "targetDurationSeconds": 18,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "a45587bc-52ef-4d01-8f40-e9a98a23c2a8",
+              "order": 0,
+              "createdAt": "2026-10-04T19:43:19.589Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "653c7858-f815-441c-9c1c-6285fb32da3f",
+              "time": {
+                "positionSeconds": 11.001262318004262,
+                "durationSeconds": 12.513186024081337,
+                "durationManuallySet": true,
+                "endBeatId": "23b0a57e-4180-4546-8a13-6b69bea38a28"
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "5b306145-d29c-462d-a410-2570870a7ea5",
+              "order": 1,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "3659d4ec-42c4-487b-ae57-bee6c790db6e",
+              "notes": "Trim source from 20.9s to 18s to fit the beat duration.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 11.63957768674017,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "sourceStartS": 9.260422313259829,
+              "sourceEndS": 20.9
+            },
+            {
+              "id": "11dd97e4-8c3e-439c-b605-9c402fbd0465",
+              "order": 3,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Purpose & Mood: Builds emotional warmth, highlighting close bonds and quiet, reflective peace.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 18
+              }
+            },
+            {
+              "id": "59f949c2-ad82-484b-a295-f074ca5c29e9",
+              "order": 4,
+              "createdAt": "2026-10-04T19:47:17.703Z",
+              "status": "confirmed",
+              "proposedKind": "add",
+              "originatedBy": "ai",
+              "aiSource": "assistance",
+              "kind": "text",
+              "text": "Cut a fast-paced montage highlighting vibrant friend interactions, jumping briskly from singing karaoke to eating noodles together and climbing at the gym.",
+              "time": {
+                "positionSeconds": 11.772727272727273,
+                "durationSeconds": 6.227272727272727,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "fa1229fd-63fe-4c97-89d7-8532758d3737",
+              "order": 8,
+              "createdAt": "2026-10-04T19:48:12.699Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "group",
+              "children": [
+                {
+                  "id": "e49caccc-7d9d-4a1f-a78f-e616e0e85e34",
+                  "order": 0,
+                  "createdAt": "2026-10-04T19:47:17.703Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "assistance",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "36b9f822-1692-4cbf-a8d7-5791ef7745ea",
+                  "notes": "Show the table full of noodle bowls and playful friend banter over food.",
+                  "time": {
+                    "positionSeconds": 6,
+                    "durationSeconds": 6
+                  }
+                },
+                {
+                  "id": "72fb8aa9-076a-47c8-a41d-d445aa309acb",
+                  "order": 1,
+                  "createdAt": "2026-10-04T19:47:17.703Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "assistance",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "64c01b8f-ec87-4455-973c-9965183f5715",
+                  "notes": "Highlight the group singing along and doing coordinated dance moves at karaoke.",
+                  "time": {
+                    "positionSeconds": 0,
+                    "durationSeconds": 6
+                  }
+                },
+                {
+                  "id": "bcf8a53e-6e0e-4e10-b773-77ffeb351273",
+                  "order": 2,
+                  "createdAt": "2026-10-04T19:47:17.703Z",
+                  "status": "confirmed",
+                  "originatedBy": "ai",
+                  "aiSource": "assistance",
+                  "hasHumanEdit": true,
+                  "kind": "asset",
+                  "row": "b_roll",
+                  "momentId": "e63bb68b-38ca-4c68-ac80-940226bb198c",
+                  "notes": "Feature the climber slipping from the gym hold and swinging safely on the rope.",
+                  "time": {
+                    "positionSeconds": 12,
+                    "durationSeconds": 6
+                  }
+                }
+              ],
+              "time": {
+                "positionSeconds": 11.728535045276987,
+                "durationSeconds": 6.181818181818182,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true,
+              "summary": "Montage of social and recreational activities"
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": []
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "23b0a57e-4180-4546-8a13-6b69bea38a28",
+      "name": "Beat 3: Communal Celebration (0:28–0:52)",
+      "order": 2,
+      "targetDurationSeconds": 24,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": []
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "c702e106-a736-4b95-ac30-bca961ec1048",
+              "order": 0,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "e0335f4e-567e-457a-824a-240683c1734e",
+              "notes": "Trim source from 35.2s to 24s to capture the best singing moments.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 24
+              }
+            },
+            {
+              "id": "4031929a-9d0b-4bc2-a79f-15c024dbbd3e",
+              "order": 1,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Transition into the memory of friends enthusiastically singing Christmas karaoke together in a living room.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 24
+              }
+            },
+            {
+              "id": "c1055670-61c9-4cae-9b3b-9b5b00514a9b",
+              "order": 2,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Purpose & Mood: Captures uninhibited joy and togetherness, serving as the emotional peak of the high school memory sequence.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 24
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": []
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "a2bd217b-dade-4a17-911b-f045a5306b2d",
+      "name": "Beat 4: Playful Fall & Resolution (0:52–1:00)",
+      "order": 3,
+      "targetDurationSeconds": 8,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": []
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "fc7b2c25-522f-4711-89aa-572b77206f75",
+              "order": 0,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "d7850502-3914-4e2d-b8bd-76860098af8d",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 6.6
+              }
+            },
+            {
+              "id": "19f839d4-1d0c-4fd6-8af1-5cbb9f3def86",
+              "order": 1,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Conclude the piece with a friend attempting a cartwheel and tumbling playfully to the floor amidst dialogue and laughter.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 6.6
+              }
+            },
+            {
+              "id": "dcb9fe32-53c0-4681-b1b7-98a6e202a3ca",
+              "order": 2,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Purpose & Mood: Delivers a lighthearted, bittersweet farewell that leaves the viewer with a sense of comfort and fond reflection.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 8
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "16cf2675-c405-4423-93fb-1258c90c5b5c",
+              "order": 0,
+              "createdAt": "2026-10-03T21:18:04.912Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Let the final laughter and gentle music trail off into silence over a slow fade to black.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 8
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    }
+  ]
+}

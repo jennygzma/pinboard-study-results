@@ -1,0 +1,59 @@
+{
+  "id": "75517d28-5023-490d-9e6b-cdfc0748d96e",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "77b09b4a-a465-44cd-b8bc-fd6cd7e0c651",
+        "rationale": "Viviana explicitly discusses kindness to oneself, rolling with the punches, and embracing flexibility when designs change."
+      },
+      {
+        "momentId": "e9b11905-d737-473b-bc72-27b206b3a380",
+        "rationale": "A concise soundbite where Viviana articulates how flexibility and self-kindness lead to outcomes better than the original plan."
+      },
+      {
+        "momentId": "dfe889c9-3199-4025-8f59-d79c95cd8ac2",
+        "rationale": "Viviana frames sitting at the pottery wheel as a low-stakes experimentation session for testing and growing ideas."
+      },
+      {
+        "momentId": "85adf98f-30b5-4301-b36c-dde63993c8c0",
+        "rationale": "Viviana explains using warm-ups to get into the creative flow and keep moving instead of stalling."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana explains being kind to yourself and rolling with design punches",
+        "durationSeconds": 14
+      },
+      {
+        "text": "Viviana describes wheel warm-ups as low-stakes experimental sessions",
+        "durationSeconds": 12
+      },
+      {
+        "text": "Viviana discusses keeping clay moving to enter a creative flow state",
+        "durationSeconds": 10
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana challenges the pressure creative people feel to constantly produce",
+        "durationSeconds": 12,
+        "howItDiffers": "Shifts the emphasis from hands-on experimentation to critiquing external artistic pressures."
+      },
+      {
+        "text": "Viviana explains using physical warm-ups to overcome creative blank-canvas paralysis",
+        "durationSeconds": 10,
+        "howItDiffers": "Focuses on the practical routine of breaking creative block rather than abstract artistic philosophy."
+      },
+      {
+        "text": "Viviana highlights how unexpected design mistakes create superior final pieces",
+        "durationSeconds": 13,
+        "howItDiffers": "Focuses on the serendipitous outcome of accidents rather than the mental flow state."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple strong interview soundbites directly match Viviana's philosophy of creative flow, self-kindness, and low-stakes experimentation."
+  }
+}

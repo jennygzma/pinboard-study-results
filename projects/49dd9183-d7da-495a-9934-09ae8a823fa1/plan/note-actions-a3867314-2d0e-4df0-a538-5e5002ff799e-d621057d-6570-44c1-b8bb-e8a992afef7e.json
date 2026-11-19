@@ -1,0 +1,38 @@
+{
+  "id": "d621057d-6570-44c1-b8bb-e8a992afef7e",
+  "status": "done",
+  "cardId": "a3867314-2d0e-4df0-a538-5e5002ff799e",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut audio and hit Vine boom on kick contact frame.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Bass-heavy Vine boom on Giorgos kicking Sotos, then resume music.",
+        "durationSeconds": 2
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Hit Hell's Kitchen dramatic violin screech on the kick impact.",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Replaces the bass drop with a high-pitched reality TV tension sting."
+      },
+      {
+        "text": "Trigger a bass-boosted reverb sound effect on kick impact.",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Leans into over-the-top distorted low-end comedy instead of the classic Vine boom."
+      },
+      {
+        "text": "Hard cut to dead silence on the kick, resuming on grab.",
+        "durationSeconds": 1.2,
+        "howItDiffers": "Uses sudden silence for comedic timing rather than an added meme SFX."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The exact 'Vine boom' sound effect asset needed for this cue is already available in your sound library."
+  }
+}

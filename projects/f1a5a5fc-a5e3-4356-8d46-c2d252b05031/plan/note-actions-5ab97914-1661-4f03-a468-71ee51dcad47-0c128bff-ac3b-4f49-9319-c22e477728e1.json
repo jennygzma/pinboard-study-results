@@ -1,0 +1,55 @@
+{
+  "id": "0c128bff-ac3b-4f49-9319-c22e477728e1",
+  "status": "done",
+  "cardId": "5ab97914-1661-4f03-a468-71ee51dcad47",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "038fe256-d6bd-4229-854e-ddcf5e2b0ee6",
+        "rationale": "Directly captures a focused, tactile close shot of a person holding and inspecting a finished ceramic bowl."
+      },
+      {
+        "momentId": "765e900f-d13f-4e1f-9616-d1530a783792",
+        "rationale": "Shows hands touching and examining various finished ceramic pieces along studio shelving."
+      },
+      {
+        "momentId": "425c9406-8231-4b9e-9ea0-1d619336e14e",
+        "rationale": "Close-up movement of a hand reaching out to touch and handle finished ceramic dishes."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Close-up of hands holding and turning a finished ceramic bowl",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Hand reaching toward and touching finished ceramic dishes on table",
+        "durationSeconds": 3.5
+      },
+      {
+        "text": "Hands browsing and inspecting finished ceramics on studio shelf",
+        "durationSeconds": 4.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Close-up spreading glaze across the hand-shaped palette dish",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes the literal hand-shaped ceramic tool rather than handling finished bowls."
+      },
+      {
+        "text": "Close shot of hands shaping wet clay on wheel",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Highlights tactile connection during the raw making process rather than finished pieces."
+      },
+      {
+        "text": "Slow pan across shelves of finished pottery to studio sign",
+        "durationSeconds": 5,
+        "howItDiffers": "Frames finished pottery as a gallery collection leading into the final brand sign instead of isolated hand contact."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The library contains multiple exact B-roll clips of hands holding, inspecting, and reaching for finished ceramics ready to place on the timeline."
+  }
+}

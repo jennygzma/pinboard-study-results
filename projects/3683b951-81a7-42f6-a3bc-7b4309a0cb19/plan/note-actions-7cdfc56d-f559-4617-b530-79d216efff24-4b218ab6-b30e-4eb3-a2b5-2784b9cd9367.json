@@ -1,0 +1,38 @@
+{
+  "id": "4b218ab6-b30e-4eb3-a2b5-2784b9cd9367",
+  "status": "done",
+  "cardId": "7cdfc56d-f559-4617-b530-79d216efff24",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "50ccdc3b-794b-4c6e-8573-1b30de590684",
+        "rationale": "Direct match showing Michael holding a jar of street gravel while imagining telling his future grandkids about witnessing the historic Scranton Strangler chase."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Michael holding gravel jar claiming it will buy his grandkids a spaceship",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Michael talking head roleplaying telling future grandkids about the Strangler chase",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim talking head comparing the Strangler chase to historic media spectacles",
+        "durationSeconds": 7,
+        "howItDiffers": "Shifts perspective to Jim's deadpan cultural commentary rather than Michael's gravel souvenir fantasy."
+      },
+      {
+        "text": "Michael gathering the bullpen to deliver a dramatic speech about Scranton history",
+        "durationSeconds": 6,
+        "howItDiffers": "Moves the historic framing from a private confessional interview to a public speech in the bullpen."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Moment 50ccdc3b-794b-4c6e-8573-1b30de590684 is an exact match where Michael holds up street gravel and dramatizes the chase for his future grandchildren."
+  }
+}

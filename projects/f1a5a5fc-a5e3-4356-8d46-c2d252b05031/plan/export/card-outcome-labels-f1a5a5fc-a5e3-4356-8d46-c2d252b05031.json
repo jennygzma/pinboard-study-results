@@ -1,0 +1,42 @@
+{
+  "1c57f802-256c-47a4-8758-666dab34e471": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "950e8674-3722-490b-9515-990665c5d65c": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "68cdd304-1b8c-453b-8170-1fcc326396f3": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "6c142453-32c5-4211-8322-e72ab474adbc": {
+    "actor": "user",
+    "outcome": "added"
+  },
+  "1d0171ac-a246-48eb-bf83-28b69fbd99d4": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "5c65b16f-6230-424f-95a4-c3ecdd970143": {
+    "actor": "user",
+    "outcome": "added"
+  },
+  "42329a01-50b2-4be8-bb38-ea9e224194aa": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "a481e2c0-72f6-4d20-8c28-87ac99c98bd1": {
+    "actor": "user",
+    "outcome": "added"
+  },
+  "161133a1-c201-4667-95b0-fee8db99665d": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "bd8f05de-c3f8-410f-af4a-47944e4e83ba": {
+    "actor": "user",
+    "outcome": "adjusted"
+  }
+}

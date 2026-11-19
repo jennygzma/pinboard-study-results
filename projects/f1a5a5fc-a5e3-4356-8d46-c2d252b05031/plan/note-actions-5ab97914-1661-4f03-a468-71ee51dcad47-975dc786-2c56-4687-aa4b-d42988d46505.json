@@ -1,0 +1,55 @@
+{
+  "id": "975dc786-2c56-4687-aa4b-d42988d46505",
+  "status": "done",
+  "cardId": "5ab97914-1661-4f03-a468-71ee51dcad47",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "038fe256-d6bd-4229-854e-ddcf5e2b0ee6",
+        "rationale": "Directly captures hands holding, turning, and inspecting a finished ceramic bowl."
+      },
+      {
+        "momentId": "765e900f-d13f-4e1f-9616-d1530a783792",
+        "rationale": "Shows hands reaching out and physically browsing finished pieces on a studio display shelf."
+      },
+      {
+        "momentId": "817c297f-4093-49ac-92c3-799988a5af10",
+        "rationale": "Close-up of hands touching a tactile ceramic bowl resting on the yellow work table."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Close-up of hands holding and turning a finished ceramic bowl",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Hands touching and inspecting tactile pottery along studio shelves",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Macro shot of hands reaching for finished glazed dish on table",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Close-up hands shaping wet clay on the spinning wheel",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Emphasizes the tactile process of wet clay fabrication rather than handling finished ware."
+      },
+      {
+        "text": "Detailed brush spreading glaze across the hand-shaped palette dish",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Focuses on the hand-motif palette and glazing step instead of generic finished pottery inspection."
+      },
+      {
+        "text": "Static wide of colorful finished ceramic mugs on shelf display",
+        "durationSeconds": 3,
+        "howItDiffers": "Frames finished work as a gallery still life rather than active hand interaction."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple exact B-roll clips of hands inspecting and touching finished ceramic bowls and shelf pieces exist in the footage library."
+  }
+}

@@ -1,0 +1,5039 @@
+{
+  "method": "Read-only audit of all project histories and saved plans against local Apple Vision OCR of all 79 reference screenshots. Bigram recall measures visible text support only: it is not verification confidence, plan completeness, or proof of video correspondence. Event order and video timestamps are recorded separately. No production data or plans were modified.",
+  "rows": [
+    {
+      "participant": "n1 annie",
+      "condition": "text",
+      "projectId": "5af28ebc-de72-4cce-9657-a721c0e8610f",
+      "projectName": "annie task 1",
+      "eventCount": 45,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n1 annie text initial.png"
+          ],
+          "selectedCandidate": "event:afcab082-8e62-49aa-aed8-0598546d8ec9",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-17T22:51:54.391Z",
+          "visibleBigramRecall": 0.9726,
+          "currentSavedVisibleBigramRecall": 0.9726,
+          "firstGenerationVisibleBigramRecall": 0.9726,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:afcab082-8e62-49aa-aed8-0598546d8ec9",
+              "eventIndex": 0,
+              "timestamp": "2026-09-17T22:51:54.391Z",
+              "title": "### Beat 1: Introduction to Viviana and Mud Witch (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.9726
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:afcab082-8e62-49aa-aed8-0598546d8ec9",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-09-17T22:51:54.391Z",
+              "visibleBigramRecall": 0.9726
+            },
+            {
+              "source": "event:9e322952-4f7f-45ed-988e-d77c9c15b9b5",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-17T22:51:55.677Z",
+              "visibleBigramRecall": 0.9726
+            },
+            {
+              "source": "event:a101242c-2295-4e1e-bbe1-1cfdf3a69996",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-17T23:04:07.625Z",
+              "visibleBigramRecall": 0.9726
+            },
+            {
+              "source": "event:6557ed78-f049-4126-b5f8-9632e154fccd",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-17T23:50:40.050Z",
+              "visibleBigramRecall": 0.9726
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n1 annie text initial.png",
+              "selectedVisibleBigramRecall": 0.9726,
+              "bestMatches": [
+                {
+                  "source": "event:afcab082-8e62-49aa-aed8-0598546d8ec9",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9726
+                },
+                {
+                  "source": "event:9e322952-4f7f-45ed-988e-d77c9c15b9b5",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9726
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n1 annie text revised.png"
+          ],
+          "selectedCandidate": "projects/5af28ebc-de72-4cce-9657-a721c0e8610f/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-01T15:19:26.646Z",
+          "visibleBigramRecall": 0.9803,
+          "currentSavedVisibleBigramRecall": 0.9803,
+          "firstGenerationVisibleBigramRecall": 0.887,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:afcab082-8e62-49aa-aed8-0598546d8ec9",
+              "eventIndex": 0,
+              "timestamp": "2026-09-17T22:51:54.391Z",
+              "title": "### Beat 1: Introduction to Viviana and Mud Witch (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.887
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:3391f06e-5d61-47b5-b7d2-eb522a48214d",
+              "eventIndex": 38,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T00:23:22.854Z",
+              "visibleBigramRecall": 0.9803
+            },
+            {
+              "source": "event:4319099a-c3eb-4eab-b071-c298b02f7589",
+              "eventIndex": 39,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T00:23:33.029Z",
+              "visibleBigramRecall": 0.9803
+            },
+            {
+              "source": "event:8b6449b1-cff6-4b06-b845-5b46d804c63b",
+              "eventIndex": 40,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T00:23:50.942Z",
+              "visibleBigramRecall": 0.9803
+            },
+            {
+              "source": "event:e48bbece-cef1-4065-b093-a674dc4ede75",
+              "eventIndex": 41,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T03:40:39.245Z",
+              "visibleBigramRecall": 0.9803
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n1 annie text revised.png",
+              "selectedVisibleBigramRecall": 0.9803,
+              "bestMatches": [
+                {
+                  "source": "event:3391f06e-5d61-47b5-b7d2-eb522a48214d",
+                  "eventIndex": 38,
+                  "visibleBigramRecall": 0.9803
+                },
+                {
+                  "source": "event:4319099a-c3eb-4eab-b071-c298b02f7589",
+                  "eventIndex": 39,
+                  "visibleBigramRecall": 0.9803
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "dee4f3f9-3335-485c-a130-23d6f1dd7b21",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-17T22:54:09.560Z",
+          "status": "done",
+          "file": "media/renders/c934b6bea4da22e20c1e1d537f6d3e69113dd6106624c2b54b94fb0c66077183.mp4",
+          "playable": true
+        },
+        {
+          "id": "329bddbf-3560-4a28-9329-4d3afe7fbe74",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T00:23:54.434Z",
+          "status": "done",
+          "file": "media/renders/ef0a96e0235db2ab6d527cedbe34f6c0e819dca09300a3b83bd0a365916fbff2.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n1 annie",
+      "condition": "grid",
+      "projectId": "9252e24f-4981-47a9-9ab8-796133921505",
+      "projectName": "annie task 2",
+      "eventCount": 63,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n1 annie grid initial.png"
+          ],
+          "selectedCandidate": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-17T22:53:56.967Z",
+          "visibleBigramRecall": 0.8244,
+          "currentSavedVisibleBigramRecall": 0.8732,
+          "firstGenerationVisibleBigramRecall": 0.8244,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+              "eventIndex": 0,
+              "timestamp": "2026-09-17T22:53:56.967Z",
+              "title": "Beat 1: Introduction to Mud Witch",
+              "visibleBigramRecall": 0.8244
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.8732
+            },
+            {
+              "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-17T22:53:56.967Z",
+              "visibleBigramRecall": 0.8244
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n1 annie grid initial.png",
+              "selectedVisibleBigramRecall": 0.8244,
+              "bestMatches": [
+                {
+                  "source": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.8732
+                },
+                {
+                  "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8244
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n1 annie grid revised 2.png",
+            "n1 annie grid revised.png"
+          ],
+          "selectedCandidate": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.9049,
+          "currentSavedVisibleBigramRecall": 0.9049,
+          "firstGenerationVisibleBigramRecall": 0.8313,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+              "eventIndex": 0,
+              "timestamp": "2026-09-17T22:53:56.967Z",
+              "title": "Beat 1: Introduction to Mud Witch",
+              "visibleBigramRecall": 0.8313
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.9049
+            },
+            {
+              "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-17T22:53:56.967Z",
+              "visibleBigramRecall": 0.8313
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n1 annie grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.9074,
+              "bestMatches": [
+                {
+                  "source": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.9074
+                },
+                {
+                  "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8457
+                }
+              ]
+            },
+            {
+              "file": "n1 annie grid revised.png",
+              "selectedVisibleBigramRecall": 0.9024,
+              "bestMatches": [
+                {
+                  "source": "projects/9252e24f-4981-47a9-9ab8-796133921505/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.9024
+                },
+                {
+                  "source": "event:fbaba2d4-0ab7-431b-9977-16a655cb195a",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8171
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "b080792e-0e9d-457a-946a-dc95a51168e5",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-17T22:54:14.016Z",
+          "status": "done",
+          "file": "media/renders/7b7c0302171a1addaff6eb8e4711e75c6bc0897d0b9d87d99a3748593c7eff5b.mp4",
+          "playable": true
+        },
+        {
+          "id": "a97c54e0-eeef-45bc-aa77-b1b93570b6d4",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T00:32:01.789Z",
+          "status": "done",
+          "file": "media/renders/50fe7a2a890361eabc80dd75d0f0744c76146aae3b090eb00a7fee4167335ed4.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n2 evita",
+      "condition": "text",
+      "projectId": "5c105fc0-87f9-46ce-bc67-8d95c926d0f8",
+      "projectName": "evita task 2",
+      "eventCount": 32,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n2 evita text initial .png"
+          ],
+          "selectedCandidate": "event:1d6663a8-4099-4ca9-b35c-46f424bd37dd",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-21T13:41:43.798Z",
+          "visibleBigramRecall": 0.9524,
+          "currentSavedVisibleBigramRecall": 0.9231,
+          "firstGenerationVisibleBigramRecall": 0.9524,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:1d6663a8-4099-4ca9-b35c-46f424bd37dd",
+              "eventIndex": 0,
+              "timestamp": "2026-09-21T13:41:43.798Z",
+              "title": "**Story Beat 1: Arrival and Introduction (0:00\u20130:15)**",
+              "visibleBigramRecall": 0.9524
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:1d6663a8-4099-4ca9-b35c-46f424bd37dd",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-09-21T13:41:43.798Z",
+              "visibleBigramRecall": 0.9524
+            },
+            {
+              "source": "event:91cb748b-8acc-4d52-81a3-8fda59f957c7",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-21T13:41:46.113Z",
+              "visibleBigramRecall": 0.9524
+            },
+            {
+              "source": "event:d5368c07-c89a-4e3e-8184-88979676e992",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-21T14:46:51.913Z",
+              "visibleBigramRecall": 0.9524
+            },
+            {
+              "source": "event:cccaf42a-390f-4664-92c8-65802bf24db2",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-21T14:47:03.835Z",
+              "visibleBigramRecall": 0.9524
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n2 evita text initial .png",
+              "selectedVisibleBigramRecall": 0.9524,
+              "bestMatches": [
+                {
+                  "source": "event:1d6663a8-4099-4ca9-b35c-46f424bd37dd",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9524
+                },
+                {
+                  "source": "event:91cb748b-8acc-4d52-81a3-8fda59f957c7",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9524
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n2 evita text revised.png"
+          ],
+          "selectedCandidate": "projects/5c105fc0-87f9-46ce-bc67-8d95c926d0f8/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-01T15:30:57.357Z",
+          "visibleBigramRecall": 0.9551,
+          "currentSavedVisibleBigramRecall": 0.9551,
+          "firstGenerationVisibleBigramRecall": 0.8429,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:1d6663a8-4099-4ca9-b35c-46f424bd37dd",
+              "eventIndex": 0,
+              "timestamp": "2026-09-21T13:41:43.798Z",
+              "title": "**Story Beat 1: Arrival and Introduction (0:00\u20130:15)**",
+              "visibleBigramRecall": 0.8429
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:8891a905-365c-4cfe-9b1c-35c3e79f0992",
+              "eventIndex": 30,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-21T14:55:05.270Z",
+              "visibleBigramRecall": 0.9551
+            },
+            {
+              "source": "event:0d56b3bc-e22c-49dd-bbb3-36eaadb137f7",
+              "eventIndex": 31,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:30:57.359Z",
+              "visibleBigramRecall": 0.9551
+            },
+            {
+              "source": "projects/5c105fc0-87f9-46ce-bc67-8d95c926d0f8/plan/text-plan.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": "2026-10-01T15:30:57.357Z",
+              "visibleBigramRecall": 0.9551
+            },
+            {
+              "source": "event:5ab46d61-47d0-4acf-91cb-95a9702b3f21",
+              "eventIndex": 29,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-21T14:55:00.869Z",
+              "visibleBigramRecall": 0.9423
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n2 evita text revised.png",
+              "selectedVisibleBigramRecall": 0.9551,
+              "bestMatches": [
+                {
+                  "source": "event:8891a905-365c-4cfe-9b1c-35c3e79f0992",
+                  "eventIndex": 30,
+                  "visibleBigramRecall": 0.9551
+                },
+                {
+                  "source": "event:0d56b3bc-e22c-49dd-bbb3-36eaadb137f7",
+                  "eventIndex": 31,
+                  "visibleBigramRecall": 0.9551
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "2a7076ab-6b7a-47b9-b746-8c88ca6a9857",
+          "label": "Unavailable roughcut (error)",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T13:41:49.663Z",
+          "status": "error",
+          "reason": "coconut-agent process exited with code 1 and produced no usable render/timeline"
+        },
+        {
+          "id": "5cc7805e-a28d-45bf-93da-c5d41fa7ac4d",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T13:44:32.204Z",
+          "status": "done",
+          "file": "media/renders/40bc6be9b6df47373ad493aa034840bb8931b8905edd8c7d6cc3622cc3fc64af.mp4",
+          "playable": true
+        },
+        {
+          "id": "2f31254e-738c-4aa5-bc36-2588380584ad",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T14:55:18.932Z",
+          "status": "done",
+          "file": "media/renders/02733048eb624c4263dc7fd79f33529d85027a56e880ad54280598110d92a2b5.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n2 evita",
+      "condition": "grid",
+      "projectId": "5d0db9f0-c945-4dc0-850e-9318a3714b25",
+      "projectName": "evita task 1",
+      "eventCount": 78,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n2 evita grid initial.png"
+          ],
+          "selectedCandidate": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-21T13:40:52.161Z",
+          "visibleBigramRecall": 0.7588,
+          "currentSavedVisibleBigramRecall": 0.7529,
+          "firstGenerationVisibleBigramRecall": 0.7588,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+              "eventIndex": 0,
+              "timestamp": "2026-09-21T13:40:52.161Z",
+              "title": "Story Beat 1: Introduction to Viviana and Playful Pottery",
+              "visibleBigramRecall": 0.7588
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-21T13:40:52.161Z",
+              "visibleBigramRecall": 0.7588
+            },
+            {
+              "source": "projects/5d0db9f0-c945-4dc0-850e-9318a3714b25/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7529
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n2 evita grid initial.png",
+              "selectedVisibleBigramRecall": 0.7588,
+              "bestMatches": [
+                {
+                  "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.7588
+                },
+                {
+                  "source": "projects/5d0db9f0-c945-4dc0-850e-9318a3714b25/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7529
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n2 evita grid revised.png"
+          ],
+          "selectedCandidate": "projects/5d0db9f0-c945-4dc0-850e-9318a3714b25/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.7329,
+          "currentSavedVisibleBigramRecall": 0.7329,
+          "firstGenerationVisibleBigramRecall": 0.7329,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+              "eventIndex": 0,
+              "timestamp": "2026-09-21T13:40:52.161Z",
+              "title": "Story Beat 1: Introduction to Viviana and Playful Pottery",
+              "visibleBigramRecall": 0.7329
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-21T13:40:52.161Z",
+              "visibleBigramRecall": 0.7329
+            },
+            {
+              "source": "projects/5d0db9f0-c945-4dc0-850e-9318a3714b25/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7329
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n2 evita grid revised.png",
+              "selectedVisibleBigramRecall": 0.7329,
+              "bestMatches": [
+                {
+                  "source": "event:475301c9-2d95-447b-9d4a-b25d0fdbf658",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.7329
+                },
+                {
+                  "source": "projects/5d0db9f0-c945-4dc0-850e-9318a3714b25/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7329
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "12330098-ad15-4f1e-9ebd-d484a67535e2",
+          "label": "Unavailable roughcut (error)",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T13:41:47.160Z",
+          "status": "error",
+          "reason": "coconut-agent process exited with code 1 and produced no usable render/timeline"
+        },
+        {
+          "id": "2a2cc3bb-76b3-4d21-9cd9-65c548b05ffc",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T13:44:30.567Z",
+          "status": "done",
+          "file": "media/renders/e425827e747938c1e1258c865e780d0ab4e0c4d051448470945a740c03376ad3.mp4",
+          "playable": true
+        },
+        {
+          "id": "5879584f-f53f-4c9d-80d5-feb307f93c9f",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-21T15:08:08.139Z",
+          "status": "done",
+          "file": "media/renders/7fe62a46507beed01ad0800288c8312fb601f2453c32e49c4c2f9ec7e908d558.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n3 ryan",
+      "condition": "text",
+      "projectId": "7bcbb2e6-7baa-41fe-a655-cc365a47e311",
+      "projectName": "ryan task 1 4.6 sonnet",
+      "eventCount": 24,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n3 ryan text initial .png",
+            "n3 ryan text initial 2.png"
+          ],
+          "selectedCandidate": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-01T18:30:38.049Z",
+          "visibleBigramRecall": 0.8933,
+          "currentSavedVisibleBigramRecall": 0.7898,
+          "firstGenerationVisibleBigramRecall": 0.8933,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+              "eventIndex": 0,
+              "timestamp": "2026-10-01T18:30:38.049Z",
+              "title": "### **Editorial Plan: Viviana Matsuda \u2013 *Playful Pottery***",
+              "visibleBigramRecall": 0.8933
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-01T18:30:38.049Z",
+              "visibleBigramRecall": 0.8933
+            },
+            {
+              "source": "event:6f2b25fc-eac8-434c-b56a-01e1daa4dd87",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T18:30:39.663Z",
+              "visibleBigramRecall": 0.8933
+            },
+            {
+              "source": "event:25579b63-2e6c-4eec-88a4-751f3fd7c945",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-02T14:44:11.577Z",
+              "visibleBigramRecall": 0.8933
+            },
+            {
+              "source": "event:5a145ec8-325c-4a41-9a25-4950e757e958",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-02T19:30:28.233Z",
+              "visibleBigramRecall": 0.8933
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n3 ryan text initial .png",
+              "selectedVisibleBigramRecall": 0.9416,
+              "bestMatches": [
+                {
+                  "source": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9416
+                },
+                {
+                  "source": "event:6f2b25fc-eac8-434c-b56a-01e1daa4dd87",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9416
+                }
+              ]
+            },
+            {
+              "file": "n3 ryan text initial 2.png",
+              "selectedVisibleBigramRecall": 0.8491,
+              "bestMatches": [
+                {
+                  "source": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8491
+                },
+                {
+                  "source": "event:6f2b25fc-eac8-434c-b56a-01e1daa4dd87",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.8491
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n3 ryan text revised 2.png",
+            "n3 ryan text revised.png"
+          ],
+          "selectedCandidate": "projects/7bcbb2e6-7baa-41fe-a655-cc365a47e311/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-08T14:51:45.540Z",
+          "visibleBigramRecall": 0.9724,
+          "currentSavedVisibleBigramRecall": 0.9724,
+          "firstGenerationVisibleBigramRecall": 0.7252,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:4c968d73-65eb-4e79-97e8-4c751a1569b1",
+              "eventIndex": 0,
+              "timestamp": "2026-10-01T18:30:38.049Z",
+              "title": "### **Editorial Plan: Viviana Matsuda \u2013 *Playful Pottery***",
+              "visibleBigramRecall": 0.7252
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:fa188877-c2a3-47eb-8a15-19b4e2c53b0b",
+              "eventIndex": 17,
+              "action": "text-plan.resolveHunk",
+              "timestamp": "2026-10-02T20:16:25.157Z",
+              "visibleBigramRecall": 0.974
+            },
+            {
+              "source": "event:22b669af-e051-4b58-b485-3839259e6d5f",
+              "eventIndex": 18,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-02T20:16:25.972Z",
+              "visibleBigramRecall": 0.974
+            },
+            {
+              "source": "event:939a2b1d-cf32-4fd3-a9b6-8d3507469125",
+              "eventIndex": 20,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-02T20:16:42.437Z",
+              "visibleBigramRecall": 0.974
+            },
+            {
+              "source": "event:07705b91-08ee-4767-a0c0-1425b82b6ce2",
+              "eventIndex": 19,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-02T20:16:40.948Z",
+              "visibleBigramRecall": 0.9724
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n3 ryan text revised 2.png",
+              "selectedVisibleBigramRecall": 0.9969,
+              "bestMatches": [
+                {
+                  "source": "event:fa188877-c2a3-47eb-8a15-19b4e2c53b0b",
+                  "eventIndex": 17,
+                  "visibleBigramRecall": 1.0
+                },
+                {
+                  "source": "event:22b669af-e051-4b58-b485-3839259e6d5f",
+                  "eventIndex": 18,
+                  "visibleBigramRecall": 1.0
+                }
+              ]
+            },
+            {
+              "file": "n3 ryan text revised.png",
+              "selectedVisibleBigramRecall": 0.9444,
+              "bestMatches": [
+                {
+                  "source": "event:fa188877-c2a3-47eb-8a15-19b4e2c53b0b",
+                  "eventIndex": 17,
+                  "visibleBigramRecall": 0.9444
+                },
+                {
+                  "source": "event:22b669af-e051-4b58-b485-3839259e6d5f",
+                  "eventIndex": 18,
+                  "visibleBigramRecall": 0.9444
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "405351cb-9bfb-4e08-8d60-5a28064dfa94",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-02T14:44:11.763Z",
+          "status": "done",
+          "file": "media/renders/7d0606c4c27fe53b9fec28d13edeea2a067317bbe2996c5755f931e1e253def5.mp4",
+          "playable": true
+        },
+        {
+          "id": "9b304bdc-89b8-4020-b243-de05bbe084d2",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-02T20:17:20.487Z",
+          "status": "done",
+          "file": "media/renders/452f11027dc7a47fedc1c749aa0459f1607ff53bb48e97054e8d1db9cc22c5d1.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n3 ryan",
+      "condition": "grid",
+      "projectId": "317e6e3c-241f-423c-ac8c-ffcb9232ac70",
+      "projectName": "ryan task 2 4.6 sonnet",
+      "eventCount": 70,
+      "generationCount": 0,
+      "emptyGenerations": 0,
+      "syntheticHistory": true,
+      "phases": {
+        "initial": {
+          "status": "reconstructed-partial",
+          "screenshots": [
+            "n3 ryan grid initial .png",
+            "n3 ryan grid initial 2.png"
+          ],
+          "selectedCandidate": "reconstructed:initial-card-batch",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.6493,
+          "currentSavedVisibleBigramRecall": 0.5972,
+          "firstGenerationVisibleBigramRecall": null,
+          "notes": [],
+          "generations": [],
+          "topMatches": [
+            {
+              "source": "reconstructed:initial-card-batch",
+              "eventIndex": null,
+              "action": "reconstructed-initial-card-batch",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6493
+            },
+            {
+              "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.5972
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n3 ryan grid initial .png",
+              "selectedVisibleBigramRecall": 0.7674,
+              "bestMatches": [
+                {
+                  "source": "reconstructed:initial-card-batch",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7674
+                },
+                {
+                  "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7093
+                }
+              ]
+            },
+            {
+              "file": "n3 ryan grid initial 2.png",
+              "selectedVisibleBigramRecall": 0.568,
+              "bestMatches": [
+                {
+                  "source": "reconstructed:initial-card-batch",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.568
+                },
+                {
+                  "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.52
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "reconstructed-partial",
+          "screenshots": [
+            "n3 ryan grid revised .png",
+            "n3 ryan grid revised 2.png"
+          ],
+          "selectedCandidate": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.5957,
+          "currentSavedVisibleBigramRecall": 0.5957,
+          "firstGenerationVisibleBigramRecall": null,
+          "notes": [],
+          "generations": [],
+          "topMatches": [
+            {
+              "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.5957
+            },
+            {
+              "source": "reconstructed:initial-card-batch",
+              "eventIndex": null,
+              "action": "reconstructed-initial-card-batch",
+              "timestamp": null,
+              "visibleBigramRecall": 0.516
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n3 ryan grid revised .png",
+              "selectedVisibleBigramRecall": 0.7191,
+              "bestMatches": [
+                {
+                  "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7191
+                },
+                {
+                  "source": "reconstructed:initial-card-batch",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6404
+                }
+              ]
+            },
+            {
+              "file": "n3 ryan grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.4848,
+              "bestMatches": [
+                {
+                  "source": "projects/317e6e3c-241f-423c-ac8c-ffcb9232ac70/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.4848
+                },
+                {
+                  "source": "reconstructed:initial-card-batch",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.404
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [],
+      "notes": [
+        "No complete initial grid apply snapshot survives. Initial card events are synthetic reconstruction evidence, not an original snapshot."
+      ]
+    },
+    {
+      "participant": "n4 sharon",
+      "condition": "text",
+      "projectId": "9038dad7-0e28-4e4a-84a5-e658ac935f29",
+      "projectName": "sharon task 1",
+      "eventCount": 26,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n4 sharon text initial.png"
+          ],
+          "selectedCandidate": "event:55a60b1d-8c0b-4079-b65d-af652e24d1e6",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-04T21:12:31.931Z",
+          "visibleBigramRecall": 0.9221,
+          "currentSavedVisibleBigramRecall": 0.7932,
+          "firstGenerationVisibleBigramRecall": 0.9221,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:55a60b1d-8c0b-4079-b65d-af652e24d1e6",
+              "eventIndex": 0,
+              "timestamp": "2026-10-04T21:12:31.931Z",
+              "title": "### Beat 1: Cold Open & Artist Introduction (0:00\u20130:14)",
+              "visibleBigramRecall": 0.9221
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:55a60b1d-8c0b-4079-b65d-af652e24d1e6",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-04T21:12:31.931Z",
+              "visibleBigramRecall": 0.9221
+            },
+            {
+              "source": "event:992b6449-576f-4d13-bef5-40ad84c275eb",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T21:12:33.726Z",
+              "visibleBigramRecall": 0.9221
+            },
+            {
+              "source": "event:c5468582-fecc-41ac-b6d6-21e6c5b8e31b",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T21:12:49.090Z",
+              "visibleBigramRecall": 0.9221
+            },
+            {
+              "source": "event:54262aa5-50a0-469d-a3e3-4476a3a009a5",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T21:15:14.607Z",
+              "visibleBigramRecall": 0.9221
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n4 sharon text initial.png",
+              "selectedVisibleBigramRecall": 0.9221,
+              "bestMatches": [
+                {
+                  "source": "event:55a60b1d-8c0b-4079-b65d-af652e24d1e6",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9221
+                },
+                {
+                  "source": "event:992b6449-576f-4d13-bef5-40ad84c275eb",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9221
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n4 sharon text revised 2.png",
+            "n4 sharon text revised.png"
+          ],
+          "selectedCandidate": "projects/9038dad7-0e28-4e4a-84a5-e658ac935f29/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-05T18:34:59.186Z",
+          "visibleBigramRecall": 0.9564,
+          "currentSavedVisibleBigramRecall": 0.9564,
+          "firstGenerationVisibleBigramRecall": 0.8077,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:55a60b1d-8c0b-4079-b65d-af652e24d1e6",
+              "eventIndex": 0,
+              "timestamp": "2026-10-04T21:12:31.931Z",
+              "title": "### Beat 1: Cold Open & Artist Introduction (0:00\u20130:14)",
+              "visibleBigramRecall": 0.8077
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:934b7f18-c8d1-4659-beb9-67fb8d610dbc",
+              "eventIndex": 23,
+              "action": "text-plan.resolveHunk",
+              "timestamp": "2026-10-05T18:33:07.867Z",
+              "visibleBigramRecall": 0.9564
+            },
+            {
+              "source": "event:7e5a3f4c-995c-4b60-834e-89673b433ace",
+              "eventIndex": 24,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-05T18:33:08.690Z",
+              "visibleBigramRecall": 0.9564
+            },
+            {
+              "source": "event:fa27695b-bf10-49d9-b7c4-b00045124cc8",
+              "eventIndex": 25,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-05T18:34:59.189Z",
+              "visibleBigramRecall": 0.9564
+            },
+            {
+              "source": "projects/9038dad7-0e28-4e4a-84a5-e658ac935f29/plan/text-plan.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": "2026-10-05T18:34:59.186Z",
+              "visibleBigramRecall": 0.9564
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n4 sharon text revised 2.png",
+              "selectedVisibleBigramRecall": 0.9813,
+              "bestMatches": [
+                {
+                  "source": "event:934b7f18-c8d1-4659-beb9-67fb8d610dbc",
+                  "eventIndex": 23,
+                  "visibleBigramRecall": 0.9813
+                },
+                {
+                  "source": "event:7e5a3f4c-995c-4b60-834e-89673b433ace",
+                  "eventIndex": 24,
+                  "visibleBigramRecall": 0.9813
+                }
+              ]
+            },
+            {
+              "file": "n4 sharon text revised.png",
+              "selectedVisibleBigramRecall": 0.9335,
+              "bestMatches": [
+                {
+                  "source": "event:934b7f18-c8d1-4659-beb9-67fb8d610dbc",
+                  "eventIndex": 23,
+                  "visibleBigramRecall": 0.9335
+                },
+                {
+                  "source": "event:7e5a3f4c-995c-4b60-834e-89673b433ace",
+                  "eventIndex": 24,
+                  "visibleBigramRecall": 0.9335
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "80107790-c650-4775-a817-b5130bc7ef20",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-05T15:09:05.384Z",
+          "status": "done",
+          "file": "media/renders/2ebed10167e2316ada739d8c40b9097be4e7612b3b0da80757dddcf0d1505071.mp4",
+          "playable": true
+        },
+        {
+          "id": "dd64facf-bb8a-4977-9557-e48410a40e01",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-05T18:33:53.713Z",
+          "status": "done",
+          "file": "media/renders/a316a23c5665b05cdfe188acb6f271c02a994375380fc3c8eb0f52ce7b6ef07b.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n4 sharon",
+      "condition": "grid",
+      "projectId": "043c12cc-72f9-4d92-a4a1-900d32cebd3a",
+      "projectName": "sharon task 2",
+      "eventCount": 70,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n4 sharon grid initial.png"
+          ],
+          "selectedCandidate": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-04T21:15:27.856Z",
+          "visibleBigramRecall": 0.8607,
+          "currentSavedVisibleBigramRecall": 0.85,
+          "firstGenerationVisibleBigramRecall": 0.8607,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+              "eventIndex": 0,
+              "timestamp": "2026-10-04T21:15:27.856Z",
+              "title": "Beat 1: The Artist and the Studio",
+              "visibleBigramRecall": 0.8607
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-04T21:15:27.856Z",
+              "visibleBigramRecall": 0.8607
+            },
+            {
+              "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.85
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n4 sharon grid initial.png",
+              "selectedVisibleBigramRecall": 0.8607,
+              "bestMatches": [
+                {
+                  "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8607
+                },
+                {
+                  "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.85
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n4 sharon grid revised 2.png",
+            "n4 sharon grid revised 3.png",
+            "n4 sharon grid revised 4.png",
+            "n4 sharon grid revised.png"
+          ],
+          "selectedCandidate": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.8611,
+          "currentSavedVisibleBigramRecall": 0.8611,
+          "firstGenerationVisibleBigramRecall": 0.7587,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+              "eventIndex": 0,
+              "timestamp": "2026-10-04T21:15:27.856Z",
+              "title": "Beat 1: The Artist and the Studio",
+              "visibleBigramRecall": 0.7587
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.8611
+            },
+            {
+              "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-04T21:15:27.856Z",
+              "visibleBigramRecall": 0.7587
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n4 sharon grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.8549,
+              "bestMatches": [
+                {
+                  "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.8549
+                },
+                {
+                  "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.715
+                }
+              ]
+            },
+            {
+              "file": "n4 sharon grid revised 3.png",
+              "selectedVisibleBigramRecall": 0.8966,
+              "bestMatches": [
+                {
+                  "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.8966
+                },
+                {
+                  "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8563
+                }
+              ]
+            },
+            {
+              "file": "n4 sharon grid revised 4.png",
+              "selectedVisibleBigramRecall": 0.9091,
+              "bestMatches": [
+                {
+                  "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.9091
+                },
+                {
+                  "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.7758
+                }
+              ]
+            },
+            {
+              "file": "n4 sharon grid revised.png",
+              "selectedVisibleBigramRecall": 0.0,
+              "bestMatches": [
+                {
+                  "source": "event:d3b089c9-9f69-4823-99c6-8a34a868b76e",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.0
+                },
+                {
+                  "source": "projects/043c12cc-72f9-4d92-a4a1-900d32cebd3a/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "e352b645-1374-437b-9611-05d1fe70032b",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-05T15:09:03.256Z",
+          "status": "done",
+          "file": "media/renders/e4dea9aae52b9f28e262d57d1cd956332c8765a7f3f24b38e496149c0e6380ef.mp4",
+          "playable": true
+        },
+        {
+          "id": "085d1796-3573-468f-9294-45deb06de472",
+          "label": "Unavailable roughcut (error)",
+          "kind": "roughcut",
+          "createdAt": "2026-10-05T18:24:11.661Z",
+          "status": "error",
+          "reason": "coconut-agent process exited with code null and produced no usable render/timeline"
+        },
+        {
+          "id": "f67ae790-d8c8-435b-8f73-f3c9b7ac0e4e",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-05T18:37:01.974Z",
+          "status": "done",
+          "file": "media/renders/c5743d889c710e27e0534351fd5e8dd18ce3478d4e36f1cf7ece7f24ba489484.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n5 chloe",
+      "condition": "text",
+      "projectId": "35acc30c-d730-48eb-9442-b93fa5fffc22",
+      "projectName": "chloe task 2",
+      "eventCount": 36,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "missing-reference",
+          "screenshots": [],
+          "selectedCandidate": "event:a2adeb1e-4f1a-4cb7-bc28-064decf2b69c",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-03T21:19:54.590Z",
+          "visibleBigramRecall": 0,
+          "currentSavedVisibleBigramRecall": 0,
+          "firstGenerationVisibleBigramRecall": 0,
+          "notes": [
+            "No reference screenshot supplied for this participant, condition, and phase. History is available, but screenshot verification is not possible."
+          ],
+          "generations": [
+            {
+              "source": "event:a2adeb1e-4f1a-4cb7-bc28-064decf2b69c",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T21:19:54.590Z",
+              "title": "### Beat 1: Opening Excitement & Shared Atmosphere (0:00 \u2013 0:18)",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:a2adeb1e-4f1a-4cb7-bc28-064decf2b69c",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-03T21:19:54.590Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:9371f75d-d58c-4766-ad5b-1984120995d1",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-03T21:19:55.992Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:5676b409-417d-40b0-80be-b7ecd832ba49",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-03T21:23:51.960Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:be81508a-d483-4542-ad1f-8d1c9a9d7c5d",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T18:41:16.487Z",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "screenshotMatches": []
+        },
+        "revised": {
+          "status": "missing-reference",
+          "screenshots": [],
+          "selectedCandidate": "projects/35acc30c-d730-48eb-9442-b93fa5fffc22/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-04T19:54:40.784Z",
+          "visibleBigramRecall": 0,
+          "currentSavedVisibleBigramRecall": 0,
+          "firstGenerationVisibleBigramRecall": 0,
+          "notes": [
+            "No reference screenshot supplied for this participant, condition, and phase. History is available, but screenshot verification is not possible."
+          ],
+          "generations": [
+            {
+              "source": "event:a2adeb1e-4f1a-4cb7-bc28-064decf2b69c",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T21:19:54.590Z",
+              "title": "### Beat 1: Opening Excitement & Shared Atmosphere (0:00 \u2013 0:18)",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:a2adeb1e-4f1a-4cb7-bc28-064decf2b69c",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-03T21:19:54.590Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:9371f75d-d58c-4766-ad5b-1984120995d1",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-03T21:19:55.992Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:5676b409-417d-40b0-80be-b7ecd832ba49",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-03T21:23:51.960Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "event:be81508a-d483-4542-ad1f-8d1c9a9d7c5d",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T18:41:16.487Z",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "screenshotMatches": []
+        }
+      },
+      "videos": [
+        {
+          "id": "aa864721-25e7-4b0f-9ddb-4d8a0e3198a9",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-03T21:19:59.650Z",
+          "status": "done",
+          "file": "media/renders/6910ec95b1d5e6f4ed64a274d9d90b7fbbe7a93376de7eed5dd442227059fcc3.mp4",
+          "playable": true
+        },
+        {
+          "id": "f81735e0-8cc5-4dcc-928f-f4208f3b1c1d",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-04T19:55:28.358Z",
+          "status": "done",
+          "file": "media/renders/2696d29a83939f00da4b519f12a1dc04bf036fa9aed1565792db3146cd6da7cd.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n5 chloe",
+      "condition": "grid",
+      "projectId": "c43189b0-7777-4f48-9f76-d1c148efdb81",
+      "projectName": "chloe task 1",
+      "eventCount": 94,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "missing-reference",
+          "screenshots": [],
+          "selectedCandidate": "event:01c263db-7670-4d75-a81a-6a45107449a1",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-03T21:18:04.915Z",
+          "visibleBigramRecall": 0,
+          "currentSavedVisibleBigramRecall": 0,
+          "firstGenerationVisibleBigramRecall": 0,
+          "notes": [
+            "No reference screenshot supplied for this participant, condition, and phase. History is available, but screenshot verification is not possible."
+          ],
+          "generations": [
+            {
+              "source": "event:01c263db-7670-4d75-a81a-6a45107449a1",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T21:18:04.915Z",
+              "title": "Beat 1: Opening Leap (0:00\u20130:10)",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:01c263db-7670-4d75-a81a-6a45107449a1",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T21:18:04.915Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "projects/c43189b0-7777-4f48-9f76-d1c148efdb81/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0
+            }
+          ],
+          "screenshotMatches": []
+        },
+        "revised": {
+          "status": "missing-reference",
+          "screenshots": [],
+          "selectedCandidate": "projects/c43189b0-7777-4f48-9f76-d1c148efdb81/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0,
+          "currentSavedVisibleBigramRecall": 0,
+          "firstGenerationVisibleBigramRecall": 0,
+          "notes": [
+            "No reference screenshot supplied for this participant, condition, and phase. History is available, but screenshot verification is not possible."
+          ],
+          "generations": [
+            {
+              "source": "event:01c263db-7670-4d75-a81a-6a45107449a1",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T21:18:04.915Z",
+              "title": "Beat 1: Opening Leap (0:00\u20130:10)",
+              "visibleBigramRecall": 0
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:01c263db-7670-4d75-a81a-6a45107449a1",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T21:18:04.915Z",
+              "visibleBigramRecall": 0
+            },
+            {
+              "source": "projects/c43189b0-7777-4f48-9f76-d1c148efdb81/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0
+            }
+          ],
+          "screenshotMatches": []
+        }
+      },
+      "videos": [
+        {
+          "id": "20ed7187-e67a-40d2-936b-165b31a75e39",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-03T21:18:46.269Z",
+          "status": "done",
+          "file": "media/renders/951c6b6bde3be2a298ed88ea7c0cb283947443bff084edf9b584636e0373bc3f.mp4",
+          "playable": true
+        },
+        {
+          "id": "e040e2b6-7288-4600-8346-003cf14ae3b3",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-04T19:48:59.306Z",
+          "status": "done",
+          "file": "media/renders/207a0a6ba8de7c1b850d21908115ca39057b844d0799142688e840d841193c92.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n6 max",
+      "condition": "text",
+      "projectId": "5bb48b9c-b175-479d-8eb1-2f00531d7b09",
+      "projectName": "max task 1",
+      "eventCount": 22,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n6 max text initial 2.png",
+            "n6 max text initial 3.png",
+            "n6 max text initial.png"
+          ],
+          "selectedCandidate": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-06T21:18:26.600Z",
+          "visibleBigramRecall": 0.9347,
+          "currentSavedVisibleBigramRecall": 0.9255,
+          "firstGenerationVisibleBigramRecall": 0.9347,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+              "eventIndex": 0,
+              "timestamp": "2026-10-06T21:18:26.600Z",
+              "title": "### 1. Launch & River Run (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.9347
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-06T21:18:26.600Z",
+              "visibleBigramRecall": 0.9347
+            },
+            {
+              "source": "event:0c1d1e56-4244-4a06-9957-1973bdc3198f",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-06T21:18:27.766Z",
+              "visibleBigramRecall": 0.9347
+            },
+            {
+              "source": "event:4cd5134e-e42d-49bd-b248-b7a0890534df",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-06T21:32:06.235Z",
+              "visibleBigramRecall": 0.9347
+            },
+            {
+              "source": "event:23d738ab-e9ef-4546-8c69-feb041a8eac6",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-06T21:33:09.696Z",
+              "visibleBigramRecall": 0.9347
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n6 max text initial 2.png",
+              "selectedVisibleBigramRecall": 0.9145,
+              "bestMatches": [
+                {
+                  "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9145
+                },
+                {
+                  "source": "event:0c1d1e56-4244-4a06-9957-1973bdc3198f",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9145
+                }
+              ]
+            },
+            {
+              "file": "n6 max text initial 3.png",
+              "selectedVisibleBigramRecall": 0.9659,
+              "bestMatches": [
+                {
+                  "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9659
+                },
+                {
+                  "source": "event:0c1d1e56-4244-4a06-9957-1973bdc3198f",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9659
+                }
+              ]
+            },
+            {
+              "file": "n6 max text initial.png",
+              "selectedVisibleBigramRecall": 0.9269,
+              "bestMatches": [
+                {
+                  "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9269
+                },
+                {
+                  "source": "event:0c1d1e56-4244-4a06-9957-1973bdc3198f",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9269
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n6 max text revised 2.png",
+            "n6 max text revised.png"
+          ],
+          "selectedCandidate": "projects/5bb48b9c-b175-479d-8eb1-2f00531d7b09/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-07T03:13:39.511Z",
+          "visibleBigramRecall": 0.8587,
+          "currentSavedVisibleBigramRecall": 0.8587,
+          "firstGenerationVisibleBigramRecall": 0.8158,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:bf2424ef-017e-4ea2-8616-d1406259cb9f",
+              "eventIndex": 0,
+              "timestamp": "2026-10-06T21:18:26.600Z",
+              "title": "### 1. Launch & River Run (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.8158
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:012ac9eb-47e6-4e68-8de3-1174c96fcd35",
+              "eventIndex": 15,
+              "action": "text-plan.resolveHunk",
+              "timestamp": "2026-10-07T02:52:56.840Z",
+              "visibleBigramRecall": 0.8587
+            },
+            {
+              "source": "event:a3538b2c-72d1-4284-8f1b-c2e8ce40254c",
+              "eventIndex": 16,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T02:52:57.658Z",
+              "visibleBigramRecall": 0.8587
+            },
+            {
+              "source": "event:2d86b9ec-cb5b-471d-a773-63502247454e",
+              "eventIndex": 17,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T03:00:19.903Z",
+              "visibleBigramRecall": 0.8587
+            },
+            {
+              "source": "event:45acda7b-5688-4d08-8ae3-4c60bee8fc58",
+              "eventIndex": 18,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T03:10:49.291Z",
+              "visibleBigramRecall": 0.8587
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n6 max text revised 2.png",
+              "selectedVisibleBigramRecall": 0.9095,
+              "bestMatches": [
+                {
+                  "source": "event:012ac9eb-47e6-4e68-8de3-1174c96fcd35",
+                  "eventIndex": 15,
+                  "visibleBigramRecall": 0.9095
+                },
+                {
+                  "source": "event:a3538b2c-72d1-4284-8f1b-c2e8ce40254c",
+                  "eventIndex": 16,
+                  "visibleBigramRecall": 0.9095
+                }
+              ]
+            },
+            {
+              "file": "n6 max text revised.png",
+              "selectedVisibleBigramRecall": 0.8085,
+              "bestMatches": [
+                {
+                  "source": "event:edc48d8e-5a9a-48ac-8e4d-e690178320be",
+                  "eventIndex": 9,
+                  "visibleBigramRecall": 0.8128
+                },
+                {
+                  "source": "event:a12c0649-0892-4b23-a789-5d219bdfd7f1",
+                  "eventIndex": 10,
+                  "visibleBigramRecall": 0.8128
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "db714990-a823-475c-ad7f-510e0b305d0e",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-06T21:18:44.121Z",
+          "status": "done",
+          "file": "media/renders/e6c011f38ac736361e8b11ad223dc0a040b55c5cbbcf46f4c0fb5d478106fab5.mp4",
+          "playable": true
+        },
+        {
+          "id": "47884eec-e9cd-420a-8928-dd147a831648",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T02:53:39.704Z",
+          "status": "done",
+          "file": "media/renders/e18b6f0e8c47b092b2edecc2790356c5b07f9b16aa7572af909cb8569abca8ed.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n6 max",
+      "condition": "grid",
+      "projectId": "21ae3ad1-e592-4a00-a8f8-5384c1564c5d",
+      "projectName": "max task 2",
+      "eventCount": 96,
+      "generationCount": 2,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "needs-review",
+          "screenshots": [
+            "n6 max grid initial 2.png",
+            "n6 max grid initial.png"
+          ],
+          "selectedCandidate": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+          "selectedEventIndex": 39,
+          "selectedTimestamp": "2026-10-06T21:22:14.702Z",
+          "visibleBigramRecall": 0.3701,
+          "currentSavedVisibleBigramRecall": 0.4016,
+          "firstGenerationVisibleBigramRecall": 0.2362,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects."
+          ],
+          "generations": [
+            {
+              "source": "event:2505e025-bfb4-4d7d-9c8a-76fc9e6a8061",
+              "eventIndex": 0,
+              "timestamp": "2026-10-06T21:21:09.744Z",
+              "title": "Story Beat 1: Departure and Train Journey",
+              "visibleBigramRecall": 0.2362
+            },
+            {
+              "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+              "eventIndex": 39,
+              "timestamp": "2026-10-06T21:22:14.702Z",
+              "title": "Departure & The Commuter Rail",
+              "visibleBigramRecall": 0.3701
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.4016
+            },
+            {
+              "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+              "eventIndex": 39,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-06T21:22:14.702Z",
+              "visibleBigramRecall": 0.3701
+            },
+            {
+              "source": "event:2505e025-bfb4-4d7d-9c8a-76fc9e6a8061",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-06T21:21:09.744Z",
+              "visibleBigramRecall": 0.2362
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n6 max grid initial 2.png",
+              "selectedVisibleBigramRecall": 0.3704,
+              "bestMatches": [
+                {
+                  "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+                  "eventIndex": 39,
+                  "visibleBigramRecall": 0.3704
+                },
+                {
+                  "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.3704
+                }
+              ]
+            },
+            {
+              "file": "n6 max grid initial.png",
+              "selectedVisibleBigramRecall": 0.3696,
+              "bestMatches": [
+                {
+                  "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.4565
+                },
+                {
+                  "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+                  "eventIndex": 39,
+                  "visibleBigramRecall": 0.3696
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "n6 maax grid revised 2.png",
+            "n6 max grid revised 1.png"
+          ],
+          "selectedCandidate": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.4824,
+          "currentSavedVisibleBigramRecall": 0.4824,
+          "firstGenerationVisibleBigramRecall": 0.1765,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:2505e025-bfb4-4d7d-9c8a-76fc9e6a8061",
+              "eventIndex": 0,
+              "timestamp": "2026-10-06T21:21:09.744Z",
+              "title": "Story Beat 1: Departure and Train Journey",
+              "visibleBigramRecall": 0.1765
+            },
+            {
+              "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+              "eventIndex": 39,
+              "timestamp": "2026-10-06T21:22:14.702Z",
+              "title": "Departure & The Commuter Rail",
+              "visibleBigramRecall": 0.2588
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.4824
+            },
+            {
+              "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+              "eventIndex": 39,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-06T21:22:14.702Z",
+              "visibleBigramRecall": 0.2588
+            },
+            {
+              "source": "event:2505e025-bfb4-4d7d-9c8a-76fc9e6a8061",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-06T21:21:09.744Z",
+              "visibleBigramRecall": 0.1765
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n6 maax grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.4688,
+              "bestMatches": [
+                {
+                  "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.4688
+                },
+                {
+                  "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+                  "eventIndex": 39,
+                  "visibleBigramRecall": 0.2344
+                }
+              ]
+            },
+            {
+              "file": "n6 max grid revised 1.png",
+              "selectedVisibleBigramRecall": 0.5238,
+              "bestMatches": [
+                {
+                  "source": "projects/21ae3ad1-e592-4a00-a8f8-5384c1564c5d/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.5238
+                },
+                {
+                  "source": "event:9d157816-0143-42a2-bf62-beaf58612b9d",
+                  "eventIndex": 39,
+                  "visibleBigramRecall": 0.3333
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "4dfe96cd-9a50-4fec-be96-01217d92bf88",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-06T21:22:23.327Z",
+          "status": "error",
+          "file": "media/renders/bcdaa4f249912965b141fe34b900ac314c4cea7d2d89dac179098b992fadc5cd.mp4",
+          "playable": true
+        },
+        {
+          "id": "668a7a1a-e92f-45b2-ba5a-51eb9ceb6378",
+          "label": "Intermediate roughcut 2",
+          "kind": "roughcut",
+          "createdAt": "2026-10-06T21:35:19.915Z",
+          "status": "done",
+          "file": "media/renders/934914d56ccbf4e8d1fa81ff88c5627af3c1713d407e64c8d9967ac7772492fd.mp4",
+          "playable": true
+        },
+        {
+          "id": "20211edb-7f5a-4a89-8023-b1d05e679c3e",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T02:57:34.452Z",
+          "status": "done",
+          "file": "media/renders/d25b0afb21c81d169626faae538bdd2e08a055422fa18c9bd73c113cc42b52f4.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n7 alex",
+      "condition": "text",
+      "projectId": "f78f6dc6-9e22-41c4-a90a-608d636653e9",
+      "projectName": "alex task 2",
+      "eventCount": 97,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n7 alex text initial.png"
+          ],
+          "selectedCandidate": "event:8e2d1295-a023-40b2-b0d5-739929b7acf4",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-07T13:22:23.656Z",
+          "visibleBigramRecall": 1.0,
+          "currentSavedVisibleBigramRecall": 0.8663,
+          "firstGenerationVisibleBigramRecall": 1.0,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:8e2d1295-a023-40b2-b0d5-739929b7acf4",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T13:22:23.656Z",
+              "title": "### Initial Editing Plan",
+              "visibleBigramRecall": 1.0
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:8e2d1295-a023-40b2-b0d5-739929b7acf4",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-07T13:22:23.656Z",
+              "visibleBigramRecall": 1.0
+            },
+            {
+              "source": "event:626c7ac5-1072-4eec-89e8-fd7fb1b4b9a3",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T13:22:24.669Z",
+              "visibleBigramRecall": 1.0
+            },
+            {
+              "source": "event:ec46bcee-3b5c-4c49-8a82-f46b7e3e457f",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:34:50.279Z",
+              "visibleBigramRecall": 0.9901
+            },
+            {
+              "source": "event:a6057031-ebab-473d-8a9b-adca22ac38e1",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:34:57.252Z",
+              "visibleBigramRecall": 0.9901
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n7 alex text initial.png",
+              "selectedVisibleBigramRecall": 1.0,
+              "bestMatches": [
+                {
+                  "source": "event:8e2d1295-a023-40b2-b0d5-739929b7acf4",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 1.0
+                },
+                {
+                  "source": "event:626c7ac5-1072-4eec-89e8-fd7fb1b4b9a3",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "n7 alex text revised .png",
+            "n7 alex text revised 2.png"
+          ],
+          "selectedCandidate": "projects/f78f6dc6-9e22-41c4-a90a-608d636653e9/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-08T02:01:01.518Z",
+          "visibleBigramRecall": 0.967,
+          "currentSavedVisibleBigramRecall": 0.967,
+          "firstGenerationVisibleBigramRecall": 0.7288,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:8e2d1295-a023-40b2-b0d5-739929b7acf4",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T13:22:23.656Z",
+              "title": "### Initial Editing Plan",
+              "visibleBigramRecall": 0.7288
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:674ac641-1dbf-47ba-a82a-66432ed10bdf",
+              "eventIndex": 89,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:47:26.594Z",
+              "visibleBigramRecall": 0.967
+            },
+            {
+              "source": "event:b5396f7c-e013-4139-a823-9539c3d39107",
+              "eventIndex": 91,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:47:42.043Z",
+              "visibleBigramRecall": 0.967
+            },
+            {
+              "source": "event:1c42bc20-f1b8-467f-8d18-ed0738a202e5",
+              "eventIndex": 92,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:47:43.601Z",
+              "visibleBigramRecall": 0.967
+            },
+            {
+              "source": "event:616adbc5-118d-4c4c-8d20-156410c0dc05",
+              "eventIndex": 94,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T16:47:50.154Z",
+              "visibleBigramRecall": 0.967
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n7 alex text revised .png",
+              "selectedVisibleBigramRecall": 0.9602,
+              "bestMatches": [
+                {
+                  "source": "event:481772f3-aec3-4e53-a0ac-c18f9a0f4ac0",
+                  "eventIndex": 28,
+                  "visibleBigramRecall": 0.9602
+                },
+                {
+                  "source": "event:4d30ff8b-6d4f-4685-a84e-94aa693a892f",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.9602
+                }
+              ]
+            },
+            {
+              "file": "n7 alex text revised 2.png",
+              "selectedVisibleBigramRecall": 0.9731,
+              "bestMatches": [
+                {
+                  "source": "event:674ac641-1dbf-47ba-a82a-66432ed10bdf",
+                  "eventIndex": 89,
+                  "visibleBigramRecall": 0.9731
+                },
+                {
+                  "source": "event:b5396f7c-e013-4139-a823-9539c3d39107",
+                  "eventIndex": 91,
+                  "visibleBigramRecall": 0.9731
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "8121f369-821e-4391-b2bf-857c7cebc1f1",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T13:22:30.202Z",
+          "status": "done",
+          "file": "media/renders/19840ad0e5221793afac2bca503bad27df3f0523c52e8cafb6bcacc7bb6a0360.mp4",
+          "playable": true
+        },
+        {
+          "id": "a0c966f0-0e7c-466e-ac7d-2d5e358a4e90",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T16:49:00.506Z",
+          "status": "done",
+          "file": "media/renders/506edfe46269fa367ba434011b2127583572f6cb0b6db9084627162d8835de11.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "n7 alex",
+      "condition": "grid",
+      "projectId": "49dd9183-d7da-495a-9934-09ae8a823fa1",
+      "projectName": "alex task 1",
+      "eventCount": 207,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "n7 alex grid initial 2.png",
+            "n7 alex grid initial.png"
+          ],
+          "selectedCandidate": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-07T13:14:42.415Z",
+          "visibleBigramRecall": 0.5657,
+          "currentSavedVisibleBigramRecall": 0.6768,
+          "firstGenerationVisibleBigramRecall": 0.5657,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T13:14:42.415Z",
+              "title": "Story Beat 1: The Illusion of a Plan",
+              "visibleBigramRecall": 0.5657
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6768
+            },
+            {
+              "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-07T13:14:42.415Z",
+              "visibleBigramRecall": 0.5657
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n7 alex grid initial 2.png",
+              "selectedVisibleBigramRecall": 0.6346,
+              "bestMatches": [
+                {
+                  "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.75
+                },
+                {
+                  "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.6346
+                }
+              ]
+            },
+            {
+              "file": "n7 alex grid initial.png",
+              "selectedVisibleBigramRecall": 0.4894,
+              "bestMatches": [
+                {
+                  "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.5957
+                },
+                {
+                  "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4894
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "n7 alex grid revised .png",
+            "n7 alex grid revised 2.png",
+            "n7 alex grid revised 3.png"
+          ],
+          "selectedCandidate": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.6471,
+          "currentSavedVisibleBigramRecall": 0.6471,
+          "firstGenerationVisibleBigramRecall": 0.451,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T13:14:42.415Z",
+              "title": "Story Beat 1: The Illusion of a Plan",
+              "visibleBigramRecall": 0.451
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6471
+            },
+            {
+              "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-07T13:14:42.415Z",
+              "visibleBigramRecall": 0.451
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "n7 alex grid revised .png",
+              "selectedVisibleBigramRecall": 0.6462,
+              "bestMatches": [
+                {
+                  "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6462
+                },
+                {
+                  "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.5538
+                }
+              ]
+            },
+            {
+              "file": "n7 alex grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.7143,
+              "bestMatches": [
+                {
+                  "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7143
+                },
+                {
+                  "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.2619
+                }
+              ]
+            },
+            {
+              "file": "n7 alex grid revised 3.png",
+              "selectedVisibleBigramRecall": 0.587,
+              "bestMatches": [
+                {
+                  "source": "projects/49dd9183-d7da-495a-9934-09ae8a823fa1/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.587
+                },
+                {
+                  "source": "event:fc62483a-88e2-4548-b4a6-24126baf92ba",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4783
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "6db5f90d-1c1b-4100-a743-dcef06fc4d62",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T13:14:58.523Z",
+          "status": "done",
+          "file": "media/renders/6b14ce0e677d419b8341330f2bdf5fe0705bd767a6876d05912691202c7ed1d3.mp4",
+          "playable": true
+        },
+        {
+          "id": "76a82729-38cc-4d91-bbfd-d69f9a001e8e",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-07T16:32:48.310Z",
+          "status": "done",
+          "file": "media/renders/e43121baa319ad20735b5cf1a9398bb5fe489201ee3abe85e910ee074ce1c01d.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e1 saehui",
+      "condition": "text",
+      "projectId": "473ce596-f6a0-47d0-97d1-4285e336ec92",
+      "projectName": "saehui task 1",
+      "eventCount": 52,
+      "generationCount": 2,
+      "emptyGenerations": 7,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e1 saehui text initial 2.png",
+            "e1 saehui text initial.png"
+          ],
+          "selectedCandidate": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+          "selectedEventIndex": 19,
+          "selectedTimestamp": "2026-09-18T15:41:45.668Z",
+          "visibleBigramRecall": 0.9483,
+          "currentSavedVisibleBigramRecall": 0.8728,
+          "firstGenerationVisibleBigramRecall": 0.2127,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects.",
+            "Gallery selects an empty first generation; use the successful generation identified by the reference."
+          ],
+          "generations": [
+            {
+              "source": "event:9ef6f513-d725-4b51-b62f-5efe78acb11b",
+              "eventIndex": 16,
+              "timestamp": "2026-09-18T15:38:14.120Z",
+              "title": "### Initial Editorial Plan: *Viviana's Playful Pottery* (~60 seconds)",
+              "visibleBigramRecall": 0.2127
+            },
+            {
+              "source": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+              "eventIndex": 19,
+              "timestamp": "2026-09-18T15:41:45.668Z",
+              "title": "### Beat 1: Introduction & Traditional Pottery (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.9483
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+              "eventIndex": 19,
+              "action": "text-plan.generate",
+              "timestamp": "2026-09-18T15:41:45.668Z",
+              "visibleBigramRecall": 0.9483
+            },
+            {
+              "source": "event:35a2487b-9185-41e8-becd-d347b91ca40c",
+              "eventIndex": 20,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T15:41:46.916Z",
+              "visibleBigramRecall": 0.9483
+            },
+            {
+              "source": "event:d337fbfc-4a9f-4d59-b81c-c6202086ba32",
+              "eventIndex": 21,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T15:50:41.911Z",
+              "visibleBigramRecall": 0.9483
+            },
+            {
+              "source": "event:40cfd3d2-54e9-4b0b-8993-a73754d5a046",
+              "eventIndex": 22,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T15:52:11.814Z",
+              "visibleBigramRecall": 0.9483
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e1 saehui text initial 2.png",
+              "selectedVisibleBigramRecall": 0.954,
+              "bestMatches": [
+                {
+                  "source": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+                  "eventIndex": 19,
+                  "visibleBigramRecall": 0.954
+                },
+                {
+                  "source": "event:35a2487b-9185-41e8-becd-d347b91ca40c",
+                  "eventIndex": 20,
+                  "visibleBigramRecall": 0.954
+                }
+              ]
+            },
+            {
+              "file": "e1 saehui text initial.png",
+              "selectedVisibleBigramRecall": 0.9421,
+              "bestMatches": [
+                {
+                  "source": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+                  "eventIndex": 19,
+                  "visibleBigramRecall": 0.9421
+                },
+                {
+                  "source": "event:35a2487b-9185-41e8-becd-d347b91ca40c",
+                  "eventIndex": 20,
+                  "visibleBigramRecall": 0.9421
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e1 saehui text revised.png"
+          ],
+          "selectedCandidate": "projects/473ce596-f6a0-47d0-97d1-4285e336ec92/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-01T15:46:21.956Z",
+          "visibleBigramRecall": 0.8311,
+          "currentSavedVisibleBigramRecall": 0.8311,
+          "firstGenerationVisibleBigramRecall": 0.1854,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:9ef6f513-d725-4b51-b62f-5efe78acb11b",
+              "eventIndex": 16,
+              "timestamp": "2026-09-18T15:38:14.120Z",
+              "title": "### Initial Editorial Plan: *Viviana's Playful Pottery* (~60 seconds)",
+              "visibleBigramRecall": 0.1854
+            },
+            {
+              "source": "event:75c7f37b-a3ef-4b88-be14-bdbbe46517cd",
+              "eventIndex": 19,
+              "timestamp": "2026-09-18T15:41:45.668Z",
+              "title": "### Beat 1: Introduction & Traditional Pottery (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.6623
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:a6e4d0ec-fa9b-457e-bba6-8bf93fa3f5cd",
+              "eventIndex": 49,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T22:31:02.029Z",
+              "visibleBigramRecall": 0.8311
+            },
+            {
+              "source": "event:b4a0240e-3877-4ef6-8c1a-67751acd8185",
+              "eventIndex": 50,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:30:51.363Z",
+              "visibleBigramRecall": 0.8311
+            },
+            {
+              "source": "event:8784bd0a-5176-4020-a81c-8b7446b162cf",
+              "eventIndex": 51,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:46:21.958Z",
+              "visibleBigramRecall": 0.8311
+            },
+            {
+              "source": "projects/473ce596-f6a0-47d0-97d1-4285e336ec92/plan/text-plan.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": "2026-10-01T15:46:21.956Z",
+              "visibleBigramRecall": 0.8311
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e1 saehui text revised.png",
+              "selectedVisibleBigramRecall": 0.8311,
+              "bestMatches": [
+                {
+                  "source": "event:a6e4d0ec-fa9b-457e-bba6-8bf93fa3f5cd",
+                  "eventIndex": 49,
+                  "visibleBigramRecall": 0.8311
+                },
+                {
+                  "source": "event:b4a0240e-3877-4ef6-8c1a-67751acd8185",
+                  "eventIndex": 50,
+                  "visibleBigramRecall": 0.8311
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "c07301a8-6634-4cfe-bed9-9d772cfbc558",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T15:42:34.149Z",
+          "status": "done",
+          "file": "media/renders/a4e1457b44e3af2c5bbbbc880be032929ce2c2bbe61d4e29592c7e70c2c9b5b2.mp4",
+          "playable": true
+        },
+        {
+          "id": "e2b73e51-9e41-4c81-bc93-f6b8c7394f35",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T22:32:46.353Z",
+          "status": "done",
+          "file": "media/renders/ae7ab87afb7d3540b3fddeade940738a8293fdae153a55778b843251a1f26022.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e1 saehui",
+      "condition": "grid",
+      "projectId": "f1a5a5fc-a5e3-4356-8d46-c2d252b05031",
+      "projectName": "saehui task 2",
+      "eventCount": 155,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e1 saehui grid initial.png"
+          ],
+          "selectedCandidate": "event:e9221414-22e7-485a-b88a-c725d4575108",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-18T15:58:13.950Z",
+          "visibleBigramRecall": 0.8,
+          "currentSavedVisibleBigramRecall": 0.4762,
+          "firstGenerationVisibleBigramRecall": 0.8,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T15:58:13.950Z",
+              "title": "Beat 1: Countering Overconsumption with Meaningful Objects",
+              "visibleBigramRecall": 0.8
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T15:58:13.950Z",
+              "visibleBigramRecall": 0.8
+            },
+            {
+              "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.4762
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e1 saehui grid initial.png",
+              "selectedVisibleBigramRecall": 0.8,
+              "bestMatches": [
+                {
+                  "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8
+                },
+                {
+                  "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.4762
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "e1 saehui grid revised 2.png",
+            "e1 saehui grid revised 3.png",
+            "e1 saehui grid revised.png"
+          ],
+          "selectedCandidate": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.6351,
+          "currentSavedVisibleBigramRecall": 0.6351,
+          "firstGenerationVisibleBigramRecall": 0.4369,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T15:58:13.950Z",
+              "title": "Beat 1: Countering Overconsumption with Meaningful Objects",
+              "visibleBigramRecall": 0.4369
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6351
+            },
+            {
+              "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T15:58:13.950Z",
+              "visibleBigramRecall": 0.4369
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e1 saehui grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.6479,
+              "bestMatches": [
+                {
+                  "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6479
+                },
+                {
+                  "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4648
+                }
+              ]
+            },
+            {
+              "file": "e1 saehui grid revised 3.png",
+              "selectedVisibleBigramRecall": 0.6024,
+              "bestMatches": [
+                {
+                  "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6024
+                },
+                {
+                  "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4096
+                }
+              ]
+            },
+            {
+              "file": "e1 saehui grid revised.png",
+              "selectedVisibleBigramRecall": 0.6618,
+              "bestMatches": [
+                {
+                  "source": "projects/f1a5a5fc-a5e3-4356-8d46-c2d252b05031/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6618
+                },
+                {
+                  "source": "event:e9221414-22e7-485a-b88a-c725d4575108",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4412
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "ad5accd5-46c0-4627-83fd-671bdae2ce05",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T15:58:28.259Z",
+          "status": "done",
+          "file": "media/renders/32f87964b35f9944fc6d0b54c0565bf895b989f87080aeb250902abdd7f875c7.mp4",
+          "playable": true
+        },
+        {
+          "id": "7564d1a1-6899-4106-a351-3265322a4853",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T22:59:53.112Z",
+          "status": "done",
+          "file": "media/renders/3c94592e54d316b9b2699c2ee855f7f9a4ce29679e672b6c1872abb97f1e8e1d.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e2 xiyuan",
+      "condition": "text",
+      "projectId": "3083d4b7-cc78-49fa-bdfc-67e92a0ebf41",
+      "projectName": "xiyuan task 2",
+      "eventCount": 15,
+      "generationCount": 1,
+      "emptyGenerations": 2,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e2 xiyuan text initial.png"
+          ],
+          "selectedCandidate": "event:b0bddc38-c36f-4227-b720-57dffabc7b5c",
+          "selectedEventIndex": 2,
+          "selectedTimestamp": "2026-09-18T23:57:08.165Z",
+          "visibleBigramRecall": 0.9672,
+          "currentSavedVisibleBigramRecall": 0.7701,
+          "firstGenerationVisibleBigramRecall": 0.9672,
+          "notes": [
+            "Gallery selects an empty first generation; use the successful generation identified by the reference."
+          ],
+          "generations": [
+            {
+              "source": "event:b0bddc38-c36f-4227-b720-57dffabc7b5c",
+              "eventIndex": 2,
+              "timestamp": "2026-09-18T23:57:08.165Z",
+              "title": "### Beat 1: Introduction & Brand Origin (0:00\u20130:15)",
+              "visibleBigramRecall": 0.9672
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:b0bddc38-c36f-4227-b720-57dffabc7b5c",
+              "eventIndex": 2,
+              "action": "text-plan.generate",
+              "timestamp": "2026-09-18T23:57:08.165Z",
+              "visibleBigramRecall": 0.9672
+            },
+            {
+              "source": "event:a8a3fcb5-0746-4e30-9ad7-3bbf56a431f0",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T23:57:09.384Z",
+              "visibleBigramRecall": 0.9672
+            },
+            {
+              "source": "event:845b48ce-2726-4d9a-8809-6d4c5d6172d2",
+              "eventIndex": 4,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-19T00:56:35.546Z",
+              "visibleBigramRecall": 0.9672
+            },
+            {
+              "source": "event:bfa5fe38-600c-4094-9f0f-41ba1f33d1d7",
+              "eventIndex": 5,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-19T00:58:27.139Z",
+              "visibleBigramRecall": 0.9672
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e2 xiyuan text initial.png",
+              "selectedVisibleBigramRecall": 0.9672,
+              "bestMatches": [
+                {
+                  "source": "event:b0bddc38-c36f-4227-b720-57dffabc7b5c",
+                  "eventIndex": 2,
+                  "visibleBigramRecall": 0.9672
+                },
+                {
+                  "source": "event:a8a3fcb5-0746-4e30-9ad7-3bbf56a431f0",
+                  "eventIndex": 3,
+                  "visibleBigramRecall": 0.9672
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e2 xiyuan text revised.png"
+          ],
+          "selectedCandidate": "projects/3083d4b7-cc78-49fa-bdfc-67e92a0ebf41/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-01T15:47:07.198Z",
+          "visibleBigramRecall": 0.951,
+          "currentSavedVisibleBigramRecall": 0.951,
+          "firstGenerationVisibleBigramRecall": 0.8431,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:b0bddc38-c36f-4227-b720-57dffabc7b5c",
+              "eventIndex": 2,
+              "timestamp": "2026-09-18T23:57:08.165Z",
+              "title": "### Beat 1: Introduction & Brand Origin (0:00\u20130:15)",
+              "visibleBigramRecall": 0.8431
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:83d4887d-9a6e-4838-851d-a8a337c1c37c",
+              "eventIndex": 9,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-19T01:01:08.188Z",
+              "visibleBigramRecall": 0.951
+            },
+            {
+              "source": "event:3d27a1fe-1214-44a7-86b0-8d8cb0438153",
+              "eventIndex": 10,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-19T01:01:30.472Z",
+              "visibleBigramRecall": 0.951
+            },
+            {
+              "source": "event:64ed53a3-1572-4152-979c-25905eed4e88",
+              "eventIndex": 11,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:30:55.356Z",
+              "visibleBigramRecall": 0.951
+            },
+            {
+              "source": "event:99bb93fc-b7e2-44a5-a10d-ff55ce6dd563",
+              "eventIndex": 12,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:40:47.129Z",
+              "visibleBigramRecall": 0.951
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e2 xiyuan text revised.png",
+              "selectedVisibleBigramRecall": 0.951,
+              "bestMatches": [
+                {
+                  "source": "event:83d4887d-9a6e-4838-851d-a8a337c1c37c",
+                  "eventIndex": 9,
+                  "visibleBigramRecall": 0.951
+                },
+                {
+                  "source": "event:3d27a1fe-1214-44a7-86b0-8d8cb0438153",
+                  "eventIndex": 10,
+                  "visibleBigramRecall": 0.951
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "af57ed49-2c62-4b59-b847-afe607d7b1a1",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T23:57:10.643Z",
+          "status": "done",
+          "file": "media/renders/1284d9959483d022bc457e17585a8c51caccc4789585bea78f59cf1dabb8ecfe.mp4",
+          "playable": true
+        },
+        {
+          "id": "046cced2-d7d6-4858-a4d5-a429236208b4",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-19T01:01:50.498Z",
+          "status": "done",
+          "file": "media/renders/45f8ce4ba505e11d0c790a15e606f9cfec11a9d0a77ead214aba3be73a2c4b26.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e2 xiyuan",
+      "condition": "grid",
+      "projectId": "ff1f07ac-4667-4643-bc90-44094c153382",
+      "projectName": "xiyuan task 1",
+      "eventCount": 123,
+      "generationCount": 2,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e2 xiyuan grid initial.png"
+          ],
+          "selectedCandidate": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+          "selectedEventIndex": 32,
+          "selectedTimestamp": "2026-09-18T23:58:19.020Z",
+          "visibleBigramRecall": 0.8455,
+          "currentSavedVisibleBigramRecall": 0.7273,
+          "firstGenerationVisibleBigramRecall": 0.3636,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects."
+          ],
+          "generations": [
+            {
+              "source": "event:6869853e-68d0-4710-95f2-900676bf1c5e",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T23:57:08.689Z",
+              "title": "Beat 1: The Craving for Joy & Meaning",
+              "visibleBigramRecall": 0.3636
+            },
+            {
+              "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+              "eventIndex": 32,
+              "timestamp": "2026-09-18T23:58:19.020Z",
+              "title": "Beat 1: Hook & The Ceramics Surge",
+              "visibleBigramRecall": 0.8455
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+              "eventIndex": 32,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T23:58:19.020Z",
+              "visibleBigramRecall": 0.8455
+            },
+            {
+              "source": "projects/ff1f07ac-4667-4643-bc90-44094c153382/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7273
+            },
+            {
+              "source": "event:6869853e-68d0-4710-95f2-900676bf1c5e",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T23:57:08.689Z",
+              "visibleBigramRecall": 0.3636
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e2 xiyuan grid initial.png",
+              "selectedVisibleBigramRecall": 0.8455,
+              "bestMatches": [
+                {
+                  "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+                  "eventIndex": 32,
+                  "visibleBigramRecall": 0.8455
+                },
+                {
+                  "source": "projects/ff1f07ac-4667-4643-bc90-44094c153382/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7273
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "e2 xiyuan grid revised.png"
+          ],
+          "selectedCandidate": "projects/ff1f07ac-4667-4643-bc90-44094c153382/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.5233,
+          "currentSavedVisibleBigramRecall": 0.5233,
+          "firstGenerationVisibleBigramRecall": 0.186,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:6869853e-68d0-4710-95f2-900676bf1c5e",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T23:57:08.689Z",
+              "title": "Beat 1: The Craving for Joy & Meaning",
+              "visibleBigramRecall": 0.186
+            },
+            {
+              "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+              "eventIndex": 32,
+              "timestamp": "2026-09-18T23:58:19.020Z",
+              "title": "Beat 1: Hook & The Ceramics Surge",
+              "visibleBigramRecall": 0.3895
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/ff1f07ac-4667-4643-bc90-44094c153382/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.5233
+            },
+            {
+              "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+              "eventIndex": 32,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T23:58:19.020Z",
+              "visibleBigramRecall": 0.3895
+            },
+            {
+              "source": "event:6869853e-68d0-4710-95f2-900676bf1c5e",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T23:57:08.689Z",
+              "visibleBigramRecall": 0.186
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e2 xiyuan grid revised.png",
+              "selectedVisibleBigramRecall": 0.5233,
+              "bestMatches": [
+                {
+                  "source": "projects/ff1f07ac-4667-4643-bc90-44094c153382/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.5233
+                },
+                {
+                  "source": "event:0156bd3e-9cf3-47d7-b9c9-5720887952a7",
+                  "eventIndex": 32,
+                  "visibleBigramRecall": 0.3895
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "83580e2c-2b06-497d-9cb1-583a8e93ac8f",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T23:58:52.630Z",
+          "status": "done",
+          "file": "media/renders/e882c74c4636c3478520ebd10660aabc77868f69e29d04cd115713c0d8fb3b6f.mp4",
+          "playable": true
+        },
+        {
+          "id": "ccad9eb2-8fe9-4a18-8de8-8bead10a8535",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-19T01:22:37.915Z",
+          "status": "done",
+          "file": "media/renders/9806486cbffcd13945b54ae8eae5e2ef309be43fbbdc99ea5fa5423d798f941e.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e3 jp",
+      "condition": "text",
+      "projectId": "a10ef027-5678-4418-9b5e-922dbf465566",
+      "projectName": "jp task 2",
+      "eventCount": 32,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e3 jp text initial.png"
+          ],
+          "selectedCandidate": "event:2d8c3ee8-430e-4d9c-96c0-71df437e2d6a",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-18T06:07:46.964Z",
+          "visibleBigramRecall": 0.8547,
+          "currentSavedVisibleBigramRecall": 0.6948,
+          "firstGenerationVisibleBigramRecall": 0.8547,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:2d8c3ee8-430e-4d9c-96c0-71df437e2d6a",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T06:07:46.964Z",
+              "title": "### Story Beat 1: Introduction & The Mud Witch Vibe (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.8547
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:2d8c3ee8-430e-4d9c-96c0-71df437e2d6a",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-09-18T06:07:46.964Z",
+              "visibleBigramRecall": 0.8547
+            },
+            {
+              "source": "event:e5a2739b-868a-4b81-8fe0-aecd30dfb25b",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T06:07:48.895Z",
+              "visibleBigramRecall": 0.8547
+            },
+            {
+              "source": "event:cc802985-51ae-4079-8d8d-256a09035f6a",
+              "eventIndex": 3,
+              "action": "text-plan.refine.accept",
+              "timestamp": "2026-09-18T19:26:35.594Z",
+              "visibleBigramRecall": 0.718
+            },
+            {
+              "source": "event:4d6f694f-b611-4e5f-a33e-4822b9657df7",
+              "eventIndex": 4,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T19:26:36.429Z",
+              "visibleBigramRecall": 0.718
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e3 jp text initial.png",
+              "selectedVisibleBigramRecall": 0.8547,
+              "bestMatches": [
+                {
+                  "source": "event:2d8c3ee8-430e-4d9c-96c0-71df437e2d6a",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8547
+                },
+                {
+                  "source": "event:e5a2739b-868a-4b81-8fe0-aecd30dfb25b",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.8547
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e3 jp text revised 2.png",
+            "e3 jp text revised.png"
+          ],
+          "selectedCandidate": "projects/a10ef027-5678-4418-9b5e-922dbf465566/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-01T15:30:42.798Z",
+          "visibleBigramRecall": 0.9288,
+          "currentSavedVisibleBigramRecall": 0.9288,
+          "firstGenerationVisibleBigramRecall": 0.4814,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:2d8c3ee8-430e-4d9c-96c0-71df437e2d6a",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T06:07:46.964Z",
+              "title": "### Story Beat 1: Introduction & The Mud Witch Vibe (0:00 \u2013 0:15)",
+              "visibleBigramRecall": 0.4814
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:5b3509e7-0926-402e-acbd-563667f93186",
+              "eventIndex": 29,
+              "action": "text-plan.edit",
+              "timestamp": "2026-09-18T19:35:04.419Z",
+              "visibleBigramRecall": 0.9288
+            },
+            {
+              "source": "event:b94195b8-ac68-4f17-b6b5-8664dfa0769f",
+              "eventIndex": 30,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:29:43.815Z",
+              "visibleBigramRecall": 0.9288
+            },
+            {
+              "source": "event:0a5dd820-21c0-44d1-b0d6-3f6e46065d0c",
+              "eventIndex": 31,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-01T15:30:42.800Z",
+              "visibleBigramRecall": 0.9288
+            },
+            {
+              "source": "projects/a10ef027-5678-4418-9b5e-922dbf465566/plan/text-plan.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": "2026-10-01T15:30:42.798Z",
+              "visibleBigramRecall": 0.9288
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e3 jp text revised 2.png",
+              "selectedVisibleBigramRecall": 0.9321,
+              "bestMatches": [
+                {
+                  "source": "event:5b3509e7-0926-402e-acbd-563667f93186",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.9321
+                },
+                {
+                  "source": "event:b94195b8-ac68-4f17-b6b5-8664dfa0769f",
+                  "eventIndex": 30,
+                  "visibleBigramRecall": 0.9321
+                }
+              ]
+            },
+            {
+              "file": "e3 jp text revised.png",
+              "selectedVisibleBigramRecall": 0.9258,
+              "bestMatches": [
+                {
+                  "source": "event:6ac6be80-3841-4e8d-9c86-287ae541999d",
+                  "eventIndex": 22,
+                  "visibleBigramRecall": 0.9258
+                },
+                {
+                  "source": "event:ba20f48a-51d6-4fd9-bc34-d820b34fb6b8",
+                  "eventIndex": 23,
+                  "visibleBigramRecall": 0.9258
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "91bfa6cb-4604-4ca7-8a77-ee29c347fcbc",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T06:11:26.076Z",
+          "status": "done",
+          "file": "media/renders/212e385656203a50dfc617f701009716be41c3bee69b363056cf0b2fda4665ac.mp4",
+          "playable": true
+        },
+        {
+          "id": "1df7b9e7-83e8-469e-8b40-bd1dcc20bf26",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T19:35:15.337Z",
+          "status": "done",
+          "file": "media/renders/3ab934af8c28f99c60b3d541babe3a29d2683b53b5127f4887b91d294c445c15.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e3 jp",
+      "condition": "grid",
+      "projectId": "d452dc36-728c-44c9-889e-be345724737f",
+      "projectName": "jp task 1",
+      "eventCount": 233,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e3 jp grid initial.png"
+          ],
+          "selectedCandidate": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-09-18T06:07:12.633Z",
+          "visibleBigramRecall": 0.8415,
+          "currentSavedVisibleBigramRecall": 0.5,
+          "firstGenerationVisibleBigramRecall": 0.8415,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T06:07:12.633Z",
+              "title": "Beat 1: The Hook & Mystery",
+              "visibleBigramRecall": 0.8415
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T06:07:12.633Z",
+              "visibleBigramRecall": 0.8415
+            },
+            {
+              "source": "projects/d452dc36-728c-44c9-889e-be345724737f/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.5
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e3 jp grid initial.png",
+              "selectedVisibleBigramRecall": 0.8415,
+              "bestMatches": [
+                {
+                  "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.8415
+                },
+                {
+                  "source": "projects/d452dc36-728c-44c9-889e-be345724737f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e3 jp grid revised.png"
+          ],
+          "selectedCandidate": "projects/d452dc36-728c-44c9-889e-be345724737f/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.729,
+          "currentSavedVisibleBigramRecall": 0.729,
+          "firstGenerationVisibleBigramRecall": 0.4581,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+              "eventIndex": 0,
+              "timestamp": "2026-09-18T06:07:12.633Z",
+              "title": "Beat 1: The Hook & Mystery",
+              "visibleBigramRecall": 0.4581
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/d452dc36-728c-44c9-889e-be345724737f/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.729
+            },
+            {
+              "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-09-18T06:07:12.633Z",
+              "visibleBigramRecall": 0.4581
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e3 jp grid revised.png",
+              "selectedVisibleBigramRecall": 0.729,
+              "bestMatches": [
+                {
+                  "source": "projects/d452dc36-728c-44c9-889e-be345724737f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.729
+                },
+                {
+                  "source": "event:8f7798c0-9ff1-4fd3-8640-41fbfa4f139b",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.4581
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "f5505451-a257-4ead-b627-2a4341e3c042",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T06:11:24.679Z",
+          "status": "done",
+          "file": "media/renders/9bf2a72a536e1f1c6b3ad0bd42eb4fb47716c4cac5f084a8c8aaba629342b03f.mp4",
+          "playable": true
+        },
+        {
+          "id": "bec60193-28cc-4902-8889-158cec38da96",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-09-18T19:14:05.082Z",
+          "status": "done",
+          "file": "media/renders/48ebeaa76b2224ea8ba03949679bbcaf74914090a183daf3bbac203252cc5691.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e5 dimitris",
+      "condition": "text",
+      "projectId": "5ac682d8-0f52-4e11-93df-87181ed81367",
+      "projectName": "dimitris task 1",
+      "eventCount": 43,
+      "generationCount": 5,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e5 dimitris text initial.png"
+          ],
+          "selectedCandidate": "event:fb0cf9a4-d050-4f7a-b922-7b69025c0daf",
+          "selectedEventIndex": 8,
+          "selectedTimestamp": "2026-10-03T15:00:23.984Z",
+          "visibleBigramRecall": 0.9676,
+          "currentSavedVisibleBigramRecall": 0.7168,
+          "firstGenerationVisibleBigramRecall": 0.1888,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects."
+          ],
+          "generations": [
+            {
+              "source": "event:27ba3841-6384-446a-a767-c0b807d53dea",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T14:03:59.547Z",
+              "title": "Here is the initial editorial plan for the 1-minute video:",
+              "visibleBigramRecall": 0.1888
+            },
+            {
+              "source": "event:15e221e5-4d24-4075-b76a-7dcf437f9818",
+              "eventIndex": 2,
+              "timestamp": "2026-10-03T14:13:19.904Z",
+              "title": "### Editorial Plan: Michael & The Office Side Characters (60 Seconds)",
+              "visibleBigramRecall": 0.1829
+            },
+            {
+              "source": "event:67195672-1a6a-45dd-ab2a-6b01d1fd7f84",
+              "eventIndex": 4,
+              "timestamp": "2026-10-03T14:14:50.112Z",
+              "title": "**Editorial Plan: 1-Minute Comedy Edit**",
+              "visibleBigramRecall": 0.2478
+            },
+            {
+              "source": "event:9a8ec16b-60b6-4e58-ae16-fd12581285bf",
+              "eventIndex": 5,
+              "timestamp": "2026-10-03T14:17:30.496Z",
+              "title": "**Editing Plan: Michael & The Office Side Characters (1 Minute)**",
+              "visibleBigramRecall": 0.2566
+            },
+            {
+              "source": "event:fb0cf9a4-d050-4f7a-b922-7b69025c0daf",
+              "eventIndex": 8,
+              "timestamp": "2026-10-03T15:00:23.984Z",
+              "title": "### Editorial Plan: 1-Minute Character Comedy Edit",
+              "visibleBigramRecall": 0.9676
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:fb0cf9a4-d050-4f7a-b922-7b69025c0daf",
+              "eventIndex": 8,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-03T15:00:23.984Z",
+              "visibleBigramRecall": 0.9676
+            },
+            {
+              "source": "event:840ecba7-e110-4231-836f-14dbf5979fa8",
+              "eventIndex": 9,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-03T15:00:25.171Z",
+              "visibleBigramRecall": 0.9676
+            },
+            {
+              "source": "event:a92a19ea-154c-4be4-82da-63f8304a377f",
+              "eventIndex": 10,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T16:03:26.151Z",
+              "visibleBigramRecall": 0.9676
+            },
+            {
+              "source": "event:67b34bc0-53ef-4266-8849-bf21b29998d8",
+              "eventIndex": 11,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T16:03:34.878Z",
+              "visibleBigramRecall": 0.9676
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e5 dimitris text initial.png",
+              "selectedVisibleBigramRecall": 0.9676,
+              "bestMatches": [
+                {
+                  "source": "event:fb0cf9a4-d050-4f7a-b922-7b69025c0daf",
+                  "eventIndex": 8,
+                  "visibleBigramRecall": 0.9676
+                },
+                {
+                  "source": "event:840ecba7-e110-4231-836f-14dbf5979fa8",
+                  "eventIndex": 9,
+                  "visibleBigramRecall": 0.9676
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e5 dimitris text revised 2.png",
+            "e5 dimitris text revised.png"
+          ],
+          "selectedCandidate": "projects/5ac682d8-0f52-4e11-93df-87181ed81367/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-04T18:04:39.105Z",
+          "visibleBigramRecall": 0.8807,
+          "currentSavedVisibleBigramRecall": 0.8807,
+          "firstGenerationVisibleBigramRecall": 0.145,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:27ba3841-6384-446a-a767-c0b807d53dea",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T14:03:59.547Z",
+              "title": "Here is the initial editorial plan for the 1-minute video:",
+              "visibleBigramRecall": 0.145
+            },
+            {
+              "source": "event:15e221e5-4d24-4075-b76a-7dcf437f9818",
+              "eventIndex": 2,
+              "timestamp": "2026-10-03T14:13:19.904Z",
+              "title": "### Editorial Plan: Michael & The Office Side Characters (60 Seconds)",
+              "visibleBigramRecall": 0.1719
+            },
+            {
+              "source": "event:67195672-1a6a-45dd-ab2a-6b01d1fd7f84",
+              "eventIndex": 4,
+              "timestamp": "2026-10-03T14:14:50.112Z",
+              "title": "**Editorial Plan: 1-Minute Comedy Edit**",
+              "visibleBigramRecall": 0.1906
+            },
+            {
+              "source": "event:9a8ec16b-60b6-4e58-ae16-fd12581285bf",
+              "eventIndex": 5,
+              "timestamp": "2026-10-03T14:17:30.496Z",
+              "title": "**Editing Plan: Michael & The Office Side Characters (1 Minute)**",
+              "visibleBigramRecall": 0.1801
+            },
+            {
+              "source": "event:fb0cf9a4-d050-4f7a-b922-7b69025c0daf",
+              "eventIndex": 8,
+              "timestamp": "2026-10-03T15:00:23.984Z",
+              "title": "### Editorial Plan: 1-Minute Character Comedy Edit",
+              "visibleBigramRecall": 0.5883
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:7711db95-1e0b-4bd6-84ec-d545ccb9975b",
+              "eventIndex": 41,
+              "action": "text-plan.resolveHunk",
+              "timestamp": "2026-10-04T18:04:38.294Z",
+              "visibleBigramRecall": 0.8807
+            },
+            {
+              "source": "event:4edea776-a74f-4051-bb1a-5f344437e443",
+              "eventIndex": 42,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T18:04:39.106Z",
+              "visibleBigramRecall": 0.8807
+            },
+            {
+              "source": "projects/5ac682d8-0f52-4e11-93df-87181ed81367/plan/text-plan.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": "2026-10-04T18:04:39.105Z",
+              "visibleBigramRecall": 0.8807
+            },
+            {
+              "source": "event:3a0adb5c-d3fe-4d5c-b090-6d5f7bb0d546",
+              "eventIndex": 39,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-04T18:01:51.175Z",
+              "visibleBigramRecall": 0.7696
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e5 dimitris text revised 2.png",
+              "selectedVisibleBigramRecall": 0.8687,
+              "bestMatches": [
+                {
+                  "source": "event:7711db95-1e0b-4bd6-84ec-d545ccb9975b",
+                  "eventIndex": 41,
+                  "visibleBigramRecall": 0.8687
+                },
+                {
+                  "source": "event:4edea776-a74f-4051-bb1a-5f344437e443",
+                  "eventIndex": 42,
+                  "visibleBigramRecall": 0.8687
+                }
+              ]
+            },
+            {
+              "file": "e5 dimitris text revised.png",
+              "selectedVisibleBigramRecall": 0.8931,
+              "bestMatches": [
+                {
+                  "source": "event:7711db95-1e0b-4bd6-84ec-d545ccb9975b",
+                  "eventIndex": 41,
+                  "visibleBigramRecall": 0.8931
+                },
+                {
+                  "source": "event:4edea776-a74f-4051-bb1a-5f344437e443",
+                  "eventIndex": 42,
+                  "visibleBigramRecall": 0.8931
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "39115215-653c-403d-916c-e9aa0f9fd479",
+          "label": "Unavailable roughcut (error)",
+          "kind": "roughcut",
+          "createdAt": "2026-10-03T14:04:29.729Z",
+          "status": "error",
+          "reason": "Stopped at user request. The agent process was no longer running; its stale active status has been cleared."
+        },
+        {
+          "id": "5704705d-4e0e-4798-903b-7f1bde8cdc59",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-03T15:02:27.306Z",
+          "status": "done",
+          "file": "media/renders/f43061995dc473a3233c2a0aca5ca1bc74e0d22f3a07b48c1b58004fc0a13e30.mp4",
+          "playable": true
+        },
+        {
+          "id": "e208f679-a67f-4bcb-a0f5-9b30eafbc8fe",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-04T18:04:55.106Z",
+          "status": "done",
+          "file": "media/renders/601f790b8b66f19de8be9ba2cb492bbc2fc615565605af318c1ada937f18e664.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e5 dimitris",
+      "condition": "grid",
+      "projectId": "3683b951-81a7-42f6-a3bc-7b4309a0cb19",
+      "projectName": "dimitris task 2",
+      "eventCount": 150,
+      "generationCount": 5,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e5 dimitris grid initial.png"
+          ],
+          "selectedCandidate": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+          "selectedEventIndex": 73,
+          "selectedTimestamp": "2026-10-03T14:32:42.419Z",
+          "visibleBigramRecall": 0.8379,
+          "currentSavedVisibleBigramRecall": 0.7984,
+          "firstGenerationVisibleBigramRecall": 0.1739,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects."
+          ],
+          "generations": [
+            {
+              "source": "event:13815a0a-bc11-4504-bb1d-7d37371ec193",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T14:05:53.989Z",
+              "title": "Beat 1: Dwight's Career Ambitions",
+              "visibleBigramRecall": 0.1739
+            },
+            {
+              "source": "event:4ac83e35-7403-4265-b1ea-9af7da0c25bd",
+              "eventIndex": 14,
+              "timestamp": "2026-10-03T14:13:27.361Z",
+              "title": "Beat 1: Dwight on the Job Hunt",
+              "visibleBigramRecall": 0.2451
+            },
+            {
+              "source": "event:40bc1904-f1a7-4146-9507-523b28731250",
+              "eventIndex": 32,
+              "timestamp": "2026-10-03T14:15:51.645Z",
+              "title": "Beat 1: Dwight\u2019s Job Search",
+              "visibleBigramRecall": 0.2016
+            },
+            {
+              "source": "event:acb51204-de5f-473a-b1f2-1fb9648983fb",
+              "eventIndex": 54,
+              "timestamp": "2026-10-03T14:17:39.379Z",
+              "title": "Beat 1: Dwight on the Job Hunt",
+              "visibleBigramRecall": 0.2609
+            },
+            {
+              "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+              "eventIndex": 73,
+              "timestamp": "2026-10-03T14:32:42.419Z",
+              "title": "Beat 1: Dwight's Intense Job Search",
+              "visibleBigramRecall": 0.8379
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+              "eventIndex": 73,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:32:42.419Z",
+              "visibleBigramRecall": 0.8379
+            },
+            {
+              "source": "projects/3683b951-81a7-42f6-a3bc-7b4309a0cb19/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7984
+            },
+            {
+              "source": "event:acb51204-de5f-473a-b1f2-1fb9648983fb",
+              "eventIndex": 54,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:17:39.379Z",
+              "visibleBigramRecall": 0.2609
+            },
+            {
+              "source": "event:4ac83e35-7403-4265-b1ea-9af7da0c25bd",
+              "eventIndex": 14,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:13:27.361Z",
+              "visibleBigramRecall": 0.2451
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e5 dimitris grid initial.png",
+              "selectedVisibleBigramRecall": 0.8379,
+              "bestMatches": [
+                {
+                  "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+                  "eventIndex": 73,
+                  "visibleBigramRecall": 0.8379
+                },
+                {
+                  "source": "projects/3683b951-81a7-42f6-a3bc-7b4309a0cb19/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7984
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e5 dimitris grid revised.png"
+          ],
+          "selectedCandidate": "projects/3683b951-81a7-42f6-a3bc-7b4309a0cb19/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.7379,
+          "currentSavedVisibleBigramRecall": 0.7379,
+          "firstGenerationVisibleBigramRecall": 0.1759,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:13815a0a-bc11-4504-bb1d-7d37371ec193",
+              "eventIndex": 0,
+              "timestamp": "2026-10-03T14:05:53.989Z",
+              "title": "Beat 1: Dwight's Career Ambitions",
+              "visibleBigramRecall": 0.1759
+            },
+            {
+              "source": "event:4ac83e35-7403-4265-b1ea-9af7da0c25bd",
+              "eventIndex": 14,
+              "timestamp": "2026-10-03T14:13:27.361Z",
+              "title": "Beat 1: Dwight on the Job Hunt",
+              "visibleBigramRecall": 0.2448
+            },
+            {
+              "source": "event:40bc1904-f1a7-4146-9507-523b28731250",
+              "eventIndex": 32,
+              "timestamp": "2026-10-03T14:15:51.645Z",
+              "title": "Beat 1: Dwight\u2019s Job Search",
+              "visibleBigramRecall": 0.2138
+            },
+            {
+              "source": "event:acb51204-de5f-473a-b1f2-1fb9648983fb",
+              "eventIndex": 54,
+              "timestamp": "2026-10-03T14:17:39.379Z",
+              "title": "Beat 1: Dwight on the Job Hunt",
+              "visibleBigramRecall": 0.2345
+            },
+            {
+              "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+              "eventIndex": 73,
+              "timestamp": "2026-10-03T14:32:42.419Z",
+              "title": "Beat 1: Dwight's Intense Job Search",
+              "visibleBigramRecall": 0.6897
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/3683b951-81a7-42f6-a3bc-7b4309a0cb19/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7379
+            },
+            {
+              "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+              "eventIndex": 73,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:32:42.419Z",
+              "visibleBigramRecall": 0.6897
+            },
+            {
+              "source": "event:4ac83e35-7403-4265-b1ea-9af7da0c25bd",
+              "eventIndex": 14,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:13:27.361Z",
+              "visibleBigramRecall": 0.2448
+            },
+            {
+              "source": "event:acb51204-de5f-473a-b1f2-1fb9648983fb",
+              "eventIndex": 54,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-03T14:17:39.379Z",
+              "visibleBigramRecall": 0.2345
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e5 dimitris grid revised.png",
+              "selectedVisibleBigramRecall": 0.7379,
+              "bestMatches": [
+                {
+                  "source": "projects/3683b951-81a7-42f6-a3bc-7b4309a0cb19/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7379
+                },
+                {
+                  "source": "event:7e98c085-9c62-4237-9912-9c8c1c968202",
+                  "eventIndex": 73,
+                  "visibleBigramRecall": 0.6897
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "96e46e0c-68d1-4d27-aff7-af6b2a5dd93f",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-03T14:40:35.846Z",
+          "status": "done",
+          "file": "media/renders/c425439dc366981c90b3fe6b427ac5778d3ef9f5ae06352d02febd8396660fc0.mp4",
+          "playable": true
+        },
+        {
+          "id": "cf4e778b-74c0-4bc3-84c3-896a5e6e5feb",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-04T17:44:00.053Z",
+          "status": "done",
+          "file": "media/renders/23a6313986a2e5d513e3efed809ad25be2f4f63360c9ca716e5e73904987d30e.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e4 jonah",
+      "condition": "text",
+      "projectId": "b98f1985-22e2-400c-b0ec-2607ac1ca066",
+      "projectName": "jonah task 1",
+      "eventCount": 33,
+      "generationCount": 1,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e4 jonah text initial 2.png",
+            "e4 jonah text initial.png"
+          ],
+          "selectedCandidate": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+          "selectedEventIndex": 0,
+          "selectedTimestamp": "2026-10-07T22:00:48.573Z",
+          "visibleBigramRecall": 0.9749,
+          "currentSavedVisibleBigramRecall": 0.8363,
+          "firstGenerationVisibleBigramRecall": 0.9749,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T22:00:48.573Z",
+              "title": "### Story Beat 1: Creative Exploration & Opening Hook (0:00\u20130:15)",
+              "visibleBigramRecall": 0.9749
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+              "eventIndex": 0,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-07T22:00:48.573Z",
+              "visibleBigramRecall": 0.9749
+            },
+            {
+              "source": "event:c8abaa2d-a786-4760-973d-4bbb9c45a59d",
+              "eventIndex": 1,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-07T22:00:50.312Z",
+              "visibleBigramRecall": 0.9749
+            },
+            {
+              "source": "event:4f845ad8-e34b-436d-a438-13ded2058ce1",
+              "eventIndex": 2,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-08T01:39:18.374Z",
+              "visibleBigramRecall": 0.9749
+            },
+            {
+              "source": "event:4e97423f-9f9b-4d6b-86f8-bdc3194ab3a1",
+              "eventIndex": 3,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T15:29:54.633Z",
+              "visibleBigramRecall": 0.9749
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e4 jonah text initial 2.png",
+              "selectedVisibleBigramRecall": 0.9648,
+              "bestMatches": [
+                {
+                  "source": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9648
+                },
+                {
+                  "source": "event:c8abaa2d-a786-4760-973d-4bbb9c45a59d",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9648
+                }
+              ]
+            },
+            {
+              "file": "e4 jonah text initial.png",
+              "selectedVisibleBigramRecall": 0.9852,
+              "bestMatches": [
+                {
+                  "source": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+                  "eventIndex": 0,
+                  "visibleBigramRecall": 0.9852
+                },
+                {
+                  "source": "event:c8abaa2d-a786-4760-973d-4bbb9c45a59d",
+                  "eventIndex": 1,
+                  "visibleBigramRecall": 0.9852
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e4 jonah text revised 2.png",
+            "e4 jonah text revised 3.png",
+            "e4 jonah text revised.png"
+          ],
+          "selectedCandidate": "projects/b98f1985-22e2-400c-b0ec-2607ac1ca066/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-09T16:21:44.819Z",
+          "visibleBigramRecall": 0.8789,
+          "currentSavedVisibleBigramRecall": 0.8789,
+          "firstGenerationVisibleBigramRecall": 0.6523,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:e8fcc17f-cec1-4efc-b102-547e22926d06",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T22:00:48.573Z",
+              "title": "### Story Beat 1: Creative Exploration & Opening Hook (0:00\u20130:15)",
+              "visibleBigramRecall": 0.6523
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:7ae83866-1ef0-480f-9a7a-f17eb50f01a3",
+              "eventIndex": 26,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T15:37:30.837Z",
+              "visibleBigramRecall": 0.8789
+            },
+            {
+              "source": "event:e6f364dc-1ef2-4e30-9f75-37a3f8d0dd7b",
+              "eventIndex": 27,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T15:37:46.135Z",
+              "visibleBigramRecall": 0.8789
+            },
+            {
+              "source": "event:89da3c3d-1b78-4ed0-baeb-a89cde0818c3",
+              "eventIndex": 28,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T15:37:47.626Z",
+              "visibleBigramRecall": 0.8789
+            },
+            {
+              "source": "event:60c12458-2216-4bf9-9727-f7f0228c3559",
+              "eventIndex": 29,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T15:37:50.068Z",
+              "visibleBigramRecall": 0.8789
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e4 jonah text revised 2.png",
+              "selectedVisibleBigramRecall": 0.8211,
+              "bestMatches": [
+                {
+                  "source": "event:7ae83866-1ef0-480f-9a7a-f17eb50f01a3",
+                  "eventIndex": 26,
+                  "visibleBigramRecall": 0.8211
+                },
+                {
+                  "source": "event:e6f364dc-1ef2-4e30-9f75-37a3f8d0dd7b",
+                  "eventIndex": 27,
+                  "visibleBigramRecall": 0.8211
+                }
+              ]
+            },
+            {
+              "file": "e4 jonah text revised 3.png",
+              "selectedVisibleBigramRecall": 0.9814,
+              "bestMatches": [
+                {
+                  "source": "event:c490ec5f-ae50-40b1-90a4-de12c9a00d44",
+                  "eventIndex": 21,
+                  "visibleBigramRecall": 0.9814
+                },
+                {
+                  "source": "event:ea2d2f42-c437-42a4-abd1-9c8b47f195cd",
+                  "eventIndex": 22,
+                  "visibleBigramRecall": 0.9814
+                }
+              ]
+            },
+            {
+              "file": "e4 jonah text revised.png",
+              "selectedVisibleBigramRecall": 0.8256,
+              "bestMatches": [
+                {
+                  "source": "event:c490ec5f-ae50-40b1-90a4-de12c9a00d44",
+                  "eventIndex": 21,
+                  "visibleBigramRecall": 0.8256
+                },
+                {
+                  "source": "event:ea2d2f42-c437-42a4-abd1-9c8b47f195cd",
+                  "eventIndex": 22,
+                  "visibleBigramRecall": 0.8256
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "04b7092c-04f7-45b6-a235-5e4d4566b669",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T01:43:19.628Z",
+          "status": "done",
+          "file": "media/renders/269dcb8a616ae41dd0d8344ef9a162d969004a17f94de460ca41d34d8698f351.mp4",
+          "playable": true
+        },
+        {
+          "id": "e4be56b1-a7e7-4213-b8d0-91e1b681f024",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-09T15:38:30.908Z",
+          "status": "done",
+          "file": "media/renders/2d587e2f3d1066b37bf1541477aaa62e2a49b60e80897691cb485f116fa153d8.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e4 jonah",
+      "condition": "grid",
+      "projectId": "6c091136-d0ab-41aa-bb47-3a85b523a27f",
+      "projectName": "jonah task 2",
+      "eventCount": 235,
+      "generationCount": 2,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "e4 jonah grid initial .png"
+          ],
+          "selectedCandidate": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+          "selectedEventIndex": 29,
+          "selectedTimestamp": "2026-10-08T02:31:41.705Z",
+          "visibleBigramRecall": 0.4756,
+          "currentSavedVisibleBigramRecall": 0.378,
+          "firstGenerationVisibleBigramRecall": 0.2683,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects.",
+            "Screenshot-matched initial plan was generated AFTER the earliest surviving video. These must not be silently paired."
+          ],
+          "generations": [
+            {
+              "source": "event:4a79a940-01ee-462d-9aca-0f731b5ebc69",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T22:02:26.157Z",
+              "title": "Beat 1: Cold Open & Introduction",
+              "visibleBigramRecall": 0.2683
+            },
+            {
+              "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+              "eventIndex": 29,
+              "timestamp": "2026-10-08T02:31:41.705Z",
+              "title": "Beat 1: Cold Open & Introduction",
+              "visibleBigramRecall": 0.4756
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+              "eventIndex": 29,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T02:31:41.705Z",
+              "visibleBigramRecall": 0.4756
+            },
+            {
+              "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.378
+            },
+            {
+              "source": "event:4a79a940-01ee-462d-9aca-0f731b5ebc69",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-07T22:02:26.157Z",
+              "visibleBigramRecall": 0.2683
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e4 jonah grid initial .png",
+              "selectedVisibleBigramRecall": 0.4756,
+              "bestMatches": [
+                {
+                  "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.4756
+                },
+                {
+                  "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.378
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e4 jonah grid revised 2.png",
+            "e4 jonah grid revised 3.png",
+            "e4 jonah grid revised.png"
+          ],
+          "selectedCandidate": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.6838,
+          "currentSavedVisibleBigramRecall": 0.6838,
+          "firstGenerationVisibleBigramRecall": 0.1239,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:4a79a940-01ee-462d-9aca-0f731b5ebc69",
+              "eventIndex": 0,
+              "timestamp": "2026-10-07T22:02:26.157Z",
+              "title": "Beat 1: Cold Open & Introduction",
+              "visibleBigramRecall": 0.1239
+            },
+            {
+              "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+              "eventIndex": 29,
+              "timestamp": "2026-10-08T02:31:41.705Z",
+              "title": "Beat 1: Cold Open & Introduction",
+              "visibleBigramRecall": 0.1709
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6838
+            },
+            {
+              "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+              "eventIndex": 29,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T02:31:41.705Z",
+              "visibleBigramRecall": 0.1709
+            },
+            {
+              "source": "event:4a79a940-01ee-462d-9aca-0f731b5ebc69",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-07T22:02:26.157Z",
+              "visibleBigramRecall": 0.1239
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e4 jonah grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.6316,
+              "bestMatches": [
+                {
+                  "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6316
+                },
+                {
+                  "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.1316
+                }
+              ]
+            },
+            {
+              "file": "e4 jonah grid revised 3.png",
+              "selectedVisibleBigramRecall": 0.7,
+              "bestMatches": [
+                {
+                  "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7
+                },
+                {
+                  "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.1429
+                }
+              ]
+            },
+            {
+              "file": "e4 jonah grid revised.png",
+              "selectedVisibleBigramRecall": 0.7159,
+              "bestMatches": [
+                {
+                  "source": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7159
+                },
+                {
+                  "source": "event:e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+                  "eventIndex": 29,
+                  "visibleBigramRecall": 0.2273
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "1eb6429e-b8af-4dc4-a6b4-7309ea91dffe",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T01:44:05.519Z",
+          "status": "done",
+          "file": "media/renders/7206f889e38f0c5c5c88060cfbbaad9e596661f78317db05af9ab7da02e2bf12.mp4",
+          "playable": true
+        },
+        {
+          "id": "008ef7dd-86ac-4191-865d-b53d8c96a63a",
+          "label": "Intermediate roughcut 2",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T02:04:58.938Z",
+          "status": "done",
+          "file": "media/renders/3dcb8abde46351533e8018ad225ce4bb20b702a3b6710bdc746076ea5712e13c.mp4",
+          "playable": true
+        },
+        {
+          "id": "fae55681-2257-4ab6-ad01-474b73e9b88f",
+          "label": "Unavailable roughcut (error)",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T02:48:30.694Z",
+          "status": "error",
+          "reason": "coconut-agent process exited with code 1 and produced no usable render/timeline"
+        },
+        {
+          "id": "ccec71d2-e6d5-4bed-8fbc-aadff1c21e10",
+          "label": "Intermediate roughcut 3",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T14:11:27.823Z",
+          "status": "done",
+          "file": "media/renders/a47def284debda7a35133fe2419b504a2762e1b923ec86855a78440c6eb6148a.mp4",
+          "playable": true
+        },
+        {
+          "id": "5b2acddb-7602-42a7-b9cd-d47ed8013452",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-09T15:24:39.606Z",
+          "status": "done",
+          "file": "media/renders/022d0df31c922e88bef6205150e56b65a0b3eb64b0440b3c091d030271949fc3.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e6 brian",
+      "condition": "text",
+      "projectId": "bf449713-e0f6-4795-98c2-9b3969e94666",
+      "projectName": "brain task 1",
+      "eventCount": 41,
+      "generationCount": 2,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e6 brian text initial 2.png",
+            "e6 brian text initial.png"
+          ],
+          "selectedCandidate": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+          "selectedEventIndex": 3,
+          "selectedTimestamp": "2026-10-08T14:14:20.370Z",
+          "visibleBigramRecall": 0.9651,
+          "currentSavedVisibleBigramRecall": 0.9431,
+          "firstGenerationVisibleBigramRecall": 0.3558,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects.",
+            "Screenshot-matched initial plan was generated AFTER the earliest surviving video. These must not be silently paired."
+          ],
+          "generations": [
+            {
+              "source": "event:65e39e48-e63e-4000-9f89-08a8adbb20de",
+              "eventIndex": 0,
+              "timestamp": "2026-10-08T01:49:47.468Z",
+              "title": "### Editorial Plan: Jason Deck \u2013 Nice Jewish Runners",
+              "visibleBigramRecall": 0.3558
+            },
+            {
+              "source": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+              "eventIndex": 3,
+              "timestamp": "2026-10-08T14:14:20.370Z",
+              "title": "### Editorial Plan: Jason Deck / Nice Jewish Runners (60 Seconds)",
+              "visibleBigramRecall": 0.9651
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+              "eventIndex": 3,
+              "action": "text-plan.generate",
+              "timestamp": "2026-10-08T14:14:20.370Z",
+              "visibleBigramRecall": 0.9651
+            },
+            {
+              "source": "event:66c38320-d617-4ad2-abe5-ea1e9ad035b2",
+              "eventIndex": 4,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-08T14:14:21.405Z",
+              "visibleBigramRecall": 0.9651
+            },
+            {
+              "source": "event:8e7f923a-9fa4-4c0c-b870-3e3f24fdcedc",
+              "eventIndex": 5,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T17:13:52.190Z",
+              "visibleBigramRecall": 0.9651
+            },
+            {
+              "source": "event:d3f1220d-01ea-4d46-a9f4-e8553b3c44b4",
+              "eventIndex": 6,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T18:06:32.711Z",
+              "visibleBigramRecall": 0.9638
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e6 brian text initial 2.png",
+              "selectedVisibleBigramRecall": 0.9603,
+              "bestMatches": [
+                {
+                  "source": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+                  "eventIndex": 3,
+                  "visibleBigramRecall": 0.9603
+                },
+                {
+                  "source": "event:66c38320-d617-4ad2-abe5-ea1e9ad035b2",
+                  "eventIndex": 4,
+                  "visibleBigramRecall": 0.9603
+                }
+              ]
+            },
+            {
+              "file": "e6 brian text initial.png",
+              "selectedVisibleBigramRecall": 0.9696,
+              "bestMatches": [
+                {
+                  "source": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+                  "eventIndex": 3,
+                  "visibleBigramRecall": 0.9696
+                },
+                {
+                  "source": "event:66c38320-d617-4ad2-abe5-ea1e9ad035b2",
+                  "eventIndex": 4,
+                  "visibleBigramRecall": 0.9696
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e6 brian text revised 2.png",
+            "e6 brian text revised.png"
+          ],
+          "selectedCandidate": "projects/bf449713-e0f6-4795-98c2-9b3969e94666/plan/text-plan.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": "2026-10-09T19:22:20.716Z",
+          "visibleBigramRecall": 0.9109,
+          "currentSavedVisibleBigramRecall": 0.9109,
+          "firstGenerationVisibleBigramRecall": 0.2506,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:65e39e48-e63e-4000-9f89-08a8adbb20de",
+              "eventIndex": 0,
+              "timestamp": "2026-10-08T01:49:47.468Z",
+              "title": "### Editorial Plan: Jason Deck \u2013 Nice Jewish Runners",
+              "visibleBigramRecall": 0.2506
+            },
+            {
+              "source": "event:89c883e7-a100-4f0e-b872-c51d69aa8cf0",
+              "eventIndex": 3,
+              "timestamp": "2026-10-08T14:14:20.370Z",
+              "title": "### Editorial Plan: Jason Deck / Nice Jewish Runners (60 Seconds)",
+              "visibleBigramRecall": 0.7209
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:df70e0d1-76e0-4b8d-bcdf-0f5e4e790eea",
+              "eventIndex": 31,
+              "action": "text-plan.refine.accept",
+              "timestamp": "2026-10-09T18:13:36.632Z",
+              "visibleBigramRecall": 0.9109
+            },
+            {
+              "source": "event:ab268471-9e02-4be0-99ad-0e3864d9ba3a",
+              "eventIndex": 32,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T18:13:37.462Z",
+              "visibleBigramRecall": 0.9109
+            },
+            {
+              "source": "event:542dc8cb-492f-4c67-bd6b-23be365853f6",
+              "eventIndex": 33,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T18:51:15.822Z",
+              "visibleBigramRecall": 0.9109
+            },
+            {
+              "source": "event:f4db78e2-8d67-4f32-8ce2-bd15ea6bf42f",
+              "eventIndex": 34,
+              "action": "text-plan.edit",
+              "timestamp": "2026-10-09T18:51:17.630Z",
+              "visibleBigramRecall": 0.9109
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e6 brian text revised 2.png",
+              "selectedVisibleBigramRecall": 0.8981,
+              "bestMatches": [
+                {
+                  "source": "event:df70e0d1-76e0-4b8d-bcdf-0f5e4e790eea",
+                  "eventIndex": 31,
+                  "visibleBigramRecall": 0.8981
+                },
+                {
+                  "source": "event:ab268471-9e02-4be0-99ad-0e3864d9ba3a",
+                  "eventIndex": 32,
+                  "visibleBigramRecall": 0.8981
+                }
+              ]
+            },
+            {
+              "file": "e6 brian text revised.png",
+              "selectedVisibleBigramRecall": 0.9254,
+              "bestMatches": [
+                {
+                  "source": "event:e3caa9cb-433b-4012-a31d-fa157c521fe2",
+                  "eventIndex": 25,
+                  "visibleBigramRecall": 0.9254
+                },
+                {
+                  "source": "event:8dcd13f9-b53c-40c8-b832-5e643b5ff2dd",
+                  "eventIndex": 26,
+                  "visibleBigramRecall": 0.9254
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "a2c2050d-5cd8-4a73-8416-84c6238c1a08",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T01:56:26.736Z",
+          "status": "done",
+          "file": "media/renders/97f519bb1031e325c3790f599543d938819042c9fb3ece5d4a50f96cc7355211.mp4",
+          "playable": true
+        },
+        {
+          "id": "fcdc920e-753c-48bb-9a11-deeeb0d3acf2",
+          "label": "Intermediate roughcut 2",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T14:14:57.475Z",
+          "status": "error",
+          "file": "media/renders/3e4788fb6611dc876259627104583d92615c76bbae71ad40be795ecedd3f07ab.mp4",
+          "playable": false,
+          "reason": "Incomplete original MP4: missing moov metadata"
+        },
+        {
+          "id": "55ab0b17-a194-4866-94cb-823464e393b4",
+          "label": "Intermediate roughcut 3",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T14:37:29.965Z",
+          "status": "done",
+          "file": "media/renders/28af957c68f5a120e6a04395663037b861506d53c08b5832e0272cf887f18311.mp4",
+          "playable": true
+        },
+        {
+          "id": "d01e6243-b355-477d-bd8b-ae5dac31ac82",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-09T18:13:47.381Z",
+          "status": "done",
+          "file": "media/renders/9d14e70c074422dbdad9e588bc96c7f31a23ede06e5985969d4ebe0f066f3f38.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    },
+    {
+      "participant": "e6 brian",
+      "condition": "grid",
+      "projectId": "9d98e3bd-6b74-4ac8-9cbe-a02880632c94",
+      "projectName": "brian task 2",
+      "eventCount": 154,
+      "generationCount": 2,
+      "emptyGenerations": 0,
+      "syntheticHistory": false,
+      "phases": {
+        "initial": {
+          "status": "supported-visible-content",
+          "screenshots": [
+            "e6 brian grid initial.png"
+          ],
+          "selectedCandidate": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+          "selectedEventIndex": 35,
+          "selectedTimestamp": "2026-10-08T14:15:42.381Z",
+          "visibleBigramRecall": 0.8,
+          "currentSavedVisibleBigramRecall": 0.7273,
+          "firstGenerationVisibleBigramRecall": 0.5455,
+          "notes": [
+            "Reference screenshots support a later generation than the gallery currently selects.",
+            "Screenshot-matched initial plan was generated AFTER the earliest surviving video. These must not be silently paired."
+          ],
+          "generations": [
+            {
+              "source": "event:42ec6bd3-0e68-48ac-9387-c4b3f4f68f1a",
+              "eventIndex": 0,
+              "timestamp": "2026-10-08T01:59:01.870Z",
+              "title": "Beat 1: Introduction & Origins",
+              "visibleBigramRecall": 0.5455
+            },
+            {
+              "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+              "eventIndex": 35,
+              "timestamp": "2026-10-08T14:15:42.381Z",
+              "title": "Story Beat 1: Introduction & Immigration Roots",
+              "visibleBigramRecall": 0.8
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+              "eventIndex": 35,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T14:15:42.381Z",
+              "visibleBigramRecall": 0.8
+            },
+            {
+              "source": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.7273
+            },
+            {
+              "source": "event:42ec6bd3-0e68-48ac-9387-c4b3f4f68f1a",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T01:59:01.870Z",
+              "visibleBigramRecall": 0.5455
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e6 brian grid initial.png",
+              "selectedVisibleBigramRecall": 0.8,
+              "bestMatches": [
+                {
+                  "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+                  "eventIndex": 35,
+                  "visibleBigramRecall": 0.8
+                },
+                {
+                  "source": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.7273
+                }
+              ]
+            }
+          ]
+        },
+        "revised": {
+          "status": "partial-reference-support",
+          "screenshots": [
+            "e6 brian grid revised 2.png",
+            "e6 brian grid revised.png"
+          ],
+          "selectedCandidate": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+          "selectedEventIndex": null,
+          "selectedTimestamp": null,
+          "visibleBigramRecall": 0.6167,
+          "currentSavedVisibleBigramRecall": 0.6167,
+          "firstGenerationVisibleBigramRecall": 0.4146,
+          "notes": [],
+          "generations": [
+            {
+              "source": "event:42ec6bd3-0e68-48ac-9387-c4b3f4f68f1a",
+              "eventIndex": 0,
+              "timestamp": "2026-10-08T01:59:01.870Z",
+              "title": "Beat 1: Introduction & Origins",
+              "visibleBigramRecall": 0.4146
+            },
+            {
+              "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+              "eventIndex": 35,
+              "timestamp": "2026-10-08T14:15:42.381Z",
+              "title": "Story Beat 1: Introduction & Immigration Roots",
+              "visibleBigramRecall": 0.5436
+            }
+          ],
+          "topMatches": [
+            {
+              "source": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+              "eventIndex": null,
+              "action": "saved",
+              "timestamp": null,
+              "visibleBigramRecall": 0.6167
+            },
+            {
+              "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+              "eventIndex": 35,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T14:15:42.381Z",
+              "visibleBigramRecall": 0.5436
+            },
+            {
+              "source": "event:42ec6bd3-0e68-48ac-9387-c4b3f4f68f1a",
+              "eventIndex": 0,
+              "action": "suggest-structure.apply",
+              "timestamp": "2026-10-08T01:59:01.870Z",
+              "visibleBigramRecall": 0.4146
+            }
+          ],
+          "screenshotMatches": [
+            {
+              "file": "e6 brian grid revised 2.png",
+              "selectedVisibleBigramRecall": 0.6419,
+              "bestMatches": [
+                {
+                  "source": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.6419
+                },
+                {
+                  "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+                  "eventIndex": 35,
+                  "visibleBigramRecall": 0.5676
+                }
+              ]
+            },
+            {
+              "file": "e6 brian grid revised.png",
+              "selectedVisibleBigramRecall": 0.5899,
+              "bestMatches": [
+                {
+                  "source": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/grid.json",
+                  "eventIndex": null,
+                  "visibleBigramRecall": 0.5899
+                },
+                {
+                  "source": "event:de685e62-f059-4e45-af64-6d7a386e6c58",
+                  "eventIndex": 35,
+                  "visibleBigramRecall": 0.518
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "videos": [
+        {
+          "id": "4261acbc-b6ce-4450-bcb3-91a02c0769d1",
+          "label": "Initial surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T02:02:22.716Z",
+          "status": "done",
+          "file": "media/renders/c744aaee9b183b82d23a96c176f55a1ee70cb7589520d473381f3e7555e7ca9a.mp4",
+          "playable": true
+        },
+        {
+          "id": "0b2b9adc-72b1-4102-b7cc-80a945efe57b",
+          "label": "Intermediate roughcut 2",
+          "kind": "roughcut",
+          "createdAt": "2026-10-08T14:20:09.969Z",
+          "status": "done",
+          "file": "media/renders/8fff4f0cefee0a5884c815ddc3005039855536ae034d95e31867525efbbfe95c.mp4",
+          "playable": true
+        },
+        {
+          "id": "c5e34d52-0f54-4847-91a4-331ba96c3721",
+          "label": "Final surviving roughcut",
+          "kind": "roughcut",
+          "createdAt": "2026-10-09T18:27:31.855Z",
+          "status": "done",
+          "file": "media/renders/6deaec2cf91ab54eb44448e3b90db14dc03d6fa2770dc57c9e27ab461d8bad13.mp4",
+          "playable": true
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "newRyanMedia": [
+    {
+      "file": "media/renders/ryan_grid_initia.mp4",
+      "bytes": 13370900,
+      "sha256": "0d7b48ddb8897d86f4426af93a2f68f6c3c63cbd0ecde936d224dd29db42ee32",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "83.862000"
+        }
+      },
+      "error": null
+    },
+    {
+      "file": "media/renders/ryan_grid_initial.mp4",
+      "bytes": 13370900,
+      "sha256": "0d7b48ddb8897d86f4426af93a2f68f6c3c63cbd0ecde936d224dd29db42ee32",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "83.862000"
+        }
+      },
+      "error": null
+    },
+    {
+      "file": "media/renders/ryan_grid_revised .mp4",
+      "bytes": 15821328,
+      "sha256": "67a81cea175dbcac510c03f9ac7833cde918118bd667a5d2cbb2343a7b31319c",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "96.160000"
+        }
+      },
+      "error": null
+    }
+  ]
+}

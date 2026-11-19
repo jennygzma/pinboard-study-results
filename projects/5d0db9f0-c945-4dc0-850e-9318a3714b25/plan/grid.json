@@ -1,0 +1,503 @@
+{
+  "beats": [
+    {
+      "id": "7fa6c1d3-d9ed-4400-831c-5bcff0e0e0d5",
+      "name": "Story Beat 1: Introduction to Viviana and Playful Pottery",
+      "order": 0,
+      "targetDurationSeconds": 20,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "58ea3464-d0c8-4114-9f33-5eb660cb7fb6",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "90dfc9e2-6477-4dfd-8878-7ed01660fec6",
+              "time": {
+                "positionSeconds": 4.866666666666667,
+                "durationSeconds": 11,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "e1550323-7f1c-4f65-ad9e-14f7715957f6",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The music cuts out cleanly as Viviana introduces herself and her book Playful Pottery directly to camera",
+              "time": {
+                "positionSeconds": 5.2,
+                "durationSeconds": 11
+              }
+            },
+            {
+              "id": "9865450f-066b-431d-a80e-8a722daf4dcb",
+              "order": 2,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Establish an inviting, warm tone and set up the subject matter and title of the book right away without background distraction.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 18
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "52db6051-8c9f-4376-8d11-5720cdfffb63",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "f545cad2-f9e8-4870-b962-6294cdda5ba0",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 5.2
+              }
+            },
+            {
+              "id": "e21c6973-c01e-4ce6-84ed-3dff618d5dc8",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The documentary begins with the slow smile B-roll shot of Viviana",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 5.2
+              }
+            },
+            {
+              "id": "6cd14726-911d-4102-9025-59c6c4ea6452",
+              "order": 2,
+              "createdAt": "2026-09-21T15:02:46.624Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "25aca071-c7a9-4e8a-bc5f-216b087fac2d",
+              "time": {
+                "positionSeconds": 15.531972249348959,
+                "durationSeconds": 3.8416666666666677,
+                "durationManuallySet": true
+              },
+              "notes": "make the ending more natural",
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "16c726a8-9d5a-47be-9584-8a84a140219c",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "6733c1a6-7feb-4ee3-9cc7-7b51c5110935",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 18
+              }
+            },
+            {
+              "id": "aa805f1a-c05c-4d51-981a-df235df03564",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The upbeat background music plays during this opening visual moment.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 5.2
+              }
+            },
+            {
+              "id": "b2c430ab-b82b-4734-9a40-38b52907b260",
+              "order": 2,
+              "createdAt": "2026-09-21T14:59:47.197Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "text",
+              "text": "make the music fade out before she starts talking",
+              "time": {
+                "positionSeconds": 5.698638916015625,
+                "durationSeconds": 4.541666666666666,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "8b5c8f62-f301-416d-83a0-566ecb3fe32d",
+      "name": "Story Beat 2: Clay Knowledge and Technique",
+      "order": 1,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "b63970f2-4196-4a8e-a362-5447bbd33938",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "4b10b3bf-9066-4755-987c-617d73d1cc78",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 11.099999999999994
+              }
+            },
+            {
+              "id": "2e7e48c9-fc22-4f69-8fef-ae83b1787a36",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "In spoken silence with no background music, Viviana explains that she wants the book to serve as a practical reference guide for foundational clay knowledge",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 11.1
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "a3645ac6-d7e7-464d-bc0e-eec496b199f2",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "f773d441-b2bb-4b7e-84c2-8fd9631c39c1",
+              "time": {
+                "positionSeconds": 11.299189249674479,
+                "durationSeconds": 3.1999999999999993,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "6fc636cf-048d-4e48-b1b5-832cda67e33a",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Immediately following her dialogue, cut to footage of Viviana shaping clay on the pottery wheel",
+              "time": {
+                "positionSeconds": 11.1,
+                "durationSeconds": 7
+              }
+            },
+            {
+              "id": "cb0bc78d-752a-47cf-9ac3-642d87ee2640",
+              "order": 2,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Demonstrate the hands-on craft and process behind the pottery guidance she shares in the book.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "59e4aa03-8d67-439b-ada0-661682c4e854",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "6733c1a6-7feb-4ee3-9cc7-7b51c5110935",
+              "time": {
+                "positionSeconds": 11.1,
+                "durationSeconds": 4.9
+              }
+            },
+            {
+              "id": "96f749a0-654b-4308-9c5f-795d2816c044",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Bring the upbeat music bed back in across this wheel-shaping montage",
+              "time": {
+                "positionSeconds": 11.1,
+                "durationSeconds": 7
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "1821bd0e-b984-49c8-821d-bcf86029eb18",
+      "name": "Story Beat 3: The Core Message — Creativity and Kindness",
+      "order": 2,
+      "targetDurationSeconds": 16,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": [
+            {
+              "id": "4588ea94-9963-4923-9e42-c0f0bed8980c",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "a965fd63-5e97-4dc5-9c8e-ecd7a120f89c",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 9.599999999999994
+              },
+              "notes": "cut the last um ",
+              "hasHumanEdit": true
+            },
+            {
+              "id": "7647f354-76f3-40ce-ab20-b3fae2deea7f",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The music cuts out as Viviana delivers the core emotional message behind the book, expressing her wish for readers to be creative and kind to themselves",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 9.6
+              }
+            },
+            {
+              "id": "1f90a94e-7593-465a-bcd6-c0a2b62e431e",
+              "order": 2,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Highlight the deeper purpose and artistic philosophy of self-compassion embedded in the book.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 16
+              }
+            }
+          ]
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "aa1455ae-24bc-4d96-a474-e36d374ccaa2",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "5a9deea6-808a-4254-8fe8-4a7cf3992153",
+              "time": {
+                "positionSeconds": 9.049474080403645,
+                "durationSeconds": 4.9,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            },
+            {
+              "id": "2a276ebf-cd02-4fb0-87ef-6dc2caa35227",
+              "order": 2,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Immediately following this statement, cut to detailed B-roll of painting a handle on a ceramic piece",
+              "time": {
+                "positionSeconds": 9.225,
+                "durationSeconds": 3.2,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "5d3abf81-7752-451e-91fc-36f9eee4084a",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "6733c1a6-7feb-4ee3-9cc7-7b51c5110935",
+              "time": {
+                "positionSeconds": 9.6,
+                "durationSeconds": 6.4
+              }
+            },
+            {
+              "id": "37efe893-b2e7-4db3-8fc3-93e0fd78075e",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The music re-enters during the painting footage",
+              "time": {
+                "positionSeconds": 9.6,
+                "durationSeconds": 3.2
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    },
+    {
+      "id": "220b3e48-388c-424e-bf70-4c22501108b8",
+      "name": "Story Beat 4: Studio Wrap-up and Outro",
+      "order": 3,
+      "targetDurationSeconds": 10,
+      "tracks": [
+        {
+          "row": "a_roll",
+          "cards": []
+        },
+        {
+          "row": "b_roll",
+          "cards": [
+            {
+              "id": "694d4057-e245-4245-8def-d021da5049fc",
+              "order": 2,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "Provide a satisfying and uplifting closure to the profile.",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 10
+              }
+            },
+            {
+              "id": "13682289-c5fa-4836-a4a8-3bc12d4b342d",
+              "order": 3,
+              "createdAt": "2026-09-21T15:05:15.401Z",
+              "status": "confirmed",
+              "originatedBy": "human",
+              "kind": "asset",
+              "momentId": "2448856a-8525-47f9-8173-ee1dcc4a52f3",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 2.3000000000000007,
+                "durationManuallySet": true
+              },
+              "hasHumanEdit": true
+            }
+          ]
+        },
+        {
+          "row": "music",
+          "cards": [
+            {
+              "id": "3153c3c0-2cb1-4827-85cf-cd8fdd8cf4c4",
+              "order": 0,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "asset",
+              "momentId": "6733c1a6-7feb-4ee3-9cc7-7b51c5110935",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 10
+              }
+            },
+            {
+              "id": "c30b902a-8059-4be4-8783-9fc4cc3fd4a5",
+              "order": 1,
+              "createdAt": "2026-09-21T13:40:52.159Z",
+              "status": "confirmed",
+              "originatedBy": "ai",
+              "aiSource": "initial",
+              "kind": "text",
+              "text": "The music continues playing over the final visuals and resolves cleanly to black",
+              "time": {
+                "positionSeconds": 0,
+                "durationSeconds": 5.8
+              }
+            }
+          ]
+        },
+        {
+          "row": "text_graphics",
+          "cards": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "58573995-660a-404e-9f9d-dce9cf1879aa",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "60174fed-7082-4fbe-a0bf-96cee35f7ed0",
+        "rationale": "Directly matches Jim's talking head interview reflecting on how historic events force the office to drop everything and watch."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Jim deadpans about stopping all work to watch historic events unfold",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Jim solo interview justifying the office distraction during the standoff",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim explains how he recreated Dwight's ensemble for eleven dollars",
+        "durationSeconds": 6,
+        "howItDiffers": "Shifts focus from the Strangler chase commentary to setting up the identity theft gag."
+      },
+      {
+        "text": "Jim remarks deadpan on the office thriving completely unsupervised",
+        "durationSeconds": 7,
+        "howItDiffers": "Reframes the office distraction around workplace autonomy rather than the police chase."
+      },
+      {
+        "text": "Jim delivers a short defeated Universe-wins talking head",
+        "durationSeconds": 4,
+        "howItDiffers": "Uses a brief, exhausted punchline instead of comedic justification."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Moment 60174fed-7082-4fbe-a0bf-96cee35f7ed0 is the exact talking head interview corresponding to the Scranton Strangler sequence."
+  }
+}

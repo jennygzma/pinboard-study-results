@@ -1,0 +1,55 @@
+{
+  "id": "57907473-a732-4b47-8cb0-b7230eb932b4",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "e9b11905-d737-473b-bc72-27b206b3a380",
+        "rationale": "Viviana explicitly discusses rolling with the punches, being kind to oneself, and how flexibility yields better results than original designs."
+      },
+      {
+        "momentId": "80a81be1-04dc-43ba-a051-396f9dd1f100",
+        "rationale": "Captures Viviana framing pottery work as a low-stakes experimentation session where ideas are adjusted and grown freely."
+      },
+      {
+        "momentId": "85adf98f-30b5-4301-b36c-dde63993c8c0",
+        "rationale": "Focuses on entering a creative flow state with warm-ups to avoid blank canvas paralysis."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana explains rolling with punches and embracing design changes on camera",
+        "durationSeconds": 12
+      },
+      {
+        "text": "Viviana describes throwing on the wheel as a low-stakes experiment",
+        "durationSeconds": 10
+      },
+      {
+        "text": "Viviana explains warming up to enter flow without blank-canvas anxiety",
+        "durationSeconds": 11
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana critiques the commercial pressure on creatives to produce constantly",
+        "durationSeconds": 9,
+        "howItDiffers": "Frames the beat around systemic artist burnout and productivity pressure rather than her personal workflow."
+      },
+      {
+        "text": "Viviana explains starting at the wheel with no predetermined plan",
+        "durationSeconds": 12,
+        "howItDiffers": "Focuses on physical throwing technique and improvisation at the wheel rather than self-kindness philosophy."
+      },
+      {
+        "text": "Viviana emphasizes self-compassion when pottery designs fail completely",
+        "durationSeconds": 8,
+        "howItDiffers": "Zeroes in on emotional resilience and self-kindness rather than general creative experimentation."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple strong interview soundbites in the library directly deliver Viviana's philosophy on flow, low-stakes experimentation, and rolling with punches."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "4075957a-cd40-43cc-9603-554953c1e390",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "77b09b4a-a465-44cd-b8bc-fd6cd7e0c651",
+        "rationale": "Viviana explicitly discusses rolling with the punches, being kind to oneself, and allowing flexible design adjustments."
+      },
+      {
+        "momentId": "dfe889c9-3199-4025-8f59-d79c95cd8ac2",
+        "rationale": "Viviana describes sitting at the pottery wheel for low-stakes experimentation and letting ideas adjust organically."
+      },
+      {
+        "momentId": "85adf98f-30b5-4301-b36c-dde63993c8c0",
+        "rationale": "Viviana explains doing warm-ups to enter creative flow and overcome the fear of a blank canvas."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana on low-stakes wheel experimentation and letting designs adjust naturally",
+        "durationSeconds": 12
+      },
+      {
+        "text": "Viviana describes being kind to yourself and rolling with creative punches",
+        "durationSeconds": 15
+      },
+      {
+        "text": "Viviana explains using wheel warm-ups to maintain creative flow",
+        "durationSeconds": 10
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana critiques the external pressure on artists to constantly produce",
+        "durationSeconds": 12,
+        "howItDiffers": "Shifts focus from personal experimentation to the broader industry pressure artists face."
+      },
+      {
+        "text": "Viviana introduces Playful Pottery as an accessible beginner's handbook",
+        "durationSeconds": 14,
+        "howItDiffers": "Frames her philosophy directly around her book project rather than studio mindset."
+      },
+      {
+        "text": "Viviana explains overcoming blank-canvas paralysis through continuous movement",
+        "durationSeconds": 11,
+        "howItDiffers": "Focuses on practical momentum and beating creative block rather than accepting mistakes."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple precise interview clips directly capture Viviana explaining self-kindness and low-stakes wheel experimentation."
+  }
+}

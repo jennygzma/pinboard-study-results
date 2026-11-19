@@ -1,0 +1,511 @@
+{
+  "projectId": "9d98e3bd-6b74-4ac8-9cbe-a02880632c94",
+  "phase": "initial",
+  "purpose": "Screenshot-matched review copy; not installed in the application. Existing video selection remains unchanged.",
+  "verification": "The generation matches the visible reference structure and text; included group-label edits match the screenshot labels. Cropped or hidden contents are recovered from that history state, not independently verified by the screenshot.",
+  "referenceImages": [
+    "e6 brian grid initial.png"
+  ],
+  "sourceFile": "projects/9d98e3bd-6b74-4ac8-9cbe-a02880632c94/plan/interactions.jsonl",
+  "sourceEvents": [
+    {
+      "line": 36,
+      "id": "de685e62-f059-4e45-af64-6d7a386e6c58",
+      "timestamp": "2026-10-08T14:15:42.381Z",
+      "action": "suggest-structure.apply"
+    },
+    {
+      "line": 62,
+      "id": "78c6fed5-aa98-4c93-ac55-07b8519fca96",
+      "timestamp": "2026-10-08T14:15:47.738Z",
+      "action": "card.edit"
+    },
+    {
+      "line": 63,
+      "id": "0eff9fd0-3c1a-495e-a456-323bd17d9e99",
+      "timestamp": "2026-10-08T14:15:50.244Z",
+      "action": "card.edit"
+    }
+  ],
+  "previouslySelectedByGallery": {
+    "sourceLine": 1,
+    "eventId": "42ec6bd3-0e68-48ac-9387-c4b3f4f68f1a"
+  },
+  "plan": {
+    "beats": [
+      {
+        "id": "95b230ad-8389-41a4-9ffc-eb621e54498a",
+        "name": "Story Beat 1: Introduction & Immigration Roots",
+        "order": 0,
+        "targetDurationSeconds": 15,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "abeb5393-a1ec-45cd-9185-16fe683fec22",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "8002d495-82c4-4c68-944a-f7153202fe83",
+                    "order": 0,
+                    "createdAt": "2026-10-08T14:15:42.377Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "momentId": "df968069-8320-44b6-81af-f0b1e058ea6a",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 4.259999999999991
+                    },
+                    "row": "a_roll"
+                  },
+                  {
+                    "id": "9a36e895-78de-4cbf-aac5-aeda55c643e0",
+                    "order": 1,
+                    "createdAt": "2026-10-08T14:15:42.377Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "a_roll",
+                    "momentId": "b438bcc2-7cf2-4530-98e3-0a4447592003",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 10.899999999999999
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4.259999999999991
+                },
+                "summary": "Jason Deck introduction and family history"
+              },
+              {
+                "id": "f9ea8a3d-db2b-4b93-80c8-d703cc0cb480",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Jason introduces himself and his running crew via voiceover before appearing on screen: \"My name's Jason Deck, I live in Brooklyn, New York, and I run with Nice Jewish Runners.\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4
+                }
+              },
+              {
+                "id": "159fa454-f7f2-4772-a0e9-8c49ee6cef40",
+                "order": 3,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "On-camera, Jason sets up his family's origin story: \"My great-grandparents are Holocaust survivors. I had family that came over in the mass migrations in the late 1800s early 1900s through Ellis Island\"",
+                "time": {
+                  "positionSeconds": 4,
+                  "durationSeconds": 11
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "4e0b0b47-f8f8-4608-bb8e-b0a6160dfea8",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "dac6a92e-dc89-4fca-87d9-e3ec8473bc05",
+                    "order": 0,
+                    "createdAt": "2026-10-08T14:15:42.377Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "b_roll",
+                    "momentId": "d326e010-f58c-4c01-8308-cac8f7feca78",
+                    "notes": "Trim 4 seconds of the overhead drone shot",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 4
+                    }
+                  },
+                  {
+                    "id": "32f7ddef-2a77-4c90-bdf8-e8c05fe6e92a",
+                    "order": 1,
+                    "createdAt": "2026-10-08T14:15:42.377Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "b_roll",
+                    "momentId": "d246b177-7d94-41f1-b5e0-cbcd86fae844",
+                    "notes": "Trim 4 seconds of vintage street light flare",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 4
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4
+                },
+                "summary": "Jason jogging with vintage light flare"
+              },
+              {
+                "id": "42c09118-f5ed-49cb-bead-56ca1db4ece6",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Open on the top-down overhead drone shot of Jason jogging through the streets, treated with a high-contrast black-and-white grade, subtle film grain, and an overlaid vintage street light flare with projector audio. Cut after 4 seconds to the on-camera interview in full color.",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "e098f554-23fe-43ff-a785-5bb20a4fd73a",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "An old-fashioned, contemplative piano track fades in gently under the ambient city noise.",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 15
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "2eacfb68-cf64-4f1b-bed0-2e9d5e258d0d",
+        "name": "Story Beat 2: The Grandfather's New York Legacy",
+        "order": 1,
+        "targetDurationSeconds": 22,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "081900bb-9475-45b1-b339-3373c0c62865",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "34dd4098-0f02-4290-b84b-83d65ad3b9a2",
+                "notes": "Trim 22 seconds of Jason bridging his family's past to New York athletics and Maccabi",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 22
+                }
+              },
+              {
+                "id": "fd2b215f-b420-4253-a60e-0da15ed4c2c7",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Jason bridges his family's past to New York athletics: \"Yeah, so being a Jewish American is like a story of old world to new world. And for me, the best example I have of it is my grandfather came to the US in the late 40s from Israel. He moved to Washington Heights and played for Maccabi, New York.\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 22
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "cd86d74c-8fcb-458e-a608-4266c349fbfb",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "da09b1c9-247c-4b24-8fd3-defdf2829f76",
+                "time": {
+                  "positionSeconds": 10,
+                  "durationSeconds": 3.5
+                }
+              },
+              {
+                "id": "21e84a51-54a6-4363-a3bf-f877bd4010f7",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Hold on Jason's on-camera interview to maintain the 75% interview focus, allowing his personal delivery and connection to carry the weight of the story. Cut away briefly for 3 seconds to black-and-white stylized footage of running shoes striking the pavement before returning to his face.",
+                "time": {
+                  "positionSeconds": 10,
+                  "durationSeconds": 3
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "db3aa5f4-5e64-4846-b965-acaeb2311e81",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Piano theme swells slightly, maintaining an earnest, reflective tone.",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 22
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "6381a8b4-7392-404c-ae07-12fc7394a978",
+        "name": "Story Beat 3: Coming Full Circle",
+        "order": 2,
+        "targetDurationSeconds": 13,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "157e0c85-0cc8-49e6-b531-aea22a7efd4e",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "0f6503b8-e2bc-4433-baf0-ea3b9a66167e",
+                "notes": "Trim to 13s of Jason discussing wearing the jersey and showing pictures to his grandfather",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 13
+                }
+              },
+              {
+                "id": "4ab7a2d1-593c-4f1f-b992-bc9c8fcd8307",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Jason speaks about the continuity across generations: \"And being able to kind of wear a jersey while doing these very public events is something that both hits home for me, but also, yeah, I get to show my grandfather's pictures of me running in a thing that probably says, like, nice Jewish runners.\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 13
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "5c3c6840-c3fb-4d46-958f-02959e314df6",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "8da642b1-7101-41e5-a278-2e80749ac501",
+                "notes": "Trim 4 seconds of the Star of David logo close-up",
+                "time": {
+                  "positionSeconds": 5,
+                  "durationSeconds": 8
+                }
+              },
+              {
+                "id": "3c281497-72dd-450d-8d5a-8555a41da067",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Return to Jason on camera as he reflects on his own journey. Cut away for 4 seconds to an archival-graded black-and-white close-up of the Star of David logo on his running gear to visually reinforce his connection to heritage.",
+                "time": {
+                  "positionSeconds": 5,
+                  "durationSeconds": 4
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "0d829f6c-32f5-4fb9-ac03-134cd16494aa",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Piano continues underneath, providing steady emotional momentum.",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 13
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "2cdbd8d4-2fe6-4ce2-a610-228edb089e64",
+        "name": "Story Beat 4: Identity & Running with Pride",
+        "order": 3,
+        "targetDurationSeconds": 10,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "61d68461-56c5-4f5e-84b8-681c42c8c4d6",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "2d79eed8-033b-4235-98a7-2a4a6aeb0070",
+                "notes": "Trim to 10s of Jason concluding on the American Jewish story and pride",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 10
+                }
+              },
+              {
+                "id": "8a9a1123-3bc8-48a5-8e5d-5e43897f13b6",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Jason delivers his concluding line: \"It's the American Jewish story, and I think that's like something I get to Be proud of and also be proud of running with a club that like exemplifies that\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 10
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "4f0e4d91-55d6-4084-89b4-17923b845850",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "2502ecac-e99a-4594-b353-7d02130e46bf",
+                "notes": "Trim 4 seconds of Jason on the track breaking into a warm smile",
+                "time": {
+                  "positionSeconds": 6,
+                  "durationSeconds": 4
+                }
+              },
+              {
+                "id": "014489c5-2f2b-4916-aa1e-d09e2adf971f",
+                "order": 1,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Start on Jason concluding his thought on camera. Transition to a final 4-second black-and-white archival shot of Jason on the track breaking into a warm smile, fading out naturally on the smile.",
+                "time": {
+                  "positionSeconds": 6,
+                  "durationSeconds": 4
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "1972d384-00fb-4683-bb43-23b7ec650053",
+                "order": 0,
+                "createdAt": "2026-10-08T14:15:42.377Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "The piano piece lands on a resolved final chord and fades with room tone.",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 10
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      }
+    ]
+  }
+}

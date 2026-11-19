@@ -1,0 +1,63 @@
+{
+  "id": "cf27ceb0-e451-405b-80c7-afedfa7621d9",
+  "status": "done",
+  "cardId": "f3e51bee-9706-4cff-af2a-93ac329c952f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "9b4414dc-9636-4770-bfe0-f5ab1e7482d9",
+        "rationale": "Direct shot of finished pastel pink ceramics and watermelon containers showcasing the playful aesthetic."
+      },
+      {
+        "momentId": "c64fa184-8144-4f2d-9e38-6677ab5068aa",
+        "rationale": "Features quirky ceramic ice cream sundae figurines that capture the fun Mud Witch novelty style."
+      },
+      {
+        "momentId": "244776a9-0b41-4ad3-b41b-1065775efa0f",
+        "rationale": "Vibrant close-up of decorative ceramic plates with sunglasses against a bright yellow shelf."
+      },
+      {
+        "momentId": "7f2df7de-999e-4388-bd9b-6c5971bc0799",
+        "rationale": "Overview display shot of assorted colorful ceramic pieces arranged on a pink tabletop."
+      },
+      {
+        "momentId": "90f5b709-e030-445a-b563-96891384626d",
+        "rationale": "Display shelf shot featuring ceramic figurines and patterned checker boxes."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Quick cuts of pastel mugs, watermelon pots, and sundae ceramics.",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Close-ups of playful ceramic plates and sunglasses on yellow shelves.",
+        "durationSeconds": 3
+      },
+      {
+        "text": "Panning across colorful finished wares arranged on pink display tables.",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Open on a single hero shot of the whimsical sundae ceramic.",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on one standout signature piece instead of a multi-shot montage."
+      },
+      {
+        "text": "Rhythmic montage cutting between finished ceramics and the Mud Witch sign.",
+        "durationSeconds": 5,
+        "howItDiffers": "Explicitly weaves brand identity signage directly into the product montage."
+      },
+      {
+        "text": "Slow sunlit pan across pastel mugs and planters on the windowsill.",
+        "durationSeconds": 4,
+        "howItDiffers": "Creates a calm, atmospheric intro rather than an energetic montage."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple strong b-roll clips of colorful finished pottery are already available to assemble this opening montage immediately."
+  }
+}

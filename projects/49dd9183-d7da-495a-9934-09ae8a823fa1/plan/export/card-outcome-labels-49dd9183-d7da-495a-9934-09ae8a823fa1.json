@@ -1,0 +1,102 @@
+{
+  "3d78172f-ea0c-4fc5-8593-928e9c6beacf": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "f0574ef0-fffc-408b-a005-aa696c19cd0d": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "50936901-59e5-4cb3-a7a6-e7a8718b14f0": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "be77a854-24b7-4172-ab26-125095d7c23d": {
+    "outcome": "adjusted",
+    "actor": "user"
+  },
+  "74ab9d97-b783-4a4e-b36b-beace6968c5f": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "0ee7620c-b32b-4cb3-9a6b-6c47f116bf93": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "b8049824-b28e-4428-ad04-7375bf61408f": {
+    "actor": "ai",
+    "outcome": "corrected"
+  },
+  "22787514-ecb6-487d-811a-f43cd62d1c80": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "ce51cf53-07ba-47df-8c9d-cb692132da80": {
+    "actor": "ai",
+    "outcome": "corrected"
+  },
+  "461c108b-6f52-4a3f-bf1d-53a6a43a44f3": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "720cb98d-e2e0-4f6c-b116-459d8c5389ff": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "a3867314-2d0e-4df0-a538-5e5002ff799e": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "2bac73ed-ea03-4817-8187-78189468ab7e": {
+    "actor": "user",
+    "outcome": "added"
+  },
+  "53c9d43e-9590-47d7-a72a-b9e1c0ec646a": {
+    "actor": "ai",
+    "outcome": "added"
+  },
+  "4749f326-0080-4c0a-86e3-b38e8eee900d": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "d14e3169-d9df-4648-bfaf-5b670791983d": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "3f179045-f2b8-4365-9b6d-18405e748745": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "11097070-4798-4ed1-a9a8-73754afb6ee8": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "940ae0b8-e282-464f-a6bc-3f1d2569d5b7": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "69b3e177-63a2-402d-aa00-85cf4699a432": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "73ec0378-37f2-4edf-9634-75266d4bdb56": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "ec565ad6-fb64-4e69-aa49-5bbcfa228d3f": {
+    "actor": "ai",
+    "outcome": "corrected"
+  },
+  "f513faa0-b001-4cbb-9cdb-388da7b98136": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "94e63606-2fe4-41de-a3fd-6730649ee473": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "1ff78fcb-e494-4283-a453-7eb48bd0667a": {
+    "actor": "user",
+    "outcome": "adjusted"
+  }
+}

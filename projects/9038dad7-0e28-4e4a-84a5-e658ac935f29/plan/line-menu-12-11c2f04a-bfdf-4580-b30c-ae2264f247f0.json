@@ -1,0 +1,37 @@
+{
+  "id": "11c2f04a-bfdf-4580-b30c-ae2264f247f0",
+  "status": "done",
+  "lineNumber": 12,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Pan across stacks of raw, unpainted pottery bowls on studio shelves.",
+        "durationSeconds": 5.4
+      },
+      {
+        "text": "Close-up of stacked bisque-fired ceramic pieces resting on metal shelving.",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut to hand brushing vibrant glaze inside a ceramic bowl.",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Shifts from passive raw pottery to active color application, directly contrasting the old-school lack of color."
+      },
+      {
+        "text": "Cut to close-up of hands shaping wet clay on spinning wheel.",
+        "durationSeconds": 5,
+        "howItDiffers": "Emphasizes the tactile, messy pottery creation process rather than static shelf storage."
+      },
+      {
+        "text": "Cut to handwritten firing notes clipped to pastel studio shelves.",
+        "durationSeconds": 4,
+        "howItDiffers": "Focuses on studio craft organization and handwritten process notes instead of raw pottery."
+      }
+    ],
+    "primaryAction": "generateAlternatives",
+    "primaryActionReason": "The current line is already concrete and grounded, but exploring active glazing or wheel work offers stronger visual contrast to Viviana's dialogue about traditional pottery."
+  }
+}

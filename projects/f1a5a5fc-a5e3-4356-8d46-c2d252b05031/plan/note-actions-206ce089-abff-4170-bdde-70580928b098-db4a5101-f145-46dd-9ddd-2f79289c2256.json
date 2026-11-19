@@ -1,0 +1,55 @@
+{
+  "id": "db4a5101-f145-46dd-9ddd-2f79289c2256",
+  "status": "done",
+  "cardId": "206ce089-abff-4170-bdde-70580928b098",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "214cc86b-152a-42f5-97ea-6aae50793de7",
+        "rationale": "Direct close-up of the paintbrush resting on the pink hand-shaped palette."
+      },
+      {
+        "momentId": "621faef6-8afb-4afc-85b2-c04be41dc6ad",
+        "rationale": "Clean tabletop insert showcasing the pink hand-shaped dish holding glaze."
+      },
+      {
+        "momentId": "e17eaebe-d679-4780-9ac2-729fde9ced9a",
+        "rationale": "Shows active glaze mixing and spreading across the hand-shaped dish."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Close-up of paintbrush resting on pink hand-shaped glaze dish",
+        "durationSeconds": 3.5
+      },
+      {
+        "text": "Detail shot of spreading glaze across the hand-shaped dish",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Static tabletop insert of the pink hand-shaped glaze palette",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Macro shot of brush loading glaze from the hand palette",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Emphasizes the active tactile brush technique over a static object insert."
+      },
+      {
+        "text": "Wide cutaway of Viviana working at her cluttered studio table",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Broadens the shot to contextualize the work table rather than isolating a single dish."
+      },
+      {
+        "text": "Cut to finished colorful ceramic pieces lined up on shelves",
+        "durationSeconds": 4,
+        "howItDiffers": "Pivots from the mixing tool to the completed intentional objects."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note specifically calls for the hand-shaped palette, and the library contains multiple exact shot matches."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2092cc53-febc-4513-b941-770ed214d7f6",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "e9b11905-d737-473b-bc72-27b206b3a380",
+        "rationale": "Viviana explicitly discusses being kind to yourself, rolling with the punches, and embracing unexpected design changes."
+      },
+      {
+        "momentId": "80a81be1-04dc-43ba-a051-396f9dd1f100",
+        "rationale": "Viviana describes sitting at the wheel and letting ideas adjust and grow in a low-stakes experimental session."
+      },
+      {
+        "momentId": "85adf98f-30b5-4301-b36c-dde63993c8c0",
+        "rationale": "Viviana talks about using wheel warm-ups to get into the flow state and keep moving rather than freezing before a blank canvas."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana explains rolling with punches and letting design mistakes improve final pieces.",
+        "durationSeconds": 15
+      },
+      {
+        "text": "Viviana describes wheel warm-ups as low-stakes experiments to enter creative flow.",
+        "durationSeconds": 14
+      },
+      {
+        "text": "Viviana urges beginners to be kind to themselves throughout creative struggles.",
+        "durationSeconds": 12
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana contrasts the pressure to produce against showing self-kindness in art.",
+        "durationSeconds": 14,
+        "howItDiffers": "Frames her philosophy around resisting commercial productivity pressure rather than general experimentation."
+      },
+      {
+        "text": "Viviana highlights keeping the wheel moving to beat blank-canvas creative paralysis.",
+        "durationSeconds": 12,
+        "howItDiffers": "Emphasizes practical physical movement to overcome creative blocks rather than psychological mindset."
+      },
+      {
+        "text": "Viviana connects open-minded experimentation directly to her book's playful beginner mission.",
+        "durationSeconds": 15,
+        "howItDiffers": "Ties her philosophy directly to the core themes and audience of her book Playful Pottery."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "There are multiple exact interview soundbites directly articulating Viviana's philosophy of creative flow, self-kindness, and low-stakes experimentation."
+  }
+}

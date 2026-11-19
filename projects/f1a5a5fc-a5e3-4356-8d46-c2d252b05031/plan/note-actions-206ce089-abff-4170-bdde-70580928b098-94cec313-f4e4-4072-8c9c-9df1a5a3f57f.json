@@ -1,0 +1,50 @@
+{
+  "id": "94cec313-f4e4-4072-8c9c-9df1a5a3f57f",
+  "status": "done",
+  "cardId": "206ce089-abff-4170-bdde-70580928b098",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "214cc86b-152a-42f5-97ea-6aae50793de7",
+        "rationale": "Close-up detail shot of the paintbrush resting directly on the pink hand-shaped palette dish."
+      },
+      {
+        "momentId": "e17eaebe-d679-4780-9ac2-729fde9ced9a",
+        "rationale": "Active close-up showing glaze being mixed and spread across the hand-shaped ceramic palette."
+      },
+      {
+        "momentId": "621faef6-8afb-4afc-85b2-c04be41dc6ad",
+        "rationale": "Clean overhead shot of the pink hand-shaped palette resting on the yellow studio table."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Close-up of brush resting on pink hand-shaped ceramic palette",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Detail shot spreading white glaze across pink hand palette",
+        "durationSeconds": 4.5
+      },
+      {
+        "text": "Static insert of hand-shaped glaze dish on yellow work table",
+        "durationSeconds": 3.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Active macro of dipping brush tip into glaze dish",
+        "durationSeconds": 3,
+        "howItDiffers": "Emphasizes the tactile action of dipping paint rather than the stationary palette object."
+      },
+      {
+        "text": "Wider studio tabletop showing palette beside finished green vessels",
+        "durationSeconds": 5,
+        "howItDiffers": "Broadens context to show the palette within the messy studio workspace rather than a tight macro."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple exact b-roll clips of the pink hand-shaped ceramic palette are already available in the library."
+  }
+}

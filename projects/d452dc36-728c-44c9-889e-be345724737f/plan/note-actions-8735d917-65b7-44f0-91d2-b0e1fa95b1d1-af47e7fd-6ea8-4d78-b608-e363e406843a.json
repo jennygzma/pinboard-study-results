@@ -1,0 +1,59 @@
+{
+  "id": "af47e7fd-6ea8-4d78-b608-e363e406843a",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "77b09b4a-a465-44cd-b8bc-fd6cd7e0c651",
+        "rationale": "Viviana explicitly discusses creative freedom, kindness to oneself, and rolling with punches when designs change."
+      },
+      {
+        "momentId": "e9b11905-d737-473b-bc72-27b206b3a380",
+        "rationale": "Captures Viviana explaining how flexibility and self-kindness lead to results that turn out better than original plans."
+      },
+      {
+        "momentId": "dfe889c9-3199-4025-8f59-d79c95cd8ac2",
+        "rationale": "Viviana details sitting at the wheel for a low-stakes experiment session where ideas adjust freely."
+      },
+      {
+        "momentId": "68e164e8-293d-427a-b543-f7d66b79edca",
+        "rationale": "Focuses on releasing creative production pressure in favor of being gentle with the creative process."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana explains rolling with punches and staying flexible to create better work.",
+        "durationSeconds": 10
+      },
+      {
+        "text": "Viviana describes pottery as a low-stakes experiment session at the wheel.",
+        "durationSeconds": 8
+      },
+      {
+        "text": "Viviana addresses releasing production pressure and being kind during the process.",
+        "durationSeconds": 7
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana discusses easing production pressure by prioritizing self-kindness in art.",
+        "durationSeconds": 8,
+        "howItDiffers": "Emphasizes the emotional relief from external creative pressure rather than the mechanical pottery workflow."
+      },
+      {
+        "text": "Viviana explains using warm-up wheel sessions to test achievable design ideas.",
+        "durationSeconds": 10,
+        "howItDiffers": "Focuses on the practical, tactile routine at the wheel that enables low-stakes experimentation."
+      },
+      {
+        "text": "Viviana highlights why open-minded design pivots improve the final ceramic piece.",
+        "durationSeconds": 9,
+        "howItDiffers": "Centers on aesthetic adaptability and unexpected creative breakthroughs rather than general mindset."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Direct interview clips in the library capture Viviana articulating this exact philosophy of creative flexibility, low-stakes experimentation, and rolling with the punches."
+  }
+}

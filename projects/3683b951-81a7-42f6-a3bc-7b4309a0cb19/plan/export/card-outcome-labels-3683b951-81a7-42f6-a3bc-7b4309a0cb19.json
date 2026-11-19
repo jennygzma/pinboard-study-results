@@ -1,0 +1,26 @@
+{
+  "5bdbf9ee-d25f-449b-a74e-a002349ca0eb": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "73cfb347-066d-4121-8be6-c7b4da29a848": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "2f815ba3-7f1e-45ab-97df-86b267d3fd79": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "cf5a9e55-3ad1-4032-b609-e55759289e18": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "4b1644ea-a595-48bc-a032-c66cb5558b24": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "4a0a00d9-3f30-4684-a8c4-f4cad772c37a": {
+    "outcome": "added",
+    "actor": "user"
+  }
+}

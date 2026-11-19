@@ -1,0 +1,2048 @@
+{
+  "generatedAt": "2026-11-18T21:54:41.144Z",
+  "source": "RQ2 requirement sheets pasted Nov 18 2026",
+  "initial": {
+    "n1:text-plan": {
+      "participantCode": "n1",
+      "participantName": "annie",
+      "condition": "text-plan",
+      "title": "Annie N1 Text (Playful Pottery)",
+      "rating": "4/8",
+      "met": 4,
+      "total": 8,
+      "percent": 50,
+      "checks": [
+        {
+          "text": "Begin with Mudwitch sign - Yes, but I don't like it because it was not the right sign",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Dreamy music throughout - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Playful pottery/why book clip - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "End text box - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "No shaky footage - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Under 75s - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Music align/fade - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No ums - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n1:grid": {
+      "participantCode": "n1",
+      "participantName": "annie",
+      "condition": "grid",
+      "title": "Annie N1 Grid (Mudwitch)",
+      "rating": "8/10",
+      "met": 8,
+      "total": 10,
+      "percent": 80,
+      "checks": [
+        {
+          "text": "Begin + Mudwitch sign Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Dreamy music throughout Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Voice/style + Mudwitch shelf b-roll Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End on specified A-roll quote Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End with walking-out b-roll Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End text box No",
+          "outcome": "fail"
+        },
+        {
+          "text": "No shaky footage Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Under 75s Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Music align/fade Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No ums No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n2:text-plan": {
+      "participantCode": "n2",
+      "participantName": "evita",
+      "condition": "text-plan",
+      "title": "Evita N2 Text (Mudwitch)",
+      "rating": "3/5",
+      "met": 3,
+      "total": 5,
+      "percent": 60,
+      "checks": [
+        {
+          "text": "The clip \"walking in\" will begin the video. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "The clip \"shaping clay on the wheel\" will come before the clip \"I think physical mediums are so important because, um, it's a way of connecting.\". - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "The music will only play when Viviana is not speaking. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The video will end with the clip \"walking out\". - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"mud witch sign on shelf\" will come right before she leaves the store. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n2:grid": {
+      "participantCode": "n2",
+      "participantName": "evita",
+      "condition": "grid",
+      "title": "Evita N2 Grid (Playful Pottery)",
+      "rating": "2/5",
+      "met": 2,
+      "total": 5,
+      "percent": 40,
+      "checks": [
+        {
+          "text": "The clip \"slow smile\" will begin the video. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"shaping clay on the wheel\" will come after the clip \"I hope the book provides to its readers at, um, like a good reference for just general, um, clay knowledge..\". - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "The music will only play when Viviana is not speaking. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The video will end with the clip \"leaving\". - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "The clip \"handl paint\" will come after the \"But also, I really want people to be creative and be kind to themselves.\". - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n3:text-plan": {
+      "participantCode": "n3",
+      "participantName": "ryan",
+      "condition": "text-plan",
+      "title": "Ryan N3 Text (Mudwitch)",
+      "rating": "3/5",
+      "met": 3,
+      "total": 5,
+      "percent": 60,
+      "checks": [
+        {
+          "text": "Must begin with a-roll of Viviana introducing herself: “I’m Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I’m a full-time potter.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must not have music when Viviana introduces herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must transition into different pottery pieces with calm_ambient music - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must show montage Viviana focused on being creative/making pottery - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end with clip of Viviana smiling/giggling - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n3:grid": {
+      "participantCode": "n3",
+      "participantName": "ryan",
+      "condition": "grid",
+      "title": "Ryan N3 Grid (Playful Pottery)",
+      "rating": "3/5",
+      "met": 3,
+      "total": 5,
+      "percent": 60,
+      "checks": [
+        {
+          "text": "Must begin with a-roll of Viviana introducing herself: “I’m Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I’m a full-time potter.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must not have music when Viviana introduces herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must transition into Mudwitch sign with upbeat music - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Must transition into calm_reflective music when Viviana talks about the value of pottery - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end with clip of Viviana smiling/giggling - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n4:text-plan": {
+      "participantCode": "n4",
+      "participantName": "sharon",
+      "condition": "text-plan",
+      "title": "Sharon N4 Text (Playful Pottery)",
+      "rating": "3/5",
+      "met": 3,
+      "total": 5,
+      "percent": 60,
+      "checks": [
+        {
+          "text": "must begin with a video of her glazing a pot with no words - Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "first audio clip must be: “I think being open minded when it comes to design is really important.” followed by audio introducing herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "must begin interview audio over b-roll of pot glazing - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "must contain at least three AB alternating A = book interview and B = b-roll shot of her finished pieces or work area (not her working) - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "must have a clip of her focused paired with the audio explaining her stance on creativity - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n4:grid": {
+      "participantCode": "n4",
+      "participantName": "sharon",
+      "condition": "grid",
+      "title": "Sharon N4 Grid (Mudwitch)",
+      "rating": "4/4",
+      "met": 4,
+      "total": 4,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with a clip of her talking about being an artist - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "immediately follow with her walking into the studio, overlapped with audio of her introducing herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "have three b-roll clips of her working on her stuff with interview audio - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "have two clips of her talking in interview - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n5:text-plan": {
+      "participantCode": "n5",
+      "participantName": "chloe",
+      "condition": "text-plan",
+      "title": "Chloe N5 Text",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with MVI_6216.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "follow that with MVI_3046.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "follow that clip with MVI_3798.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "make the last clip MVI_5431.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "play everything is embarrassing by sky ferreira starting with MVI_3046, stop it when MVI_5431 begins - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n5:grid": {
+      "participantCode": "n5",
+      "participantName": "chloe",
+      "condition": "grid",
+      "title": "Chloe N5 Grid",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with the clip of rock climbing, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "follow that with the clip 796.mp4, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "play a piano sound as clip 796.mp4 begins, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "play clip MVI_2049.mov after clip 796.mp4, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "end the video with clip MVI_2989.mov - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n6:text-plan": {
+      "participantCode": "n6",
+      "participantName": "max",
+      "condition": "text-plan",
+      "title": "Max N6 Text",
+      "rating": "7/7",
+      "met": 7,
+      "total": 7,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Use clips approximately 4–5 seconds long. Select the strongest moments from each scene and avoid letting any individual shot linger unnecessarily. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Start with DJI_20260809102052_0140_D.MP4 as the establishing shot. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Place DJI_20260809082655_0123_D.MP4 roughly in the middle of the montage as a brief, unexpected funny moment. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "For DJI_20260808174516_0110_D.MP4, focus on the moment where the canoe is being dragged over the fallen tree. Add a natural-sounding scraping/dragging sound effect synchronized with the canoe movement. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Preserve the original audio from particularly immersive moments, such as water, paddling, footsteps, wind, or wildlife. Briefly lower the background music during these moments so the natural sounds come through clearly. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use simple, unobtrusive transitions. Prioritize clean cuts and transitions that match the movement or composition of adjacent clips rather than flashy effects. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End with one of the strongest scenic or visually satisfying shots from the trip. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n6:grid": {
+      "participantCode": "n6",
+      "participantName": "max",
+      "condition": "grid",
+      "title": "Max N6 Grid",
+      "rating": "4/5",
+      "met": 4,
+      "total": 5,
+      "percent": 80,
+      "checks": [
+        {
+          "text": "Trim the longer biking scenes: For long biking clips (e.g. 01, 04, 09), select the most scenic or visually interesting portions rather than using the entire clip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Clip 04: Let this biking scene run slightly longer than the other biking clips. Use a speed ramp: start at normal speed, ramp up to 2× speed to show more of the scene, then gradually ramp back down to normal speed. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Smooth transitions: Prioritize smooth, natural transitions between clips. Where appropriate, fade the end of one clip into the beginning of the next to help the video flow as a continuous journey. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Clip 06: There is a dog pooping near the beginning of the clip. Highlight this as a brief funny moment using either a subtle comedic sound effect or a small text/arrow pointing it out. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Maintain variety and pacing: Space out the biking scenes so the video does not feel like a biking montage. Heavily trim repetitive biking footage and intersperse it with scenery, people, destinations, and other interesting moments from the trip. The overall video should tell the story of moving through different places and experiences. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n7:text-plan": {
+      "participantCode": "n7",
+      "participantName": "alex",
+      "condition": "text-plan",
+      "title": "Alex N7 Text",
+      "rating": "10/11",
+      "met": 10,
+      "total": 11,
+      "percent": 90.9,
+      "checks": [
+        {
+          "text": "start with clip_9 as a whole, using the phone rotation as the transition into the next clip. Caption the shout phonetically in caps, without translating it. Y.",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_10 (~0:58–1:08): \"same colours as Beefeater… Greenall's, 6 euros\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_10 (~1:50–2:02): \"μαλάκα, it's all fake… this is Malibu but it's Cayo Lago\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_6, the sneeze at the end, rotated 180°, ~2s No",
+          "outcome": "fail"
+        },
+        {
+          "text": "clip_11 (~0:12–0:30): \"2 euros, wine for 2 euros!\" / \"it's not wine, it's a cocktail\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_12 (~0:06–0:22): \"Desert Hit is Axe Africa… in a bottle like motor oil\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "end with clip_12 (~1:00–1:18), Giorgos trying on the trousers Yes (Yes, but I don't like it because it did not choose the right part)",
+          "outcome": "mixed"
+        },
+        {
+          "text": "on-screen text for each knockoff, e.g. \"Greenall's ≈ Beefeater\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "skip clip_10 ~0:24–0:28 and ~0:48 (too crude). The \"Anonymous Alcoholics\" gag at ~0:12–0:18 is optional Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "no checkout clip Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "max 60s Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n7:grid": {
+      "participantCode": "n7",
+      "participantName": "alex",
+      "condition": "grid",
+      "title": "Alex N7 Grid",
+      "rating": "8/9",
+      "met": 8,
+      "total": 9,
+      "percent": 88.9,
+      "checks": [
+        {
+          "text": "start with clip_3, only the last ~3s where Alex says \"let's get organised, let's have a plan\" (~0:22–0:26) No",
+          "outcome": "fail"
+        },
+        {
+          "text": "immediately follow with clip_2 (~0:18–0:36, trimmed to ~8s): \"we're at the epitome of tourism… the supermarket… total chaos\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "montage of 6–10 throws into the basket, 1–2s each, cut on the beat, from clip_1 (after 0:19), clip_4, clip_5 and clip_8 Yes (Yes, but I don't like it -- not choosing the right clips)",
+          "outcome": "mixed"
+        },
+        {
+          "text": "clip_13 (~0:16–0:32), the pickle scene at normal speed, to slow the montage down. Keep \"the size bothers me, I want the small one\" / \"I'll pretend I didn't hear that and we'll take two big ones\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_8 (~1:08–1:12), \"chips! chips! chips!\", to restart the pace Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "end with clip_14 (the checkout) Yes (Yes, but I don't like it, its not long enough to establish the moment of the checkout)",
+          "outcome": "mixed"
+        },
+        {
+          "text": "English captions on the dialogue lines Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "don't use clip_7, clip_9–12, or clip_1 0:10–0:19 (those belong to the other reels) Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "max 60s Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e1:text-plan": {
+      "participantCode": "e1",
+      "participantName": "saehui",
+      "condition": "text-plan",
+      "title": "Saehui E1 Text (Playful Pottery)",
+      "rating": "2/4",
+      "met": 2,
+      "total": 4,
+      "percent": 50,
+      "checks": [
+        {
+          "text": "B roll of glaze painting when talking about being kind - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "During intro sentence walk into store b roll - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "To be creative – broll of painting glaze outside - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Transition to dreamy update for transitioning to her vision of creativity - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e1:grid": {
+      "participantCode": "e1",
+      "participantName": "saehui",
+      "condition": "grid",
+      "title": "Saehui E1 Grid (Mudwitch)",
+      "rating": "2/6",
+      "met": 2,
+      "total": 6,
+      "percent": 33.3,
+      "checks": [
+        {
+          "text": "Start with calm reflective song - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "When talking about feeling where artist hand is close up shot of painting - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Physical medium important for connection – focused broll - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "B roll of Viviana painting pan up – hand shaped paint plate b roll - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Pause with just b roll (no interview clips) before the last segment about physical medium - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "End with mudwitch sign b roll - Yes, but I don't like it",
+          "outcome": "mixed"
+        }
+      ]
+    },
+    "e2:text-plan": {
+      "participantCode": "e2",
+      "participantName": "xiyuan",
+      "condition": "text-plan",
+      "title": "Xiyuan E2 Text (Mudwitch)",
+      "rating": "4/5",
+      "met": 4,
+      "total": 5,
+      "percent": 80,
+      "checks": [
+        {
+          "text": "Must begin with a-roll saying \"Hi, I'm Viviana matsuda. Um, I do pottery for a living. “ - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "When she introduces her brand name “mud witch” we see the visual of the \"mud witch\" sign on shelf - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "When she’s talking about “artist’s hand”, we see visuals of closeup of her working with the tools - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Right after she says “I’m a full time potter”, music fades in. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "As the music fades in after “I’m a full time potter”, we see montage of b-rolls of her work on the shelf and then her working. - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e2:grid": {
+      "participantCode": "e2",
+      "participantName": "xiyuan",
+      "condition": "grid",
+      "title": "Xiyuan E2 Grid (Playful Pottery)",
+      "rating": "3/5",
+      "met": 3,
+      "total": 5,
+      "percent": 60,
+      "checks": [
+        {
+          "text": "Start with “I think that it's so easy to desire so many things, um, that we actually don't need.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must be black screen on the first line. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Second line is \"with lockdown, people really sat in their houses and realized that the things that were surrounding them weren't bringing them joy. And I think that's why ceramics has had such a big surge.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Accompanying the second line, the visual is her walking into the front door. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "End with the line “ just letting yourself adjust, grow whatever ideas…\" - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e3:text-plan": {
+      "participantCode": "e3",
+      "participantName": "jp",
+      "condition": "text-plan",
+      "title": "JP E3 Text (Mudwitch)",
+      "rating": "4/6",
+      "met": 4,
+      "total": 6,
+      "percent": 66.7,
+      "checks": [
+        {
+          "text": "Must begin with voiceover of Viviana saying “It's a lot of work, but it's a dream to be a full time artist”. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must begin with the store sign with Viviana entering the shop. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Must begin with the groovy_fun music. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "After we see Viviana entering the store, we must show close up shots of items she sell or she made in her shop. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "After that, we must show her saying “I love the winging it style interview” and giggling. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end on the voiceover quote “I want a select few things that I know will bring me happiness” with B39 cute when she’s walking in the frame, posing, and walking away. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e3:grid": {
+      "participantCode": "e3",
+      "participantName": "jp",
+      "condition": "grid",
+      "title": "JP E3 Grid (Playful Pottery)",
+      "rating": "4/5",
+      "met": 4,
+      "total": 5,
+      "percent": 80,
+      "checks": [
+        {
+          "text": "Must start on the music calm_reflective - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must start with the quote “I feel like what I always saw or referenced were these, like, big, hearty old school books that never really talked about color had super fun things to do in them. Um, very like old school pottery.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must start on close up shots of pottery making - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Must end with dreamy_upbeat music. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end on ““It started off as one thing, and now it's just like, I just want to make something that, like, makes people smile.” - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e4:text-plan": {
+      "participantCode": "e4",
+      "participantName": "jonah",
+      "condition": "text-plan",
+      "title": "Jonah E4 Text (Playful Pottery)",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Must open on the A-roll clip \"what if this, instead of a tulip, was a daffodil?\", covered with close-up B-roll of her hands shaping clay on the wheel. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "groovy_fun must start at the very first frame, under the tulip/daffodil line. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"So my book is called Playful Pottery\" must come directly after the tulip/daffodil clip. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "The \"pressure to produce\" clip must come right before the \"rolling with the punches\" clip. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "The last spoken line must be \"creativity involves being kind to yourself, which I don't think is talked about as much as it should be\", followed directly by the text box. - Yes, but I don't like it",
+          "outcome": "mixed"
+        }
+      ]
+    },
+    "e4:grid": {
+      "participantCode": "e4",
+      "participantName": "jonah",
+      "condition": "grid",
+      "title": "Jonah E4 Grid (Mudwitch)",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Must open cold on \"this is the Chubby Mug, this is the Venus mug\" over B-roll of the chubby pastel mugs on a shelf, with no music under it. - Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Viviana's self-introduction must come directly after the cold open, and calm_reflective must begin on that cut. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "\"So they were like naked\" must be covered with B-roll of the unglazed bisque pots stacked on the shelves. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "\"Let's clothe these babes\" must come right after \"so they were like naked\" and be covered with B-roll of her painting color onto a piece. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The last spoken line must be \"I just want to make something that makes people smile\", followed directly by the text box. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e5:text-plan": {
+      "participantCode": "e5",
+      "participantName": "dimitris",
+      "condition": "text-plan",
+      "title": "Dimitris E5 Text",
+      "rating": "6/9",
+      "met": 6,
+      "total": 9,
+      "percent": 66.7,
+      "checks": [
+        {
+          "text": "Start with the clip from 02:51–03:07. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Add a funny sound effect at the end of the clip. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Next, use a clip featuring Michael. Make this section at least 15 seconds long - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use any clip featuring Dwight, but keep it under 20 seconds. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Include the scene with the spinning chore wheel. Choose the funniest moment from that scene. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "End with a clip where Dwight and Michael are talking, and - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "finish the video with a slow fade-out. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Add background music underneath the clips that fits the mood/situation. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Keep the music at a low volume so the dialogue is still easy to hear. - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e5:grid": {
+      "participantCode": "e5",
+      "participantName": "dimitris",
+      "condition": "grid",
+      "title": "Dimitris E5 Grid",
+      "rating": "5/6",
+      "met": 5,
+      "total": 6,
+      "percent": 83.3,
+      "checks": [
+        {
+          "text": "Start with the scene where Dwight is trying to get a new job. Add funny background music that fits the scene. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include a clip of someone giving an interview. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Include a scene with five or more people in it. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include the scene where gum gets stuck in Michael’s hair. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Trim this section down even further, using clean, well-timed cuts to keep only the funniest/most important parts of the scene and dialogue. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "End the video with a funny moment involving Dwight and Jim, specifically the scene where Jim imitates Dwight. - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e6:text-plan": {
+      "participantCode": "e6",
+      "participantName": "brian",
+      "condition": "text-plan",
+      "title": "Brian E6 Text",
+      "rating": "2/5",
+      "met": 2,
+      "total": 5,
+      "percent": 40,
+      "checks": [
+        {
+          "text": "Make it feel cinematic, can use the provided light flares to add drama. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Make the story emotional and compelling -- it will be used for a social media campaign around Jewish American Heritage Month. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "End with a quote about the run club being for everyone. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Make the b-roll feel like a training flow, from stretching to running on the track. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Make footage slow motion so it feels cinematic and epic. - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e6:grid": {
+      "participantCode": "e6",
+      "participantName": "brian",
+      "condition": "grid",
+      "title": "Brian E6 Grid",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Start with Jason introducing himself and how his family came to America. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Open with the drone shot overhead. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Make the b-roll black and white and 'old footage' style, like it is archival. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use the piano track that has a more old-fashioned feel. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Make the mix of interview to b-roll 75% interview to 25% b-roll. - Yes, but I don't like it",
+          "outcome": "mixed"
+        }
+      ]
+    }
+  },
+  "revised": {
+    "n1:text-plan": {
+      "participantCode": "n1",
+      "participantName": "annie",
+      "condition": "text-plan",
+      "title": "Annie N1 Text (Playful Pottery)",
+      "rating": "6/8",
+      "met": 6,
+      "total": 8,
+      "percent": 75,
+      "checks": [
+        {
+          "text": "Begin + Mudwitch sign Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Dreamy music throughout Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Playful pottery/why book clip Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End text box Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No shaky footage No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Under 75s Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Music align/fade Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No ums No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n1:grid": {
+      "participantCode": "n1",
+      "participantName": "annie",
+      "condition": "grid",
+      "title": "Annie N1 Grid (Mudwitch)",
+      "rating": "9/11",
+      "met": 9,
+      "total": 11,
+      "percent": 81.8,
+      "checks": [
+        {
+          "text": "Begin + Mudwitch sign Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Dreamy music throughout Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Voice/style + Mudwitch shelf b-roll Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End on specified A-roll quote Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End with walking-out b-roll Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End text box Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "No shaky footage No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Under 75s Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Music align/fade Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No ums No, but it got better",
+          "outcome": "fail"
+        },
+        {
+          "text": "Added requirement (“SMUSH TOGETHER”) Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n2:text-plan": {
+      "participantCode": "n2",
+      "participantName": "evita",
+      "condition": "text-plan",
+      "title": "Evita N2 Text (Mudwitch)",
+      "rating": "5/6",
+      "met": 5,
+      "total": 6,
+      "percent": 83.3,
+      "checks": [
+        {
+          "text": "The clip \"walking in\" will begin the video. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"shaping clay on the wheel\" will come before the clip \"I think physical mediums are so important because, um, it's a way of connecting.\". - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "The music will only play when Viviana is not speaking. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The video will end with the clip \"walking out\". - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"mud witch sign on shelf\" will come right before she leaves the store. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Cut dream to be a full time artist shorter - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n2:grid": {
+      "participantCode": "n2",
+      "participantName": "evita",
+      "condition": "grid",
+      "title": "Evita N2 Grid (Playful Pottery)",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "The clip \"slow smile\" will begin the video. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"shaping clay on the wheel\" will come after the clip \"I hope the book provides to its readers at, um, like a good reference for just general, um, clay knowledge..\". - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The music will only play when Viviana is not speaking. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The video will end with the clip \"leaving\". - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"handl paint\" will come after the \"But also, I really want people to be creative and be kind to themselves.\". - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n3:text-plan": {
+      "participantCode": "n3",
+      "participantName": "ryan",
+      "condition": "text-plan",
+      "title": "Ryan N3 Text (Mudwitch)",
+      "rating": "6/7",
+      "met": 6,
+      "total": 7,
+      "percent": 85.7,
+      "checks": [
+        {
+          "text": "Must begin with a-roll of Viviana introducing herself: “I’m Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I’m a full-time potter.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must not have music when Viviana introduces herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must transition into different pottery pieces with calm_ambient music - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must show montage Viviana focused on being creative/making pottery - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end with clip of Viviana smiling/giggling - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Have pauses in between a-roll, for example after introduction, start music with showing clips of pottery pieces before she introduces her book - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Must show different clips of Viviana painting/making pottery - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n3:grid": {
+      "participantCode": "n3",
+      "participantName": "ryan",
+      "condition": "grid",
+      "title": "Ryan N3 Grid (Playful Pottery)",
+      "rating": "8/9",
+      "met": 8,
+      "total": 9,
+      "percent": 88.9,
+      "checks": [
+        {
+          "text": "Must begin with a-roll of Viviana introducing herself: “I’m Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I’m a full-time potter.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must not have music when Viviana introduces herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must transition into Mudwitch sign with upbeat music - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must transition into calm_reflective music when Viviana talks about the value of pottery - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end with clip of Viviana smiling/giggling - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Have pauses in between a-roll, for example after introduction, start music with showing clips of pottery pieces before she introduces her book - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Have pause after intro - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Montage at end - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Smile at end after montage - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n4:text-plan": {
+      "participantCode": "n4",
+      "participantName": "sharon",
+      "condition": "text-plan",
+      "title": "Sharon N4 Text (Playful Pottery)",
+      "rating": "6/7",
+      "met": 6,
+      "total": 7,
+      "percent": 85.7,
+      "checks": [
+        {
+          "text": "must begin with a video of her glazing a pot with no words - Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "first audio clip must be: “I think being open minded when it comes to design is really important.” followed by audio introducing herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "must begin interview audio over b-roll of pot glazing - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "must have a clip of her focused paired with the audio explaining her stance on creativity - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Intersperse more B-roll of her interacting with her studio at the end (Beats 3 and 4), - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "trim the audio for ums/silences, pauses - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n4:grid": {
+      "participantCode": "n4",
+      "participantName": "sharon",
+      "condition": "grid",
+      "title": "Sharon N4 Grid (Mudwitch)",
+      "rating": "6/7",
+      "met": 6,
+      "total": 7,
+      "percent": 85.7,
+      "checks": [
+        {
+          "text": "immediately follow with her walking into the studio, overlapped with audio of her introducing herself - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "have three b-roll clips of her working on her stuff with interview audio - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "have two clips of her talking in interview - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must start with clip of broll of her finished pieces - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "her audio should only start after the second clip (in the montage) - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Remove Ums - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "No cutoff clips - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n5:text-plan": {
+      "participantCode": "n5",
+      "participantName": "chloe",
+      "condition": "text-plan",
+      "title": "Chloe N5 Text",
+      "rating": "7/7",
+      "met": 7,
+      "total": 7,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with MVI_6216.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "follow that with MVI_3046.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "follow that clip with MVI_3798.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Replace with another clip… something that I more horizontal camera - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Id shorten the clip with the spinning at six flags and replace it or id cut it shorter because I think ti oes too long and put it another one. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "play everything is embarrassing by sky ferreira s- yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Play the final song longer - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n5:grid": {
+      "participantCode": "n5",
+      "participantName": "chloe",
+      "condition": "grid",
+      "title": "Chloe N5 Grid",
+      "rating": "5/6",
+      "met": 5,
+      "total": 6,
+      "percent": 83.3,
+      "checks": [
+        {
+          "text": "follow that with the clip 796.mp4, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "play clip MVI_2049.mov after clip 796.mp4, - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "end the video with clip MVI_2989.mov - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "start with the clip digital camera vlog footage clip in Iowa and it starts with someone playing guitar and it shows my friends and we wave at the camera - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Start the song earlier, and I want the song to play the whole time - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "but the audio is superimposed so the sound is background music - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "n6:text-plan": {
+      "participantCode": "n6",
+      "participantName": "max",
+      "condition": "text-plan",
+      "title": "Max N6 Text",
+      "rating": "9/9",
+      "met": 9,
+      "total": 9,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Use clips approximately 4–5 seconds long. Select the strongest moments from each scene and avoid letting any individual shot linger unnecessarily. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Start with DJI_20260809102052_0140_D.MP4 as the establishing shot. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Place DJI_20260809082655_0123_D.MP4 roughly in the middle of the montage as a brief, unexpected funny moment. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "For DJI_20260808174516_0110_D.MP4, focus on the moment where the canoe is being dragged over the fallen tree. Add a natural-sounding scraping/dragging sound effect synchronized with the canoe movement. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Preserve the original audio from particularly immersive moments, such as water, paddling, footsteps, wind, or wildlife. Briefly lower the background music during these moments so the natural sounds come through clearly. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use simple, unobtrusive transitions. Prioritize clean cuts and transitions that match the movement or composition of adjacent clips rather than flashy effects. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End with one of the strongest scenic or visually satisfying shots from the trip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "I think maybe in the middle instead of having them back to back have them more evenly spaced. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "And I think maybe there was another clip of sister saying that hey were about to start this trip and we could include that one in the beginning to kind of tell launch river run of saying heyw were getting started about to go - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n6:grid": {
+      "participantCode": "n6",
+      "participantName": "max",
+      "condition": "grid",
+      "title": "Max N6 Grid",
+      "rating": "6/6",
+      "met": 6,
+      "total": 6,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Trim the longer biking scenes: For long biking clips (e.g. 01, 04, 09), select the most scenic or visually interesting portions rather than using the entire clip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Clip 04: Let this biking scene run slightly longer than the other biking clips. Use a speed ramp: start at normal speed, ramp up to 2× speed to show more of the scene, then gradually ramp back down to normal speed. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Smooth transitions: Prioritize smooth, natural transitions between clips. Where appropriate, fade the end of one clip into the beginning of the next to help the video flow as a continuous journey. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Clip 06: There is a dog pooping near the beginning of the clip. Highlight this as a brief funny moment using either a subtle comedic sound effect or a small text/arrow pointing it out. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Maintain variety and pacing: Space out the biking scenes so the video does not feel like a biking montage. Heavily trim repetitive biking footage and intersperse it with scenery, people, destinations, and other interesting moments from the trip. The overall video should tell the story of moving through different places and experiences. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Better sound - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Trim lengthy biking scenes to best moments — Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Clip 04 extended with 1×–2×–1× speed ramp — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n7:text-plan": {
+      "participantCode": "n7",
+      "participantName": "alex",
+      "condition": "text-plan",
+      "title": "Alex N7 Text",
+      "rating": "11/11",
+      "met": 11,
+      "total": 11,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with clip_9 as a whole, using the phone rotation as the transition into the next clip. Caption the shout phonetically in caps, without translating it Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_10 (~0:58–1:08): \"same colours as Beefeater… Greenall's, 6 euros\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_10 (~1:50–2:02): \"μαλάκα, it's all fake… this is Malibu but it's Cayo Lago\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_6, the sneeze at the end, rotated 180°, ~2s Yes (Yes, but I don't like it, it did not choose the correct sneeze part)",
+          "outcome": "mixed"
+        },
+        {
+          "text": "clip_11 (~0:12–0:30): \"2 euros, wine for 2 euros!\" / \"it's not wine, it's a cocktail\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_12 (~0:06–0:22): \"Desert Hit is Axe Africa… in a bottle like motor oil\" Yes end with clip_12 (~1:00–1:18), Giorgos trying on the trousers Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "on-screen text for each knockoff, e.g. \"Greenall's ≈ Beefeater\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "skip clip_10 ~0:24–0:28 and ~0:48 (too crude). The \"Anonymous Alcoholics\" gag at ~0:12–0:18 is optional Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "no checkout clip Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "max 60s Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Open clip_9 with rotation transition and phonetic shout caption — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "n7:grid": {
+      "participantCode": "n7",
+      "participantName": "alex",
+      "condition": "grid",
+      "title": "Alex N7 Grid",
+      "rating": "11/11",
+      "met": 11,
+      "total": 11,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "start with clip_3, only the last ~3s where Alex says \"let's get organised, let's have a plan\" (~0:22–0:26) Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "immediately follow with clip_2 (~0:18–0:36, trimmed to ~8s): \"we're at the epitome of tourism… the supermarket… total chaos\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "montage of 6–10 throws into the basket, 1–2s each, cut on the beat, from clip_1 (after 0:19), clip_4, clip_5 and clip_8 Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_13 (~0:16–0:32), the pickle scene at normal speed, to slow the montage down. Keep \"the size bothers me, I want the small one\" / \"I'll pretend I didn't hear that and we'll take two big ones\" Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "clip_8 (~1:08–1:12), \"chips! chips! chips!\", to restart the pace Yes end with clip_14 (the checkout) Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "English captions on the dialogue lines Yes don't use clip_7, clip_9–12, or clip_1 0:10–0:19 (those belong to the other reels) Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "max 60s Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Greeks subtitles Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Sound effect Yes (Yes, but I don't like it, the sound effect is not aligned to the right moment)",
+          "outcome": "mixed"
+        }
+      ]
+    },
+    "e1:text-plan": {
+      "participantCode": "e1",
+      "participantName": "saehui",
+      "condition": "text-plan",
+      "title": "Saehui E1 Text (Playful Pottery)",
+      "rating": "3/4",
+      "met": 3,
+      "total": 4,
+      "percent": 75,
+      "checks": [
+        {
+          "text": "During intro sentence walk into store b rol - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Transition to dreamy update for transitioning to her vision of creativit - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Make sure there is no cutting in the middle of words - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Cross-dissolve - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e1:grid": {
+      "participantCode": "e1",
+      "participantName": "saehui",
+      "condition": "grid",
+      "title": "Saehui E1 Grid (Mudwitch)",
+      "rating": "4/4",
+      "met": 4,
+      "total": 4,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Start with calm reflective song - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "When talking about feeling where artist hand is close up shot of painting - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "B roll of Viviana painting pan up – hand shaped paint plate b roll - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "End with mudwitch sign b roll - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Start with calm reflective song — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e2:text-plan": {
+      "participantCode": "e2",
+      "participantName": "xiyuan",
+      "condition": "text-plan",
+      "title": "Xiyuan E2 Text (Mudwitch)",
+      "rating": "5/7",
+      "met": 5,
+      "total": 7,
+      "percent": 71.4,
+      "checks": [
+        {
+          "text": "Must begin with a-roll saying \"Hi, I'm Viviana matsuda. Um, I do pottery for a living. “ - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "When she introduces her brand name “mud witch” we see the visual of the \"mud witch\" sign on shelf - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "When she’s talking about “artist’s hand”, we see visuals of closeup of her working with the tools - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Right after she says “I’m a full time potter”, music fades in. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "As the music fades in after “I’m a full time potter”, we see montage of b-rolls of her work on the shelf and then her working. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Remove the last beat (so let the previous beat be more fleshed out about the artist hand be more fleshed out (the body positivity part and the importance of connection should take more time) - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "We should see a montage of different types of work that happens in pottery during the body positivity part - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e2:grid": {
+      "participantCode": "e2",
+      "participantName": "xiyuan",
+      "condition": "grid",
+      "title": "Xiyuan E2 Grid (Playful Pottery)",
+      "rating": "7/7",
+      "met": 7,
+      "total": 7,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Start with “I think that it's so easy to desire so many things, um, that we actually don't need.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must be black screen on the first line. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Second line is \"with lockdown, people really sat in their houses and realized that the things that were surrounding them weren't bringing them joy. And I think that's why ceramics has had such a big surge.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Accompanying the second line, the visual is her walking into the front door. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "End with the line “ just letting yourself adjust, grow whatever ideas…\" - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Switch the music to a more upbeat music, when she starts to talk about her book - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "There should also be more action of her doing pottery that is fast paced, followed by a montage of the work while she is taking about spontaneity - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e3:text-plan": {
+      "participantCode": "e3",
+      "participantName": "jp",
+      "condition": "text-plan",
+      "title": "JP E3 Text (Mudwitch)",
+      "rating": "8/12",
+      "met": 8,
+      "total": 12,
+      "percent": 66.7,
+      "checks": [
+        {
+          "text": "Must begin with voiceover of Viviana saying “It's a lot of work, but it's a dream to be a full time artist”. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must begin with the store sign with Viviana entering the shop. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must begin with the groovy_fun music. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "After that, we must show her saying “I love the winging it style interview” and giggling. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end on the voiceover quote “I want a select few things that I know will bring me happiness” with B39 cute when she’s walking in the frame, posing, and walking away. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Have the drop of the music Right before she drops her line “I like the winging interview style” and then silence, then awkward silence, then boom the music starts gain. With her talking and introducing herself. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "And maybe if it can do this but having a slightly closer shot by cropping. Right after the awkward silence and she has a jump cut and a slight crop on the next interview shot and she introduces sherif is nice - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Remove the gums for hi I’m Viviana Katsura - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Full sentence of I am a potter and she is giggling. “I am Viviana matsuda and I do pottery” and then she gigles .I want to keep that - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "In beat 2, the broll is too long we need to switch to when she starts painting stuff as well as she talks - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Use a different song in beat 2. In this song there is a bridge that we can kill and just use the second part of the song groovy_fun - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Keep playing groovy_fun at beat 3 - Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e3:grid": {
+      "participantCode": "e3",
+      "participantName": "jp",
+      "condition": "grid",
+      "title": "JP E3 Grid (Playful Pottery)",
+      "rating": "5/5",
+      "met": 5,
+      "total": 5,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Must start on the music calm_reflective - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must start with the quote “I feel like what I always saw or referenced were these, like, big, hearty old school books that never really talked about color had super fun things to do in them. Um, very like old school pottery.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end on ““It started off as one thing, and now it's just like, I just want to make something that, like, makes people smile.” - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Must end with groovy_fun music. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "being playful I want her top paint and show multi colored things where things are colorful and we can see some metaphorical way of showing it - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Start with calm_reflective — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e4:text-plan": {
+      "participantCode": "e4",
+      "participantName": "jonah",
+      "condition": "text-plan",
+      "title": "Jonah E4 Text (Playful Pottery)",
+      "rating": "6/8",
+      "met": 6,
+      "total": 8,
+      "percent": 75,
+      "checks": [
+        {
+          "text": "Must open on the A-roll clip \"what if this, instead of a tulip, was a daffodil?\", covered with close-up B-roll of her hands shaping clay on the wheel. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "groovy_fun must start at the very first frame, under the tulip/daffodil line. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The clip \"So my book is called Playful Pottery\" must come directly after the tulip/daffodil clip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The \"pressure to produce\" clip must come right before the \"rolling with the punches\" clip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "The last spoken line must be \"creativity involves being kind to yourself, which I don't think is talked about as much as it should be\", followed directly by the text box. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Audio ducking - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Spaces between troll - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Ending text box - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e4:grid": {
+      "participantCode": "e4",
+      "participantName": "jonah",
+      "condition": "grid",
+      "title": "Jonah E4 Grid (Mudwitch)",
+      "rating": "8/8",
+      "met": 8,
+      "total": 8,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Must open cold on \"this is the Chubby Mug, this is the Venus mug\" over B-roll of the chubby pastel mugs on a shelf, with no music under it. - Yes",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Viviana's self-introduction must come directly after the cold open, and calm_reflective must begin on that cut. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "\"So they were like naked\" must be covered with B-roll of the unglazed bisque pots stacked on the shelves. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "\"Let's clothe these babes\" must come right after \"so they were like naked\" and be covered with B-roll of her painting color onto a piece. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "The last spoken line must be \"I just want to make something that makes people smile\", followed directly by the text box. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "End with Broll - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Have broll over the space - Yes 8. Space - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Chubby/Venus mug cold open over B-roll, without music — Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Self-introduction next, calm_reflective starts — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e5:text-plan": {
+      "participantCode": "e5",
+      "participantName": "dimitris",
+      "condition": "text-plan",
+      "title": "Dimitris E5 Text",
+      "rating": "8/9",
+      "met": 8,
+      "total": 9,
+      "percent": 88.9,
+      "checks": [
+        {
+          "text": "Start with the clip from 02:51–03:07. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Add a funny sound effect at the end of the clip. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Next, use a clip featuring Michael. Make this section at least 15 seconds long - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use any clip featuring Dwight, but keep it under 20 seconds. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include the scene with the spinning chore wheel. Choose the funniest moment from that scene. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End with a clip where Dwight and Michael are talking, and - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "finish the video with a slow fade-out. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Add background music underneath the clips that fits the mood/situation. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Keep the music at a low volume so the dialogue is still easy to hear. - No",
+          "outcome": "fail"
+        }
+      ]
+    },
+    "e5:grid": {
+      "participantCode": "e5",
+      "participantName": "dimitris",
+      "condition": "grid",
+      "title": "Dimitris E5 Grid",
+      "rating": "6/7",
+      "met": 6,
+      "total": 7,
+      "percent": 85.7,
+      "checks": [
+        {
+          "text": "Start with the scene where Dwight is trying to get a new job. Add funny background music that fits the scene. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include a scene with five or more people in it. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include the scene where gum gets stuck in Michael’s hair. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Trim this section down even further, using clean, well-timed cuts to keep only the funniest/most important parts of the scene and dialogue. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "End the video with a funny moment involving Dwight and Jim, specifically the scene where Jim imitates Dwight. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Include a clip of someone giving an interview of Michael - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Volume of music was too loud - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Dwight new-job opening with funny music — Yes",
+          "outcome": "pass"
+        }
+      ]
+    },
+    "e6:text-plan": {
+      "participantCode": "e6",
+      "participantName": "brian",
+      "condition": "text-plan",
+      "title": "Brian E6 Text",
+      "rating": "5/7",
+      "met": 5,
+      "total": 7,
+      "percent": 71.4,
+      "checks": [
+        {
+          "text": "Make it feel cinematic, can use the provided light flares to add drama. - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Make the story emotional and compelling -- it will be used for a social media campaign around Jewish American Heritage Month. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "End with a quote about the run club being for everyone. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Make the b-roll feel like a training flow, from stretching to running on the track. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Make footage slow motion so it feels cinematic and epic. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Color grade - No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Cinematic style with light flares — No",
+          "outcome": "fail"
+        },
+        {
+          "text": "Emotional, compelling social-campaign story — Yes, but disliked",
+          "outcome": "mixed"
+        }
+      ]
+    },
+    "e6:grid": {
+      "participantCode": "e6",
+      "participantName": "brian",
+      "condition": "grid",
+      "title": "Brian E6 Grid",
+      "rating": "6/6",
+      "met": 6,
+      "total": 6,
+      "percent": 100,
+      "checks": [
+        {
+          "text": "Start with Jason introducing himself and how his family came to America. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Open with the drone shot overhead. - Yes, but I don't like it",
+          "outcome": "mixed"
+        },
+        {
+          "text": "Make the b-roll black and white and 'old footage' style, like it is archival. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Use the piano track that has a more old-fashioned feel. - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Make the mix of interview to b-roll 75% interview to 25% b-roll. Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "Color grade the video - Yes",
+          "outcome": "pass"
+        },
+        {
+          "text": "correct aspect ratio - yes",
+          "outcome": "pass"
+        }
+      ]
+    }
+  }
+}

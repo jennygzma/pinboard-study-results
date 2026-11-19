@@ -1,0 +1,37 @@
+{
+  "id": "690f2811-1292-44cd-ae36-de3b0946a741",
+  "status": "done",
+  "lineNumber": 18,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "VO: Viviana explains Playful Pottery’s accessible philosophy over ambient music [[clip: A001C004_240718BC | 37.62s-57.52s]].",
+        "durationSeconds": 17
+      },
+      {
+        "text": "VO: Tight cut of Viviana contrasting her book against rigid manuals [[clip: A001C004_240718BC | 37.62s-57.52s]].",
+        "durationSeconds": 14
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "VO: Viviana shares the origin and initial spark for writing her book [[clip: A001C004_240718BC | 26.22s-37.62s]].",
+        "durationSeconds": 11,
+        "howItDiffers": "Focuses on the personal backstory and impetus for creating the book rather than just its structural difference from other manuals."
+      },
+      {
+        "text": "VO: Viviana advocates for self-kindness and low-pressure experimentation in pottery [[clip: A001C004_240718BC | 98.02s-107.62s]].",
+        "durationSeconds": 10,
+        "howItDiffers": "Leans into an emotional, encouraging message about creative mindset rather than instructional philosophy."
+      },
+      {
+        "text": "VO: Viviana emphasizes the artistic benefits of flexibility over rigid rules [[clip: A001C004_240718BC | 133.48s-147.38s]].",
+        "durationSeconds": 14,
+        "howItDiffers": "Frames the book's premise around artistic problem-solving and adaptable technique rather than pure accessibility."
+      }
+    ],
+    "primaryAction": "generateAlternatives",
+    "primaryActionReason": "The current voiceover plan is solid, but exploring distinct thematic entry points—such as the personal origin story or the self-kindness mindset—gives stronger creative options for introducing the book."
+  }
+}

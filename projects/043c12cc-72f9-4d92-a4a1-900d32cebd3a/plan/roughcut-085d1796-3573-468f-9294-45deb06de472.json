@@ -1,0 +1,11 @@
+{
+  "id": "085d1796-3573-468f-9294-45deb06de472",
+  "projectId": "043c12cc-72f9-4d92-a4a1-900d32cebd3a",
+  "footageProjectName": "mudwitch-documentary",
+  "runId": "mudwitch-documentary_2026-10-05T18-24-11-660Z",
+  "status": "error",
+  "phase": "error",
+  "messages": [],
+  "createdAt": "2026-10-05T18:24:11.661Z",
+  "error": "coconut-agent process exited with code null and produced no usable render/timeline"
+}

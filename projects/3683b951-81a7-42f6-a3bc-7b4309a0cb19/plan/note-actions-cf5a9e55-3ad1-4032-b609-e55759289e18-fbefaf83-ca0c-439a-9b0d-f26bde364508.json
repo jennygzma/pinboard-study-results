@@ -1,0 +1,55 @@
+{
+  "id": "fbefaf83-ca0c-439a-9b0d-f26bde364508",
+  "status": "done",
+  "cardId": "cf5a9e55-3ad1-4032-b609-e55759289e18",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "40758abf-f3bc-4d71-aa98-e2df60da19a7",
+        "rationale": "A brief, lighthearted goofy sound effect that adds subtle comedy when Michael spots the car without overwhelming the scene."
+      },
+      {
+        "momentId": "ccecc3c1-a67c-4ae7-af29-faa2ffd55a8b",
+        "rationale": "A classic punchy comedic sting that can be mixed at low volume right on the visual reveal of the police car."
+      },
+      {
+        "momentId": "6612b35e-72f4-4d1c-9218-a840e8018851",
+        "rationale": "A short, dry comedic hit that accents Michael's realization cleanly without interfering with the yelling."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Drop subtle goofy SFX at -12dB when Michael spots the cruiser.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Place low-volume comedic sting right on Michael yelling 'There it is!'.",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Layer a quick cartoon accent underneath the window reveal at low volume.",
+        "durationSeconds": 2
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Add a mock-dramatic reality TV violin screech as cars speed past.",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Emphasizes exaggerated, mock-serious melodrama instead of slapstick cartoon comedy."
+      },
+      {
+        "text": "Keep natural production audio only, letting real sirens drive the comedic chaos.",
+        "durationSeconds": 4,
+        "howItDiffers": "Maintains a pure mockumentary realism without layering artificial sound effects."
+      },
+      {
+        "text": "Insert a high-speed cartoon whoosh synced to the passing cop car.",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Punctuate the physical speed of the car rather than Michael's facial reaction."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note already clearly requests a specific comedic audio cue, and several matching sound effect assets are available in the footage library to fulfill it."
+  }
+}

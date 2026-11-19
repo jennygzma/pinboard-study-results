@@ -1,0 +1,38 @@
+{
+  "id": "8b9441bc-152f-4d71-939b-ce195eea8314",
+  "status": "done",
+  "cardId": "a3867314-2d0e-4df0-a538-5e5002ff799e",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Hit Vine boom SFX exactly as Giorgos kicks Sotos.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Drop bass-heavy Vine boom on kick with visual screen shake.",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut all music to dead silence on the kick impact.",
+        "durationSeconds": 1,
+        "howItDiffers": "Creates comedic tension through a sudden drop to dead air instead of an explosive sound effect."
+      },
+      {
+        "text": "Trigger dramatic Hell's Kitchen violin sting on the kick.",
+        "durationSeconds": 2,
+        "howItDiffers": "Replaces the bass drop meme with an overdramatic reality TV audio cue."
+      },
+      {
+        "text": "Layer exaggerated cartoon thud sound on the physical kick.",
+        "durationSeconds": 1.2,
+        "howItDiffers": "Shifts the tone toward classic slapstick cartoon comedy rather than modern internet bass memes."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The media library already contains the exact tagged 'Vine boom' SFX moment ready to be placed on the cut."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "d155dd2e-ae01-4418-89f7-742037c472a9": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "5b306145-d29c-462d-a410-2570870a7ea5": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "794db61b-f889-4a23-9ead-c122c73a8d10": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "fa1229fd-63fe-4c97-89d7-8532758d3737": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "59f949c2-ad82-484b-a295-f074ca5c29e9": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "a45587bc-52ef-4d01-8f40-e9a98a23c2a8": {
+    "actor": "user",
+    "outcome": "adjusted"
+  }
+}

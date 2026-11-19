@@ -1,0 +1,42 @@
+{
+  "id": "2db4dcc0-1d25-4578-91c5-51e7910e8ed0",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Michael talking head reacting dramatically to the unfolding office distraction",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Michael interview explaining his leadership philosophy during historic events",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Michael talking head delivering a punchy closing quip on workplace chaos",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim talking head justifying why the office stopped working for the chase",
+        "durationSeconds": 7,
+        "howItDiffers": "Swaps Michael for Jim's canonical Scranton Strangler interview clip already available in the library."
+      },
+      {
+        "text": "Michael b-roll reaction shot crowded around the monitor with the team",
+        "durationSeconds": 4,
+        "howItDiffers": "Replaces a seated talking head interview with live scene reaction footage inside the ensemble group."
+      },
+      {
+        "text": "Jump cut sequence of staff reacting at the window as sirens pass",
+        "durationSeconds": 6,
+        "howItDiffers": "Focuses on fast-paced environmental action and team reactions rather than a solo interview."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note is an unspecific placeholder that lacks the context, topic, or narrative purpose of Michael's interview within the Scranton Strangler beat."
+  }
+}

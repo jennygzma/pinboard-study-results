@@ -1,0 +1,19 @@
+{
+  "id": "2a7076ab-6b7a-47b9-b746-8c88ca6a9857",
+  "projectId": "5c105fc0-87f9-46ce-bc67-8d95c926d0f8",
+  "footageProjectName": "mudwitch-documentary",
+  "runId": "mudwitch-documentary_2026-09-21T13-41-49-663Z",
+  "status": "error",
+  "phase": "error",
+  "messages": [
+    {
+      "turn": 1,
+      "type": "text",
+      "phase": "starting",
+      "summary": "Failed to authenticate: OAuth session expired and could not be refreshed",
+      "timestamp": "2026-09-21T13:41:53.776Z"
+    }
+  ],
+  "createdAt": "2026-09-21T13:41:49.663Z",
+  "error": "coconut-agent process exited with code 1 and produced no usable render/timeline"
+}

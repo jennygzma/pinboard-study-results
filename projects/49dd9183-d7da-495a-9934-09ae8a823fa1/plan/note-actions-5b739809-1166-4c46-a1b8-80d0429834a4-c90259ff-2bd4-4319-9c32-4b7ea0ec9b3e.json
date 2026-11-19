@@ -1,0 +1,51 @@
+{
+  "id": "c90259ff-2bd4-4319-9c32-4b7ea0ec9b3e",
+  "status": "done",
+  "cardId": "5b739809-1166-4c46-a1b8-80d0429834a4",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Directly captures grabbing pre-mixed gin and tonic bottles off the shelf with excited dialogue."
+      },
+      {
+        "momentId": "4fdb1517-9111-460a-82ce-e192604293ac",
+        "rationale": "Shows selecting the wildberry pink gin bottle and tossing it straight into the cart."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Toss pink wildberry gin bottles into the cart",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Snatch pre-mixed gin and tonic bottle while shouting the price",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Quick-cut grab of bottled gin and tonic into the basket",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "React excitedly to pre-mixed gin and tonic pricing",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Emphasizes the spoken comedic price reaction over the physical tossing movement."
+      },
+      {
+        "text": "Quick debate picking between classic and wildberry pink gin",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on the mini-choice between drink flavors rather than an instantaneous cart drop."
+      },
+      {
+        "text": "Rapid two-shot cut grabbing both gin bottle varieties",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Combines both available gin clips into a rhythmic double-grab to accelerate montage pace."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Exact footage clips exist that show selecting and tossing pre-mixed gin and tonic bottles into the cart."
+  }
+}

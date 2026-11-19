@@ -1,0 +1,47 @@
+{
+  "id": "317e6e3c-241f-423c-ac8c-ffcb9232ac70",
+  "projectName": "ryan task 2 4.6 sonnet",
+  "createdAt": "2026-10-08T15:29:09.196Z",
+  "lastModified": "2026-10-08T15:29:09.196Z",
+  "mediaFiles": [],
+  "textElements": [],
+  "filesID": [],
+  "currentTime": 0,
+  "seekVersion": 0,
+  "isPlaying": false,
+  "isMuted": false,
+  "duration": 0,
+  "zoomLevel": 1,
+  "timelineZoom": 15,
+  "structureLayoutMode": "grouped",
+  "enableMarkerTracking": true,
+  "hideVerifications": true,
+  "activeSection": "structure",
+  "activeElement": "structure",
+  "activeElementIndex": 0,
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "fps": 30,
+  "aspectRatio": "16:9",
+  "history": [],
+  "future": [],
+  "exportSettings": {
+    "resolution": "1080p",
+    "quality": "high",
+    "speed": "fastest",
+    "fps": 30,
+    "format": "mp4",
+    "includeSubtitles": false
+  },
+  "footageProjectName": "mudwitch-documentary",
+  "hasBeenOpened": true,
+  "ablated": false,
+  "reconstruction": {
+    "state": "latest-visible",
+    "originalProjectId": "6ac1ceac-fe6c-49ae-b8d0-d329a0857212",
+    "evidenceFile": "plan/reconstruction-evidence.json",
+    "partial": true
+  }
+}

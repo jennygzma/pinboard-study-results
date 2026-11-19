@@ -1,0 +1,37 @@
+{
+  "id": "179259e5-06b2-40db-b5c7-a7de171ba7c6",
+  "status": "done",
+  "lineNumber": 6,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Slow-motion 50% portrait of Jason breaking into warm smile [[clip: P1071658 | 1s-6s]].",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Cut to 50% slow-mo direct-to-lens smile as he states name [[clip: P1071658 | 1s-6s]].",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut to macro detail of Star of David necklace [[clip: P1071659 | 4s-10.64s]].",
+        "durationSeconds": 3,
+        "howItDiffers": "Emphasizes his Jewish identity upfront rather than his friendly personality."
+      },
+      {
+        "text": "Cut to close-up of NJR club jacket logo [[clip: P1071652 | 7s-14s]].",
+        "durationSeconds": 3,
+        "howItDiffers": "Visually confirms his team affiliation right as he mentions Nice Jewish Runners."
+      },
+      {
+        "text": "Profile tracking shot running in bright sunlight [[clip: P1071655 | 0s-4s]].",
+        "durationSeconds": 4,
+        "howItDiffers": "Opens with active, energetic running motion instead of a stationary portrait."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note already clearly envisions a specific portrait smiling shot, which precisely matches clip P1071658 in the footage bin."
+  }
+}

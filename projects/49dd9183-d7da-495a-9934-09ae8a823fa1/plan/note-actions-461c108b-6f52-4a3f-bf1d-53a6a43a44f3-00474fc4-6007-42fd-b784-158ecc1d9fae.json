@@ -1,0 +1,55 @@
+{
+  "id": "00474fc4-6007-42fd-b784-158ecc1d9fae",
+  "status": "done",
+  "cardId": "461c108b-6f52-4a3f-bf1d-53a6a43a44f3",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "a40c6e14-f0ae-402e-ba4d-e46b4f032f80",
+        "rationale": "Shows grabbing cookies off the shelf and tossing them straight into the shopping haul."
+      },
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Captures the fast, excited motion of grabbing pre-mixed gin and tonic bottles for the basket."
+      },
+      {
+        "momentId": "57f55b4d-696b-4c6d-8edc-a884e9825d29",
+        "rationale": "Provides a quick shot of selecting and grabbing instant coffee jars from the aisle."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rapid POV cut tossing snack boxes and cookies into basket",
+        "durationSeconds": 2.5
+      },
+      {
+        "text": "Quick insert of canned gin and tonics dropped into basket",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Fast whip-pan down to items piling up in the basket",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Close-up of cart filling up rapidly with random items",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Focuses on the accumulating basket volume rather than the action of throwing."
+      },
+      {
+        "text": "Comedic slow-motion drop of cheap wine bottle into basket",
+        "durationSeconds": 2,
+        "howItDiffers": "Uses slow-motion comedy contrast against the fast-paced frenzy beat."
+      },
+      {
+        "text": "Rhythmic audio montage of product impacts hitting the cart bottom",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on rhythmic foley and sound design cuts rather than visual grabs."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple clips in the footage library directly show quick grabs and items being tossed into the shopping cart."
+  }
+}

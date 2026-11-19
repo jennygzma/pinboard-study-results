@@ -1,0 +1,42 @@
+{
+  "id": "be4137bc-57fc-4710-ac03-c62f6fa94360",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Michael talking head dramatizing the Scranton Strangler chase as historic Scranton history",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Michael talking head reacting to total loss of office work productivity",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Michael interview explaining his civic duty to pause work during police pursuit",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Use Jim's talking head explaining why historic events halt office work",
+        "durationSeconds": 7,
+        "howItDiffers": "Leverages Jim's existing Scranton Strangler interview clip already present in the footage library."
+      },
+      {
+        "text": "Michael rabies interview cut-in to showcase his dramatic civic emergency logic",
+        "durationSeconds": 6,
+        "howItDiffers": "Uses available footage from the rabies marathon interview to highlight Michael's over-the-top reaction to public crises."
+      },
+      {
+        "text": "Drop talking head to sustain high-energy ensemble A-roll at window",
+        "durationSeconds": 7,
+        "howItDiffers": "Removes the solo interview pause entirely, letting the group crowd reaction carry the full beat energy."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note 'michael interview talking head' is a generic placeholder that does not specify Michael's comedic angle, topic, or relation to the Scranton Strangler beat."
+  }
+}

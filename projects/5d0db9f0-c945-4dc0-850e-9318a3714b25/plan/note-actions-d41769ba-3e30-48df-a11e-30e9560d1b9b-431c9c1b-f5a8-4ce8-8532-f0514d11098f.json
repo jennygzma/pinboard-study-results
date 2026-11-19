@@ -1,0 +1,47 @@
+{
+  "id": "431c9c1b-f5a8-4ce8-8532-f0514d11098f",
+  "status": "done",
+  "cardId": "d41769ba-3e30-48df-a11e-30e9560d1b9b",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "1e77cc2e-ab11-4c63-8b2c-64edb8457964",
+        "rationale": "Shows the studio sidewalk sign as Viviana walks away down the street, providing a natural exterior outro."
+      },
+      {
+        "momentId": "2448856a-8525-47f9-8173-ee1dcc4a52f3",
+        "rationale": "Captures Viviana leaving the space to conclude the scene."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana walks away down the sunny street past the sidewalk sign",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Wide exterior of Viviana stepping outside and walking down the sidewalk",
+        "durationSeconds": 3.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Hold on the studio sidewalk sign as Viviana exits frame",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Emphasizes the studio storefront and branding rather than tracking Viviana walking away."
+      },
+      {
+        "text": "Conclude on a warm portrait of Viviana smiling at camera",
+        "durationSeconds": 4,
+        "howItDiffers": "Ends on an intimate character connection rather than a physical departure."
+      },
+      {
+        "text": "End on a static closeup of a finished ceramic piece",
+        "durationSeconds": 3,
+        "howItDiffers": "Puts the final focus on the completed artwork instead of Viviana leaving."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The exterior shot of Viviana walking past the sidewalk sign directly matches this concluding beat."
+  }
+}

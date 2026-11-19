@@ -1,0 +1,42 @@
+[
+  {
+    "id": "02e74e77-d83b-4695-92b2-6e1c530dd78e",
+    "assetFile": "projects/mudwitch-documentary/sound/calm_ambient.wav",
+    "name": "calm_ambient",
+    "durationS": 174.7,
+    "description": "This is a gentle and hopeful acoustic pop track with a warm, positive mood. Its laid-back, mid-tempo feel is driven by clean electric and acoustic guitars over a simple beat, creating a sense of calm inspiration. The light, unobtrusive texture is perfect for corporate content, presentations, or sentimental storytelling.",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-09-18T23:54:43.722Z"
+  },
+  {
+    "id": "c6e981a5-a24e-4dd1-9528-871979df54f9",
+    "assetFile": "projects/mudwitch-documentary/sound/calm_reflective.wav",
+    "name": "calm_reflective",
+    "durationS": 170.5,
+    "description": "This is a gentle and pensive contemporary classical piece with a calm, emotional, and slightly hopeful mood. Its slow, laid-back tempo is driven by a simple, flowing piano melody. The minimalist and spacious texture is perfect for heartfelt storytelling or thoughtful, reflective scenes.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-09-18T23:54:43.722Z"
+  },
+  {
+    "id": "4759547d-3e9e-4b1b-951e-724ed50b0b63",
+    "assetFile": "projects/mudwitch-documentary/sound/dreamy_upbeat.wav",
+    "name": "dreamy_upbeat",
+    "durationS": 182.7,
+    "description": "This is an uplifting and motivational corporate pop track with a positive, energetic mood. It features a driving mid-to-fast tempo with clean electric guitars, bright synths, and a steady drum beat. The track builds in intensity, making it ideal for presentations, commercials, or inspirational content.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-09-18T23:54:43.722Z"
+  },
+  {
+    "id": "030002e6-691a-4eb8-866a-63efde5ba92c",
+    "assetFile": "projects/mudwitch-documentary/sound/groovy_fun.wav",
+    "name": "groovy_fun",
+    "durationS": 116.9,
+    "description": "This is an upbeat and confident funk rock track with a driving, mid-to-fast tempo. The cool, swaggering mood is created by a groovy bassline, a tight drum kit, and clean, twangy electric guitars. The overall feel is positive and stylish, perfect for energetic montages or content with a modern edge.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-09-18T23:54:43.722Z"
+  }
+]

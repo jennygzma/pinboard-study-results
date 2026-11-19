@@ -1,0 +1,81 @@
+{
+  "9381801a-6af2-41cf-81cd-3e4022401adf": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "9c08b916-b413-443a-b7e8-367d401745c4": {
+    "outcome": "adjusted",
+    "actor": "user"
+  },
+  "754b2746-5f4a-4aba-81fb-1f59016526e3": {
+    "outcome": "adjusted",
+    "actor": "user"
+  },
+  "a0c22f29-0daf-4596-ba53-82db2d120a7e": {
+    "actor": "user",
+    "outcome": "added"
+  },
+  "5a016edd-0d45-434b-8b08-f9df97a00632": {
+    "outcome": "corrected",
+    "actor": "user"
+  },
+  "4464f89b-0b1a-48ca-a463-271a17beace7": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "684f9e66-4d1d-4231-a786-3ba9b8b610e2": {
+    "outcome": "added"
+  },
+  "2a4b4afa-a0e0-445f-bb72-b61f84bd1438": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "15dd07e6-e413-4033-b422-648c283a3d2d": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "b7944bba-a377-4ee7-b6b9-7d2e24dba462": {
+    "actor": "ai",
+    "outcome": "corrected"
+  },
+  "8a732581-1a5e-433a-876e-edc954dffc9e": {
+    "outcome": "adjusted",
+    "actor": "user"
+  },
+  "390400f6-82aa-4760-aa57-f3881b9c4706": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "49afb16a-7c17-4d70-a938-1dc979d482fc": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "7318301f-697d-4327-a151-5efbaa3dd998": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "daec3e6a-7237-4423-86bc-cb7ed1c8663e": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "b2e88873-f437-4908-8850-809f55ee465f": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "2318874e-0477-4905-8a97-75d0b2e40aed": {
+    "outcome": "added",
+    "actor": "user"
+  },
+  "c0b4baf0-dc4a-441c-85e6-0d4f30265619": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "a77d9851-fa5e-4b02-accf-d674b3e6ffd7": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "c09b4922-2b2b-44c6-8b76-aafe1dd63304": {
+    "actor": "user",
+    "outcome": "adjusted"
+  }
+}

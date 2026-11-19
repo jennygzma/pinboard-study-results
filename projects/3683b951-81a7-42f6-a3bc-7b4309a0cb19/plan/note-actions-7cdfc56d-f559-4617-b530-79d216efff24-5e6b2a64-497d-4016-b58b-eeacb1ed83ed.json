@@ -1,0 +1,38 @@
+{
+  "id": "5e6b2a64-497d-4016-b58b-eeacb1ed83ed",
+  "status": "done",
+  "cardId": "7cdfc56d-f559-4617-b530-79d216efff24",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "50ccdc3b-794b-4c6e-8573-1b30de590684",
+        "rationale": "Michael holds up a jar of street gravel and pretends to tell his future grandkids about witnessing the chase."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Michael displays his jar of street gravel as a Strangler chase souvenir",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Michael imagines recounting the Strangler standoff to his future grandchildren",
+        "durationSeconds": 7
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim deadpans comparing the chase to Balloon Boy and historic funerals",
+        "durationSeconds": 7,
+        "howItDiffers": "Swaps Michael's nostalgic melodrama for Jim's sarcastic cultural comparison."
+      },
+      {
+        "text": "Michael announces an impromptu office vigil while watching the chase",
+        "durationSeconds": 6,
+        "howItDiffers": "Focuses on live office group reaction rather than a solo reflective interview."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Moment 50ccdc3b-794b-4c6e-8573-1b30de590684 directly provides Michael's talking head dramatizing the Scranton Strangler chase with his gravel souvenir."
+  }
+}

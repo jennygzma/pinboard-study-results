@@ -1,0 +1,39 @@
+{
+  "id": "69380811-cd50-47bb-952c-9a70f2208f4c",
+  "status": "done",
+  "query": "running towards camera",
+  "result": [
+    {
+      "momentId": "dccb4263-1eeb-4727-a9c3-1b52fe07a55d",
+      "rationale": "Shows Jason running down the track towards and past the camera."
+    },
+    {
+      "momentId": "fcbef6fa-7f38-45c9-a059-e9cb99bdc25c",
+      "rationale": "Directly features a man running towards the camera on a tree-lined street."
+    },
+    {
+      "momentId": "c70cef99-9a3a-4fc1-8b72-1e8886680ac1",
+      "rationale": "Features a man running towards and past the camera on a street."
+    },
+    {
+      "momentId": "826d3576-65e3-4198-9a3c-d67b5765ab4a",
+      "rationale": "Shows a man jogging towards and past the camera on a track."
+    },
+    {
+      "momentId": "9cc3fd61-f886-415b-b06f-98445de6f45d",
+      "rationale": "Depicts a man running towards and past the camera along a track."
+    },
+    {
+      "momentId": "c55151d6-2f43-47f8-874d-d5126e762deb",
+      "rationale": "Shows a runner in a black jacket running towards and past the camera."
+    },
+    {
+      "momentId": "433ab822-10cc-4842-956e-4f759da05cfb",
+      "rationale": "Captures a runner in athletic wear running towards and past the camera."
+    },
+    {
+      "momentId": "ecee8778-2492-43c0-8d68-e522de9bd349",
+      "rationale": "Shows a person running along a sidewalk towards and past the camera."
+    }
+  ]
+}

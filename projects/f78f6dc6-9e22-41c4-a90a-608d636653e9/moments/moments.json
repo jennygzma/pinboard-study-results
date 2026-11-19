@@ -1,0 +1,225 @@
+[
+  {
+    "id": "e3b9cdeb-d99b-4863-8a4e-dfa3835100fa",
+    "videoName": "IMG_5414",
+    "startS": 0.94,
+    "endS": 6.1219081272084805,
+    "kind": "interview",
+    "transcriptExcerpt": "Ηρκολίνι!",
+    "visualSummary": "Giorgos shrieking 'Virgolini' and spinning the camera",
+    "relevance": "Direct match for the required opening hook with Giorgos shouting and spinning the phone.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "818b8a79-86b3-4983-981d-c98278f01397",
+    "videoName": "IMG_5415",
+    "startS": 55.47,
+    "endS": 66.83,
+    "kind": "interview",
+    "transcriptExcerpt": "Και έχει τα ία χρώματα με το πληφύτερ. Αυτό το κρέσον χειλεκάνει 6 ευρώ.",
+    "visualSummary": "Pointing out the knockoff Cressons gin copying Beefeater",
+    "relevance": "Captures the discovery of the supermarket knockoff gin imitating Beefeater's branding.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "83821f88-6fb1-46f7-97f2-ba908a2cc629",
+    "videoName": "IMG_5415",
+    "startS": 110.29,
+    "endS": 122.17,
+    "kind": "interview",
+    "transcriptExcerpt": "Αυτό είναι μαλιμπου, αλλά είναι... Γαγιολάγω.",
+    "visualSummary": "Examining knockoff Malibu bottle branded as Cayo Lago",
+    "relevance": "Direct hit on discovering the 'Malibu' knockoff bottle that is actually Cayo Lago.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "a8063209-cbdb-4301-95a3-de313b7456b7",
+    "videoName": "IMG_5416",
+    "startS": 11.6,
+    "endS": 24.94,
+    "kind": "interview",
+    "transcriptExcerpt": "2 ευρώ ρε μάλακα, κρασί ρε μάλακα. Δεν κάνει κρασί, είναι κοκτέλη.",
+    "visualSummary": "Realizing the cheap 2-euro wine bottle is actually a cocktail",
+    "relevance": "Matches the brief requirement of discovering the €2 'wine' that turns out to be a cocktail.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "c916941c-042a-4adb-9ac7-a0dfccfcf47b",
+    "videoName": "IMG_5417",
+    "startS": 6.6,
+    "endS": 29.86,
+    "kind": "interview",
+    "transcriptExcerpt": "Όχι, δεν καταλάβεις, είναι άξι. Απλά είναι σε μπουκάλι που μοιάζει με... Δενζινόλαδο. Δενζινό, μηχανίλαιο.",
+    "visualSummary": "Holding shower gel resembling Axe Africa in motor-oil packaging",
+    "relevance": "Direct match for the knockoff Axe Africa shower gel packaged like a motor oil bottle.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "2790a513-fd3c-44b6-af19-c90021e717d3",
+    "videoName": "IMG_5417",
+    "startS": 60.8,
+    "endS": 67.26,
+    "kind": "interview",
+    "transcriptExcerpt": "Λινό, ά, παιδιά, δεν έχω θερει να παντελώνει, έτσι. Ένα παντελώνει δεν έχω.",
+    "visualSummary": "Browsing linen clothing and pants in the store aisle",
+    "relevance": "Giorgos spots linen pants on display and realizes he forgot to pack pants.",
+    "tags": [
+      "single_speaker"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T13:21:47.825Z"
+  },
+  {
+    "id": "463006df-7283-4782-93d7-62d511781ac9",
+    "videoName": "IMG_5407",
+    "startS": 27.96,
+    "endS": 30.18,
+    "kind": "interview",
+    "transcriptExcerpt": "Είμαστε στη Supermarket. Το πρώτο μας.",
+    "visualSummary": "Speaker establishing the supermarket setting",
+    "relevance": "Provides a smooth environmental establishing line inside the supermarket aisle that matches opening wide/setting shots.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:36:28.855Z"
+  },
+  {
+    "id": "e1082bbb-7f53-4c3d-88f5-c78b33b8b69f",
+    "videoName": "IMG_5407",
+    "startS": 32.34,
+    "endS": 37.7,
+    "kind": "interview",
+    "transcriptExcerpt": "Άρα το πρώτο στη Supermarket που έχει να γίνει ο χαμός. Ο κακός χαμός. Θα κάνουμε χαμούλη.",
+    "visualSummary": "Speaker talking in aisle introducing supermarket trip",
+    "relevance": "Maintains the broader supermarket aisle context and tone smoothly after the hook before focusing on items.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:36:28.855Z"
+  },
+  {
+    "id": "71d0aac9-d2bb-457c-bbb4-b22974566267",
+    "videoName": "IMG_5407",
+    "startS": 19.6,
+    "endS": 27.02,
+    "kind": "interview",
+    "transcriptExcerpt": "Είμαστε στην επιτόμη του τουρισμού. Στο πίκα... Εξπίρινς. Πίκα εξπίρινς για ταξίδια.",
+    "visualSummary": "Medium wide shot of speaker talking about the trip experience",
+    "relevance": "Offers a continuous general setting shot of the speaker rather than an abrupt jump cut directly to a product item.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:36:28.855Z"
+  },
+  {
+    "id": "1d8f883d-c79b-425e-a92f-c9fbbeb023d7",
+    "videoName": "IMG_5410",
+    "startS": 0.18,
+    "endS": 4.18,
+    "kind": "interview",
+    "transcriptExcerpt": "Δεν θέλουμε πάρα πολλά φορά. Θέλουμε προϊνά, σίγουρα, ψωμάκια...",
+    "visualSummary": "Speaker in aisle explaining general shopping plan",
+    "relevance": "Establishes general shopping intent in the aisle, preserving visual environment continuity.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:36:28.855Z"
+  },
+  {
+    "id": "dc985117-4625-40ec-b371-d9b137ced767",
+    "videoName": "IMG_5417",
+    "startS": 73.65568732424434,
+    "endS": 80.00812600522805,
+    "kind": "interview",
+    "relevance": "",
+    "notes": "oxi to jexasa panv ston kanape",
+    "tags": [],
+    "source": "manual",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:44:35.298Z"
+  },
+  {
+    "id": "6b901d82-ac43-4a2a-9c75-8011dfc38cb9",
+    "videoName": "IMG_5417",
+    "startS": 81.62111178094338,
+    "endS": 83.84815439268311,
+    "kind": "interview",
+    "relevance": "",
+    "notes": "kamia mpira den phrame",
+    "tags": [],
+    "source": "manual",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T16:45:50.093Z"
+  }
+]

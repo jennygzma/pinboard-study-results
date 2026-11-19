@@ -1,0 +1,59 @@
+{
+  "id": "11c7f0b3-41d5-42b3-868d-127fa05538d1",
+  "status": "done",
+  "cardId": "f3e51bee-9706-4cff-af2a-93ac329c952f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "9b4414dc-9636-4770-bfe0-f5ab1e7482d9",
+        "rationale": "Shows finished pastel mugs, plates, and novelty watermelon containers on display."
+      },
+      {
+        "momentId": "c64fa184-8144-4f2d-9e38-6677ab5068aa",
+        "rationale": "Captures playful ice cream sundae ceramic figurines on the studio shelf."
+      },
+      {
+        "momentId": "244776a9-0b41-4ad3-b41b-1065775efa0f",
+        "rationale": "Features styled ceramic dishware and colorful yellow display shelves."
+      },
+      {
+        "momentId": "7f2df7de-999e-4388-bd9b-6c5971bc0799",
+        "rationale": "Displays an assortment of finished colorful ceramic pieces across a pink tabletop."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Quick cuts of pastel mugs, watermelon pots, and sundae figurines on shelves.",
+        "durationSeconds": 3.5
+      },
+      {
+        "text": "Close-up pan across colorful ceramic dishware styled on yellow shelves.",
+        "durationSeconds": 3
+      },
+      {
+        "text": "Montage cutting between vibrant tableware on pink display tables and windowsills.",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Focus on the vibrant Mud Witch shelf sign beside finished planters.",
+        "durationSeconds": 3,
+        "howItDiffers": "Emphasizes the brand name and identity upfront rather than a multi-shot montage of wares."
+      },
+      {
+        "text": "Single atmospheric hero shot of finished pottery basking on a sunlit windowsill.",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Uses one calm, warm establishing shot instead of rapid cuts of multiple products."
+      },
+      {
+        "text": "Split montage contrasting unglazed greenware on racks with colorful finished pieces.",
+        "durationSeconds": 4.5,
+        "howItDiffers": "Introduces the studio workflow and process alongside the colorful aesthetic."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Multiple distinct b-roll clips of colorful finished ceramics and playful shelves are already available to assemble this montage."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "403d0b2c-f757-44b8-ae76-89774359c1fc",
+  "status": "done",
+  "lineNumber": 21,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Giorgos inspects the linen pants, declaring he forgot to pack any. [[clip: IMG_5417 | 60.8s-67.26s]]",
+        "durationSeconds": 6.5
+      },
+      {
+        "text": "Punch in on Giorgos repeating 'Lino' while holding up the trousers. [[clip: IMG_5417 | 60.8s-67.26s]]",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "End on Giorgos shrieking 'Virgolini' and spinning the camera. [[clip: IMG_5414 | 0.94s-5.24s]]",
+        "durationSeconds": 4.3,
+        "howItDiffers": "Swaps the casual pants outro for high-energy comedic chaos to close the video."
+      },
+      {
+        "text": "Close on the 2-euro wine realization as the final comedic beat. [[clip: IMG_5416 | 11.6s-24.94s]]",
+        "durationSeconds": 5,
+        "howItDiffers": "Concludes the video inside the supermarket on a cheap product punchline rather than the wardrobe mishap."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The available clip directly matches Giorgos handling and inspecting the linen pants."
+  }
+}

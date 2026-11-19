@@ -1,0 +1,47 @@
+{
+  "id": "5a1c040a-5bc8-4540-a8d7-5d2561498f09",
+  "status": "done",
+  "cardId": "af1c1bc6-b9f6-487e-90ae-f3aa010e9f5d",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "60174fed-7082-4fbe-a0bf-96cee35f7ed0",
+        "rationale": "Exact talking head clip where Jim deadpans about historic events like Balloon Boy forcing everyone to stop working."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut to Jim deadpanning about Balloon Boy and Michael Jackson's funeral.",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Intercut Jim's historic events interview with the office crowding the monitor.",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Jim explains how major news events grind Dunder Mifflin to a halt.",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Open beat with Jim's interview before showing the crowd at the desk.",
+        "durationSeconds": 6,
+        "howItDiffers": "Positions Jim's reflection as the opening setup rather than cutting into it midway."
+      },
+      {
+        "text": "L-cut Jim's voiceover over the employees rushing toward the window.",
+        "durationSeconds": 7,
+        "howItDiffers": "Uses his commentary as background audio under the physical chaos instead of on-camera talking head."
+      },
+      {
+        "text": "End beat on Jim deadpanning directly to camera as the button.",
+        "durationSeconds": 5,
+        "howItDiffers": "Saves Jim's remark as the closing punchline following the standoff passing by."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "An exact match for Jim's talking head interview about historic events is available in the library."
+  }
+}

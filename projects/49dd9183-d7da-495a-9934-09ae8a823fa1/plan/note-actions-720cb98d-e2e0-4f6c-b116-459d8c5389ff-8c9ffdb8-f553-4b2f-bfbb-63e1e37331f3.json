@@ -1,0 +1,38 @@
+{
+  "id": "8c9ffdb8-f553-4b2f-bfbb-63e1e37331f3",
+  "status": "done",
+  "cardId": "720cb98d-e2e0-4f6c-b116-459d8c5389ff",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Sync a dramatic Vine boom bass drop to the kick impact.",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Layer a comedic scream SFX right as Giorgos kicks Sotos.",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Insert a sharp record scratch to momentarily freeze the montage rhythm.",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Breaks the montage pace with an audio stop rather than just a punch SFX."
+      },
+      {
+        "text": "Use cartoon slapstick wham and boing effects on the kick.",
+        "durationSeconds": 1,
+        "howItDiffers": "Pivots from internet meme humor to classic cartoon sound design."
+      },
+      {
+        "text": "Play an exaggerated dramatic reality TV violin screech on the impact.",
+        "durationSeconds": 2,
+        "howItDiffers": "Parodies reality TV conflict drama rather than physical comedy."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The project library includes specific comedy sound effects ready to be placed on the timeline."
+  }
+}

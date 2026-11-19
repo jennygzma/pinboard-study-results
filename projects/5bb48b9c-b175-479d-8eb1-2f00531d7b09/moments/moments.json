@@ -1,0 +1,398 @@
+[
+  {
+    "id": "213e2759-49ec-4ac4-b71c-aa529e5b054c",
+    "videoName": "DJI_20260807125140_0011_D",
+    "startS": 0,
+    "endS": 8,
+    "kind": "broll",
+    "visualSummary": "Kayaker pushes off from a shallow sandy riverbank into the water",
+    "relevance": "Captures the launch and beginning of paddling on the river.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "4feb004e-dcf9-4016-9386-a502881ccd8b",
+    "videoName": "DJI_20260807131753_0016_D",
+    "startS": 3,
+    "endS": 14,
+    "kind": "broll",
+    "visualSummary": "Tilt from clear shallow water rushing by up to paddling downriver",
+    "relevance": "Provides great visual texture of clear rushing water opening up to tree-lined river scenery.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "61a22bfd-c58e-48a3-940d-6592a878ac51",
+    "videoName": "DJI_20260807150710_0027_D",
+    "startS": 11.87,
+    "endS": 14.87,
+    "kind": "interview",
+    "transcriptExcerpt": "Here we see a wild mac and jasmine paddling out.",
+    "visualSummary": "POV behind a red canoe paddling down a scenic calm river",
+    "relevance": "Adds lighthearted mock-documentary narration over paddling footage.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "bd3d64b9-c4fa-4543-970d-89c676323314",
+    "videoName": "DJI_20260807165002_0035_D",
+    "startS": 5,
+    "endS": 18,
+    "kind": "broll",
+    "visualSummary": "Close-up of a butterfly resting on a woman's hand in canoe",
+    "relevance": "A charming close-up wildlife encounter that breaks up wider river views.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "9b515af1-6d42-42dc-81fd-9f7368dd2caa",
+    "videoName": "DJI_20260807170417_0037_D",
+    "startS": 21.9,
+    "endS": 23.5,
+    "kind": "interview",
+    "transcriptExcerpt": "Bye bye butterfly!",
+    "visualSummary": "Smiling woman in sun hat saying goodbye as butterfly rests on leaf",
+    "relevance": "Captures a sweet, candid moment interacting with nature on the riverbank.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "c2c10c9b-19d7-4f91-817c-a6a5b2d09ec8",
+    "videoName": "DJI_20260807195658_0045_D",
+    "startS": 5,
+    "endS": 10,
+    "kind": "broll",
+    "visualSummary": "Close-up of steak sizzling in a pan on a portable stove",
+    "relevance": "Adds campsite cooking atmosphere to diversify from watercraft footage.",
+    "tags": [],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "362662e7-ff13-40a5-bdc3-34fe0d9e35de",
+    "videoName": "DJI_20260808073006_0050_D",
+    "startS": 0,
+    "endS": 10,
+    "kind": "broll",
+    "visualSummary": "Pan across a foggy riverbank campsite showing tent and kayak",
+    "relevance": "Atmospheric establishing shot showcasing misty morning riverside camping.",
+    "tags": [
+      "wide_shot",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "24cfcd3d-e196-4be8-9868-1b17fa17d568",
+    "videoName": "DJI_20260808074507_0053_D",
+    "startS": 0,
+    "endS": 18,
+    "kind": "broll",
+    "visualSummary": "Man wades from rocky shore into a misty morning river",
+    "relevance": "Moody morning lighting and peaceful scenery contrasting sunny daytime shots.",
+    "tags": [
+      "wide_shot",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "ef8523c4-ca93-4f13-93c9-606861340a20",
+    "videoName": "DJI_20260808112917_0066_D",
+    "startS": 0,
+    "endS": 12,
+    "kind": "broll",
+    "visualSummary": "Woman paddling kayak on scenic sunlit river",
+    "relevance": "Clean, sunny daytime kayaking shot showing smooth travel on the water.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "a6d3b268-fc26-4d2a-b260-40922d953638",
+    "videoName": "DJI_20260808125038_0073_D",
+    "startS": 12,
+    "endS": 24,
+    "kind": "broll",
+    "visualSummary": "Pan across clear turquoise spring water and an old stone building",
+    "relevance": "Introduces vivid color and a scenic destination stop along the river route.",
+    "tags": [
+      "wide_shot",
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "e2af3ce1-90cc-46c3-a556-49ebbbe3b02a",
+    "videoName": "DJI_20260808130434_0077_D",
+    "startS": 0,
+    "endS": 12,
+    "kind": "broll",
+    "visualSummary": "Person in life vest floating on back in clear shallow river",
+    "relevance": "Depicts relaxing river recreation and crystalline water clarity.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "2d88e440-8546-4a52-855e-a0ccc2e481f5",
+    "videoName": "DJI_20260808131518_0081_D",
+    "startS": 0,
+    "endS": 3.8,
+    "kind": "broll",
+    "visualSummary": "Woman playfully dunks boy into river water creating large splash",
+    "relevance": "Energetic, playful water splash bringing high energy to the montage.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "4b46eb6c-fddb-4a41-a0a7-98f083b23d74",
+    "videoName": "DJI_20260808153501_0093_D",
+    "startS": 1,
+    "endS": 8,
+    "kind": "broll",
+    "visualSummary": "Person dives forward into river with a big splash and swims",
+    "relevance": "Dynamic swimming action that adds active movement and tempo.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "81657a44-ade7-4a21-a99e-75e9579ffe50",
+    "videoName": "DJI_20260808160313_0098_D",
+    "startS": 0,
+    "endS": 14,
+    "kind": "broll",
+    "visualSummary": "First-person POV paddling fast down river with energetic shouting",
+    "relevance": "Fast-paced, action-oriented POV paddling driving montage tempo.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "df19602d-ba89-46a2-b765-ba2235eac726",
+    "videoName": "DJI_20260808171946_0108_D",
+    "startS": 6,
+    "endS": 13,
+    "kind": "broll",
+    "visualSummary": "Woman playfully splashes river water and dunks head under",
+    "relevance": "Fun, candid water play highlighting the refreshing nature of the trip.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "0e5329e4-a328-4c79-9882-fdb9372d6e7d",
+    "videoName": "DJI_20260808174516_0110_D",
+    "startS": 0,
+    "endS": 13.6,
+    "kind": "broll",
+    "visualSummary": "Pushing canoe over submerged fallen log obstacle in river",
+    "relevance": "Showcases hands-on adventure obstacles and teamwork on the water.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "22663cd5-6fb2-4cc4-b70b-6a93184d1c86",
+    "videoName": "DJI_20260809100115_0137_D",
+    "startS": 0,
+    "endS": 6,
+    "kind": "broll",
+    "visualSummary": "Canoe gliding underneath a large fallen tree log",
+    "relevance": "Quick obstacle navigation shot adding visual interest and river texture.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "be092e99-ec9c-4ac2-836a-b2b58847f58c",
+    "videoName": "DJI_20260809102052_0140_D",
+    "startS": 0,
+    "endS": 15,
+    "kind": "broll",
+    "visualSummary": "Kayaker paddling along massive tree-lined cliff face",
+    "relevance": "Dramatic scale and scenic cliffside river landscape.",
+    "tags": [
+      "wide_shot",
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:14:15.594Z"
+  },
+  {
+    "id": "0b8d10bb-1383-48e1-8d21-74acb036e9fb",
+    "videoName": "DJI_20260807123933_0010_D",
+    "startS": 5,
+    "endS": 13,
+    "kind": "interview",
+    "transcriptExcerpt": "Good protein barbs.",
+    "visualSummary": "Woman holds up a chocolate protein bar and talks about it.",
+    "relevance": "Direct match showing the sister holding and eating/talking about a protein snack bar by the river.",
+    "tags": [
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-07T02:50:14.249Z"
+  },
+  {
+    "id": "dde66d7c-c005-465c-929b-497011bea1ff",
+    "videoName": "DJI_20260808153501_0093_D",
+    "startS": 0,
+    "endS": 8,
+    "kind": "broll",
+    "visualSummary": "A person in a hoodie dives forward into the river and swims",
+    "relevance": "Features the swimmer diving forward into the river referenced in the brief.",
+    "tags": [
+      "bright_lit",
+      "sharp_focus"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T02:52:18.649Z"
+  },
+  {
+    "id": "91a8785c-4827-4f5d-ba98-22ee5bf0d899",
+    "videoName": "DJI_20260808171946_0108_D",
+    "startS": 0,
+    "endS": 13,
+    "kind": "broll",
+    "visualSummary": "A woman splashes playfully in the river before dunking her head underwater",
+    "relevance": "Provides the river water dunk moment to be repositioned onto a separate beat.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T02:52:18.649Z"
+  },
+  {
+    "id": "12ba4d6b-46e5-48b4-84e1-9442742317a0",
+    "videoName": "DJI_20260808131518_0081_D",
+    "startS": 0,
+    "endS": 3,
+    "kind": "broll",
+    "visualSummary": "A woman carrying a boy lunges forward into the river for a dunk",
+    "relevance": "Alternative water dunk action shot that can be used on a distinct beat.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "search",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T02:52:18.649Z"
+  }
+]

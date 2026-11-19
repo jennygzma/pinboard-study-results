@@ -1,0 +1,19 @@
+{
+  "id": "bbcab226-08e7-4592-b6ef-0796666f5e68",
+  "status": "done",
+  "query": "tie shoe",
+  "result": [
+    {
+      "momentId": "6475abe7-798a-403d-9933-51ea14036cc9",
+      "rationale": "Shows a man tying his running shoe while sitting on a bench."
+    },
+    {
+      "momentId": "ab06fc9c-21c3-4cf0-9c8c-62a3b7c85715",
+      "rationale": "Depicts a runner tying their shoe on a park bench."
+    },
+    {
+      "momentId": "22d0e5f8-fee0-4f39-8a11-aed165840c98",
+      "rationale": "Features a man bending down to tie his running shoe."
+    }
+  ]
+}

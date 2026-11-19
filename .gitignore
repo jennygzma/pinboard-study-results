@@ -1,0 +1,2 @@
+# Ignore MP4 videos in every directory, regardless of extension case.
+*.[mM][pP]4

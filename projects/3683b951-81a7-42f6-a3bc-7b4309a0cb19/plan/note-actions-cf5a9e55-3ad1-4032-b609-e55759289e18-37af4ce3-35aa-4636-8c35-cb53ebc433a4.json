@@ -1,0 +1,55 @@
+{
+  "id": "37af4ce3-35aa-4636-8c35-cb53ebc433a4",
+  "status": "done",
+  "cardId": "cf5a9e55-3ad1-4032-b609-e55759289e18",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "ccecc3c1-a67c-4ae7-af29-faa2ffd55a8b",
+        "rationale": "Provides a sharp, punchy Vine boom sound effect right on the frame Michael spots the police car."
+      },
+      {
+        "momentId": "40758abf-f3bc-4d71-aa98-e2df60da19a7",
+        "rationale": "Supplies a lighthearted, goofy comedic sound cue to punctuate Michael's reaction at the window."
+      },
+      {
+        "momentId": "6612b35e-72f4-4d1c-9218-a840e8018851",
+        "rationale": "Short Moai sound effect that delivers a deadpan, funny audio sting as the car speeds past."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Drop a Vine boom hit right as Michael spots the speeding cop car",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Insert a quick goofy sound effect when the police car passes the window",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Add a dramatic reality-TV violin sting when Michael points outside",
+        "durationSeconds": 2
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Play an exaggerated alarm siren sting as the police car races past",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Uses a stylized high-energy siren cue rather than a meme reaction sound."
+      },
+      {
+        "text": "Cut audio to abrupt dead silence as Michael stares out the window",
+        "durationSeconds": 2,
+        "howItDiffers": "Replaces the sound effect with a sudden comedic mute for awkward deadpan contrast."
+      },
+      {
+        "text": "Layer a cartoonish tire screech under the police car passing by",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Leans into physical slapstick foley rather than an overt reaction punchline."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The media library already contains several distinct comedic sound effects that directly satisfy this note."
+  }
+}

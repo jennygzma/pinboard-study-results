@@ -1,0 +1,42 @@
+{
+  "id": "db38e186-be45-4c9a-90bf-6ad2ce5f9383",
+  "status": "done",
+  "cardId": "5b739809-1166-4c46-a1b8-80d0429834a4",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Directly captures grabbing pre-mixed bottled gin and tonics off the shelf with excited dialogue."
+      },
+      {
+        "momentId": "4fdb1517-9111-460a-82ce-e192604293ac",
+        "rationale": "Shows selecting and insisting on adding wildberry flavored pink gin bottles into the cart."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Snatch pre-mixed gin & tonic bottles excitedly off shelf",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Quick cut dropping wildberry pink gin bottles into basket",
+        "durationSeconds": 1.8
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Quick cut grab of cheap two-euro wine bottle",
+        "durationSeconds": 2,
+        "howItDiffers": "Focuses on the cheap wine discovery rather than pre-mixed gin."
+      },
+      {
+        "text": "Rapid burst cut tossing both wine and gin into cart",
+        "durationSeconds": 3,
+        "howItDiffers": "Combines multiple alcohol grabs into a rhythmic micro-sequence."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Exact footage matching the selection and grabbing of pre-mixed gin bottles is available in the library."
+  }
+}

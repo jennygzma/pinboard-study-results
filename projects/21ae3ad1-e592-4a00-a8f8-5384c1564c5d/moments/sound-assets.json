@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a55c00c5-a814-41bb-8ea9-f5294ceaa127",
+    "assetFile": "projects/prj-max/cheerful_ragtime.wav",
+    "name": "cheerful_ragtime",
+    "durationS": 136.4,
+    "description": "This is a high-energy, fast-paced swing jazz track with a playful and zany mood. A prominent, honking baritone saxophone leads the ensemble, creating a confident and comedic character. The driving rhythm makes it ideal for a lively montage, a quirky chase scene, or an upbeat, retro-styled sequence.",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:18:51.010Z"
+  },
+  {
+    "id": "559d956a-2ff6-48b7-9e81-df5e7b7e45a5",
+    "assetFile": "projects/prj-max/funny_meme_sound_effects.mp3",
+    "name": "funny_meme_sound_effects",
+    "durationS": 60,
+    "description": "This is a sound effect compilation, not a music track. It features a rapid-fire sequence of popular and recognizable internet meme sounds, including explosions, voice clips, and cartoon noises. The overall mood is chaotic, comedic, and high-energy, perfect for funny edits, punchlines, or short-form content.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:18:51.010Z"
+  },
+  {
+    "id": "92987a39-cc0e-46fb-8532-e91592fa78e8",
+    "assetFile": "projects/prj-max/playful_childrens_music.wav",
+    "name": "playful_childrens_music",
+    "durationS": 140,
+    "description": "This is a happy and playful children's music track with a cheerful, lighthearted energy. Its fast, bouncy tempo is driven by a synthesized accordion melody, a simple drum machine beat, and cute, sparkly synth accents. The overall mood is innocent and fun, perfect for content aimed at kids or light, comedic scenes.",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:18:51.010Z"
+  },
+  {
+    "id": "ddb922ab-b7e8-4321-ab2b-542744c5d24f",
+    "assetFile": "projects/prj-max/playful_circus_loop.wav",
+    "name": "playful_circus_loop",
+    "durationS": 19.2,
+    "description": "This is a fast-tempo swing jazz track with a playful, mischievous, and energetic mood. It features a classic big band sound with a walking bass, piano, and a lively saxophone melody, creating a fun, almost cartoonish atmosphere. The driving rhythm makes it suitable for comedic scenes, lighthearted capers, or vintage-style animations.",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:18:51.010Z"
+  },
+  {
+    "id": "970e8f51-ee90-4b51-8ed3-ed1248ca7f60",
+    "assetFile": "projects/prj-max/quirky_robot_dubstep_loop.wav",
+    "name": "quirky_robot_dubstep_loop",
+    "durationS": 18.8,
+    "description": "This is a high-energy, aggressive breakbeat track with a fast, driving tempo. The mood is intense and action-packed, featuring a heavy distorted synth bass, powerful electronic drums, and prominent record scratch sound effects. Its gritty, electronic texture is ideal for sports, gaming, or high-octane scenes.",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:18:51.010Z"
+  }
+]

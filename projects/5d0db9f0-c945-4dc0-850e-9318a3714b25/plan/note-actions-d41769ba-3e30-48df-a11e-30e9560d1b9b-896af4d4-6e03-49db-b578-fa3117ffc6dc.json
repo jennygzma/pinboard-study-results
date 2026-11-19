@@ -1,0 +1,47 @@
+{
+  "id": "896af4d4-6e03-49db-b578-fa3117ffc6dc",
+  "status": "done",
+  "cardId": "d41769ba-3e30-48df-a11e-30e9560d1b9b",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "1e77cc2e-ab11-4c63-8b2c-64edb8457964",
+        "rationale": "Shows Viviana walking away down the sunny street outside the studio to close the film."
+      },
+      {
+        "momentId": "2448856a-8525-47f9-8173-ee1dcc4a52f3",
+        "rationale": "User-tagged clip capturing Viviana leaving the studio space."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut to exterior shot of Viviana walking down the sunny sidewalk",
+        "durationSeconds": 3.5
+      },
+      {
+        "text": "Viviana steps out of the studio and walks away down the street",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "End on a detailed close-up of finished ceramic pieces on the shelf",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on the completed artwork rather than Viviana physically leaving."
+      },
+      {
+        "text": "Return to the slow-smiling portrait of Viviana before fading to black",
+        "durationSeconds": 4,
+        "howItDiffers": "Bookends the film with a warm personal portrait rather than an exterior exit."
+      },
+      {
+        "text": "Show Viviana packing up tools and tidying her studio workspace",
+        "durationSeconds": 3.5,
+        "howItDiffers": "Shows an interior wrap-up routine instead of walking down the street outside."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Direct footage of Viviana leaving and walking away from the studio is available in the library."
+  }
+}

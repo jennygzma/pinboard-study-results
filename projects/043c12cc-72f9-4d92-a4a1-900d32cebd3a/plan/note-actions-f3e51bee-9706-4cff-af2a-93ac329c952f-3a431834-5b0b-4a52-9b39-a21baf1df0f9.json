@@ -1,0 +1,58 @@
+{
+  "id": "3a431834-5b0b-4a52-9b39-a21baf1df0f9",
+  "status": "done",
+  "cardId": "f3e51bee-9706-4cff-af2a-93ac329c952f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "9b4414dc-9636-4770-bfe0-f5ab1e7482d9",
+        "rationale": "Displays signature pastel ceramic mugs and dishware on retail shelving, establishing the brand's colorful palette."
+      },
+      {
+        "momentId": "c64fa184-8144-4f2d-9e38-6677ab5068aa",
+        "rationale": "Shows playful sundae figurines on display shelves, capturing the whimsical Mud Witch aesthetic."
+      },
+      {
+        "momentId": "31467d99-9e7b-40b1-ae22-616f217f8e2e",
+        "rationale": "Features the branded Mud Witch sign beside colorful finished pottery on display."
+      },
+      {
+        "momentId": "7f2df7de-999e-4388-bd9b-6c5971bc0799",
+        "rationale": "Showcases an assortment of colorful finished ceramics arranged on a bright display table."
+      },
+      {
+        "momentId": "9f5c0107-115d-4b82-b609-2089bc795709",
+        "rationale": "Provides a sunlit shot of finished small pots and ceramic animal figurines."
+      },
+      {
+        "momentId": "244776a9-0b41-4ad3-b41b-1065775efa0f",
+        "rationale": "Highlights vibrant finished ceramic plates and quirky styling on display shelves."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Quick cuts of pastel ceramic mugs, tableware, and sundae figurines on shelves.",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Showcase colorful finished pots alongside the Mud Witch display sign.",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Sunlit windowsill close-ups of finished quirky pots and figurines.",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on warm, natural lighting and small intimate details rather than a broad shelf display."
+      },
+      {
+        "text": "Display table reveal of colorful finished pieces paired with uptempo music.",
+        "durationSeconds": 4,
+        "howItDiffers": "Presents the collection as a curated retail showcase driven by musical pacing."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "There are multiple strong B-roll clips of finished pastel ceramics, figurines, and branded display shelves perfectly suited for this intro montage."
+  }
+}

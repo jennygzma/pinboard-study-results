@@ -1,0 +1,38 @@
+{
+  "id": "78b002be-e113-43ad-8a7d-d4fd367cf523",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "60174fed-7082-4fbe-a0bf-96cee35f7ed0",
+        "rationale": "Exact match from this scene where Jim reflects on stopping everything to watch historic televised spectacles like Balloon Boy."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Jim talking head: stopping everything to watch historic events like Balloon Boy",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Cut to Jim deadpan interview comparing the car chase to major broadcasts",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim talking head on how the office runs completely unsupervised",
+        "durationSeconds": 7,
+        "howItDiffers": "Frames the distraction as comedic proof that the staff needs no supervision to abandon work."
+      },
+      {
+        "text": "Stay entirely on ensemble reactions around the desk without an interview",
+        "durationSeconds": 7,
+        "howItDiffers": "Maintains continuous group energy instead of pausing the action for a solo talking head."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Moment 60174fed-7082-4fbe-a0bf-96cee35f7ed0 is the exact Jim talking head interview recorded for this Scranton Strangler sequence."
+  }
+}

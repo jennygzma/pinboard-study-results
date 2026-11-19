@@ -1,0 +1,39 @@
+{
+  "Lqxn877": {
+    "actor": "ai",
+    "outcome": "corrected"
+  },
+  "L-5kqj9r": {
+    "actor": "user",
+    "outcome": "adjusted"
+  },
+  "Lrobpo1": {
+    "actor": "user",
+    "outcome": "corrected"
+  },
+  "Lbvfyki": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "L-alpw47": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "L-vlxpkc": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "Ldoe8ww": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "Lagkjdn": {
+    "actor": "ai",
+    "outcome": "adjusted"
+  },
+  "L61cgra": {
+    "excluded": true,
+    "actor": "ai",
+    "outcome": "adjusted"
+  }
+}

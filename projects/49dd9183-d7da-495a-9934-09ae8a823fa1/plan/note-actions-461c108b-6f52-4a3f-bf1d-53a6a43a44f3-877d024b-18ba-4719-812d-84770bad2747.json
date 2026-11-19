@@ -1,0 +1,51 @@
+{
+  "id": "877d024b-18ba-4719-812d-84770bad2747",
+  "status": "done",
+  "cardId": "461c108b-6f52-4a3f-bf1d-53a6a43a44f3",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "a40c6e14-f0ae-402e-ba4d-e46b4f032f80",
+        "rationale": "Shows the action of grabbing cookies off the shelf to toss into the cart."
+      },
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Captures the energetic action of taking pre-mixed drinks to drop into the basket."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rapid close-ups of snacks and cookie packs dropping into the basket.",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Quick cut dropping canned gin and wine bottles into the cart.",
+        "durationSeconds": 2.5
+      },
+      {
+        "text": "Fast sequence of chaotic grocery items piling up inside the basket.",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "POV basket shot showing items landing rapidly from above.",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Switches to an internal basket POV angle rather than a wide shopping view."
+      },
+      {
+        "text": "Rhythmic hand snaps tossing random shelf items to the musical beat.",
+        "durationSeconds": 2,
+        "howItDiffers": "Focuses strictly on fast beat-synced hand movement rather than full-body grabbing."
+      },
+      {
+        "text": "Comedic cut showing the basket instantly overflowing with impulse snacks.",
+        "durationSeconds": 3,
+        "howItDiffers": "Emphasizes the comedic result of the frenzy rather than the grabbing motion."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note contains typos and describes a general action already partially populated on the timeline, needing clarification on the specific visual role in the montage."
+  }
+}

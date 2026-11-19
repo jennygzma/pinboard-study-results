@@ -1,0 +1,55 @@
+{
+  "id": "14f41aa0-fa91-49b0-84fd-4ef1f14caf97",
+  "status": "done",
+  "cardId": "04d5a74e-f815-4786-8109-18494409b155",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "5baee205-bed4-455e-bb09-ebd56a9a05b6",
+        "rationale": "Shows Viviana with a lighthearted expression and laugh in her studio, offering the exact candid smile needed to slow down."
+      },
+      {
+        "momentId": "4035d7cf-35e9-4090-85cf-cdc5266efad4",
+        "rationale": "Captures Viviana's lighthearted reaction looking directly forward, framing her face clearly for a sustained slow-motion fade."
+      },
+      {
+        "momentId": "b94cbbd9-ab93-4f30-9b02-15c8749095f3",
+        "rationale": "Focuses directly on Viviana's portrait rather than studio objects, ideal for catching a natural smile into the final dissolve."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Slow-motion portrait of Viviana smiling, fading out into final title card",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Over outro VO, ramp Viviana's candid studio smile to 50% speed",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Medium B-roll portrait of Viviana laughing, holding on smile to fade",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Stay on-camera on Viviana's A-roll delivery as she finishes and smiles",
+        "durationSeconds": 6,
+        "howItDiffers": "Keeps the final beat directly on the interview delivery rather than cutting away to separate B-roll."
+      },
+      {
+        "text": "Slow-motion shot of Viviana working at the wheel, looking up smiling",
+        "durationSeconds": 5,
+        "howItDiffers": "Shows her actively creating in her element before smiling, balancing process with portraiture."
+      },
+      {
+        "text": "B-roll of Viviana proudly admiring a finished mug, smiling softly",
+        "durationSeconds": 4,
+        "howItDiffers": "Brings the pottery back into frame so the closing smile is tied directly to her handmade work."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The editorial intent and technical effect are clearly defined; attaching specific portrait B-roll moments of Viviana smiling is the direct next step."
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "exportedAt": "2026-10-08T22:00:43.945Z",
+  "generatedAt": "2026-10-14T17:52:55.716Z",
+  "projectCount": 26,
+  "averages": {
+    "aiCreated": 30,
+    "userCreated": 49,
+    "userModifiedAmongUserCreated": 77.1,
+    "aiModifiedAmongAiCreated": 81.5,
+    "userAdjustedAmongUserCreated": 43.7,
+    "userCorrectedAmongUserCreated": 33.4,
+    "aiAdjustedAmongAiCreated": 45.5,
+    "aiCorrectedAmongAiCreated": 36,
+    "deleted": 1.5
+  },
+  "comparison": {
+    "textPlan": {
+      "projectCount": 13,
+      "averages": {
+        "aiCreated": 30.4,
+        "userCreated": 34.6,
+        "userModifiedAmongUserCreated": 80.2,
+        "aiModifiedAmongAiCreated": 85.7,
+        "userAdjustedAmongUserCreated": 33.3,
+        "userCorrectedAmongUserCreated": 46.8,
+        "aiAdjustedAmongAiCreated": 31.3,
+        "aiCorrectedAmongAiCreated": 54.4,
+        "deleted": 0
+      }
+    },
+    "grid": {
+      "projectCount": 13,
+      "averages": {
+        "aiCreated": 29.6,
+        "userCreated": 62.3,
+        "userModifiedAmongUserCreated": 74.7,
+        "aiModifiedAmongAiCreated": 78.2,
+        "userAdjustedAmongUserCreated": 51.4,
+        "userCorrectedAmongUserCreated": 23.3,
+        "aiAdjustedAmongAiCreated": 56.6,
+        "aiCorrectedAmongAiCreated": 21.7,
+        "deleted": 2.9
+      }
+    }
+  },
+  "projects": [
+    {
+      "projectId": "7bcbb2e6-7baa-41fe-a655-cc365a47e311",
+      "projectName": "ryan task 1 4.6 sonnet",
+      "mode": "text-plan",
+      "totals": {
+        "total": 0,
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModified": 0,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "5af28ebc-de72-4cce-9657-a721c0e8610f",
+      "projectName": "annie task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 6,
+        "aiCreated": 1,
+        "userCreated": 2,
+        "userModified": 1,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 1,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 16.7,
+        "userCreated": 33.3,
+        "userModifiedAmongUserCreated": 50,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 50,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "9252e24f-4981-47a9-9ab8-796133921505",
+      "projectName": "annie task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 14,
+        "aiCreated": 7,
+        "userCreated": 7,
+        "userModified": 1,
+        "aiModified": 0,
+        "userAdjusted": 1,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 50,
+        "userCreated": 50,
+        "userModifiedAmongUserCreated": 14.3,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 14.3,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "d452dc36-728c-44c9-889e-be345724737f",
+      "projectName": "jp task 1",
+      "mode": "grid",
+      "totals": {
+        "total": 20,
+        "aiCreated": 1,
+        "userCreated": 18,
+        "userModified": 16,
+        "aiModified": 1,
+        "userAdjusted": 13,
+        "userCorrected": 3,
+        "aiAdjusted": 0,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 5,
+        "userCreated": 90,
+        "userModifiedAmongUserCreated": 88.9,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 72.2,
+        "userCorrectedAmongUserCreated": 16.7,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 100,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "a10ef027-5678-4418-9b5e-922dbf465566",
+      "projectName": "jp task 2",
+      "mode": "text-plan",
+      "totals": {
+        "total": 5,
+        "aiCreated": 3,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 3,
+        "userAdjusted": 0,
+        "userCorrected": 2,
+        "aiAdjusted": 0,
+        "aiCorrected": 3,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 60,
+        "userCreated": 40,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 100,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 100,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "5ac682d8-0f52-4e11-93df-87181ed81367",
+      "projectName": "dimitris task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 5,
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModified": 0,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "3683b951-81a7-42f6-a3bc-7b4309a0cb19",
+      "projectName": "dimitris task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 6,
+        "aiCreated": 2,
+        "userCreated": 4,
+        "userModified": 3,
+        "aiModified": 2,
+        "userAdjusted": 1,
+        "userCorrected": 2,
+        "aiAdjusted": 2,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 33.3,
+        "userCreated": 66.7,
+        "userModifiedAmongUserCreated": 75,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 25,
+        "userCorrectedAmongUserCreated": 50,
+        "aiAdjustedAmongAiCreated": 100,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "473ce596-f6a0-47d0-97d1-4285e336ec92",
+      "projectName": "saehui task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 2,
+        "aiCreated": 0,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 2,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 100,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 100,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "f1a5a5fc-a5e3-4356-8d46-c2d252b05031",
+      "projectName": "saehui task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 10,
+        "aiCreated": 0,
+        "userCreated": 10,
+        "userModified": 7,
+        "aiModified": 0,
+        "userAdjusted": 6,
+        "userCorrected": 1,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 100,
+        "userModifiedAmongUserCreated": 70,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 60,
+        "userCorrectedAmongUserCreated": 10,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "ff1f07ac-4667-4643-bc90-44094c153382",
+      "projectName": "xiyuan task 1",
+      "mode": "grid",
+      "totals": {
+        "total": 10,
+        "aiCreated": 6,
+        "userCreated": 4,
+        "userModified": 4,
+        "aiModified": 6,
+        "userAdjusted": 1,
+        "userCorrected": 3,
+        "aiAdjusted": 5,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 60,
+        "userCreated": 40,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 25,
+        "userCorrectedAmongUserCreated": 75,
+        "aiAdjustedAmongAiCreated": 83.3,
+        "aiCorrectedAmongAiCreated": 16.7,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "c43189b0-7777-4f48-9f76-d1c148efdb81",
+      "projectName": "chloe task 1",
+      "mode": "grid",
+      "totals": {
+        "total": 6,
+        "aiCreated": 0,
+        "userCreated": 6,
+        "userModified": 4,
+        "aiModified": 0,
+        "userAdjusted": 4,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 2
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 100,
+        "userModifiedAmongUserCreated": 66.7,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 66.7,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 33.3
+      }
+    },
+    {
+      "projectId": "35acc30c-d730-48eb-9442-b93fa5fffc22",
+      "projectName": "chloe task 2",
+      "mode": "text-plan",
+      "totals": {
+        "total": 2,
+        "aiCreated": 0,
+        "userCreated": 1,
+        "userModified": 0,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 50,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "9038dad7-0e28-4e4a-84a5-e658ac935f29",
+      "projectName": "sharon task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 5,
+        "aiCreated": 3,
+        "userCreated": 0,
+        "userModified": 0,
+        "aiModified": 3,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 1,
+        "aiCorrected": 2,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 60,
+        "userCreated": 0,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 33.3,
+        "aiCorrectedAmongAiCreated": 66.7,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "043c12cc-72f9-4d92-a4a1-900d32cebd3a",
+      "projectName": "sharon task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 8,
+        "aiCreated": 5,
+        "userCreated": 3,
+        "userModified": 3,
+        "aiModified": 3,
+        "userAdjusted": 2,
+        "userCorrected": 1,
+        "aiAdjusted": 2,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 62.5,
+        "userCreated": 37.5,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 60,
+        "userAdjustedAmongUserCreated": 66.7,
+        "userCorrectedAmongUserCreated": 33.3,
+        "aiAdjustedAmongAiCreated": 40,
+        "aiCorrectedAmongAiCreated": 20,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "5d0db9f0-c945-4dc0-850e-9318a3714b25",
+      "projectName": "evita task 1",
+      "mode": "grid",
+      "totals": {
+        "total": 8,
+        "aiCreated": 0,
+        "userCreated": 8,
+        "userModified": 6,
+        "aiModified": 0,
+        "userAdjusted": 6,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 100,
+        "userModifiedAmongUserCreated": 75,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 75,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "5c105fc0-87f9-46ce-bc67-8d95c926d0f8",
+      "projectName": "evita task 2",
+      "mode": "text-plan",
+      "totals": {
+        "total": 4,
+        "aiCreated": 1,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 1,
+        "userAdjusted": 2,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 25,
+        "userCreated": 50,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 100,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 100,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "3083d4b7-cc78-49fa-bdfc-67e92a0ebf41",
+      "projectName": "xiyuan task 2",
+      "mode": "text-plan",
+      "totals": {
+        "total": 1,
+        "aiCreated": 1,
+        "userCreated": 0,
+        "userModified": 0,
+        "aiModified": 1,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 100,
+        "userCreated": 0,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 100,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "f78f6dc6-9e22-41c4-a90a-608d636653e9",
+      "projectName": "alex task 2",
+      "mode": "text-plan",
+      "totals": {
+        "total": 12,
+        "aiCreated": 3,
+        "userCreated": 7,
+        "userModified": 5,
+        "aiModified": 3,
+        "userAdjusted": 0,
+        "userCorrected": 5,
+        "aiAdjusted": 3,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 25,
+        "userCreated": 58.3,
+        "userModifiedAmongUserCreated": 71.4,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 71.4,
+        "aiAdjustedAmongAiCreated": 100,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "49dd9183-d7da-495a-9934-09ae8a823fa1",
+      "projectName": "alex task 1",
+      "mode": "grid",
+      "totals": {
+        "total": 25,
+        "aiCreated": 4,
+        "userCreated": 21,
+        "userModified": 16,
+        "aiModified": 3,
+        "userAdjusted": 9,
+        "userCorrected": 7,
+        "aiAdjusted": 1,
+        "aiCorrected": 2,
+        "deleted": 1
+      },
+      "percentages": {
+        "aiCreated": 16,
+        "userCreated": 84,
+        "userModifiedAmongUserCreated": 76.2,
+        "aiModifiedAmongAiCreated": 75,
+        "userAdjustedAmongUserCreated": 42.9,
+        "userCorrectedAmongUserCreated": 33.3,
+        "aiAdjustedAmongAiCreated": 25,
+        "aiCorrectedAmongAiCreated": 50,
+        "deleted": 4
+      }
+    },
+    {
+      "projectId": "5bb48b9c-b175-479d-8eb1-2f00531d7b09",
+      "projectName": "max task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 3,
+        "aiCreated": 0,
+        "userCreated": 1,
+        "userModified": 1,
+        "aiModified": 0,
+        "userAdjusted": 1,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 33.3,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 100,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "21ae3ad1-e592-4a00-a8f8-5384c1564c5d",
+      "projectName": "max task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 9,
+        "aiCreated": 7,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 6,
+        "userAdjusted": 1,
+        "userCorrected": 1,
+        "aiAdjusted": 6,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 77.8,
+        "userCreated": 22.2,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 85.7,
+        "userAdjustedAmongUserCreated": 50,
+        "userCorrectedAmongUserCreated": 50,
+        "aiAdjustedAmongAiCreated": 85.7,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "9d98e3bd-6b74-4ac8-9cbe-a02880632c94",
+      "projectName": "brian task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 16,
+        "aiCreated": 12,
+        "userCreated": 4,
+        "userModified": 3,
+        "aiModified": 10,
+        "userAdjusted": 3,
+        "userCorrected": 0,
+        "aiAdjusted": 9,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 75,
+        "userCreated": 25,
+        "userModifiedAmongUserCreated": 75,
+        "aiModifiedAmongAiCreated": 83.3,
+        "userAdjustedAmongUserCreated": 75,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 75,
+        "aiCorrectedAmongAiCreated": 8.3,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "bf449713-e0f6-4795-98c2-9b3969e94666",
+      "projectName": "brain task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 9,
+        "aiCreated": 7,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 7,
+        "userAdjusted": 1,
+        "userCorrected": 1,
+        "aiAdjusted": 6,
+        "aiCorrected": 1,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 77.8,
+        "userCreated": 22.2,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 50,
+        "userCorrectedAmongUserCreated": 50,
+        "aiAdjustedAmongAiCreated": 85.7,
+        "aiCorrectedAmongAiCreated": 14.3,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "6c091136-d0ab-41aa-bb47-3a85b523a27f",
+      "projectName": "jonah task 2",
+      "mode": "grid",
+      "totals": {
+        "total": 19,
+        "aiCreated": 1,
+        "userCreated": 18,
+        "userModified": 10,
+        "aiModified": 1,
+        "userAdjusted": 8,
+        "userCorrected": 2,
+        "aiAdjusted": 1,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 5.3,
+        "userCreated": 94.7,
+        "userModifiedAmongUserCreated": 55.6,
+        "aiModifiedAmongAiCreated": 100,
+        "userAdjustedAmongUserCreated": 44.4,
+        "userCorrectedAmongUserCreated": 11.1,
+        "aiAdjustedAmongAiCreated": 100,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "b98f1985-22e2-400c-b0ec-2607ac1ca066",
+      "projectName": "jonah task 1",
+      "mode": "text-plan",
+      "totals": {
+        "total": 7,
+        "aiCreated": 0,
+        "userCreated": 2,
+        "userModified": 2,
+        "aiModified": 0,
+        "userAdjusted": 1,
+        "userCorrected": 1,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 28.6,
+        "userModifiedAmongUserCreated": 100,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 50,
+        "userCorrectedAmongUserCreated": 50,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    },
+    {
+      "projectId": "317e6e3c-241f-423c-ac8c-ffcb9232ac70",
+      "projectName": "ryan task 2 4.6 sonnet",
+      "mode": "grid",
+      "totals": {
+        "total": 1,
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModified": 0,
+        "aiModified": 0,
+        "userAdjusted": 0,
+        "userCorrected": 0,
+        "aiAdjusted": 0,
+        "aiCorrected": 0,
+        "deleted": 0
+      },
+      "percentages": {
+        "aiCreated": 0,
+        "userCreated": 0,
+        "userModifiedAmongUserCreated": 0,
+        "aiModifiedAmongAiCreated": 0,
+        "userAdjustedAmongUserCreated": 0,
+        "userCorrectedAmongUserCreated": 0,
+        "aiAdjustedAmongAiCreated": 0,
+        "aiCorrectedAmongAiCreated": 0,
+        "deleted": 0
+      }
+    }
+  ]
+}

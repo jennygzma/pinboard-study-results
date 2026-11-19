@@ -1,0 +1,82 @@
+{
+  "id": "fae55681-2257-4ab6-ad01-474b73e9b88f",
+  "projectId": "6c091136-d0ab-41aa-bb47-3a85b523a27f",
+  "footageProjectName": "mudwitch-documentary",
+  "runId": "mudwitch-documentary_2026-10-08T02-48-30-693Z",
+  "status": "error",
+  "phase": "error",
+  "messages": [
+    {
+      "turn": 9,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Skill: /roughcut",
+      "timestamp": "2026-10-08T02:50:02.682Z"
+    },
+    {
+      "turn": 49,
+      "type": "text",
+      "phase": "editing",
+      "summary": "I'll start by checking the project's existing state, then build the timeline directly from the detailed brief.",
+      "timestamp": "2026-10-08T02:50:06.437Z"
+    },
+    {
+      "turn": 50,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: ls /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/",
+      "timestamp": "2026-10-08T02:50:07.140Z"
+    },
+    {
+      "turn": 52,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: ls /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/roughcuts/mudwi…",
+      "timestamp": "2026-10-08T02:50:08.112Z"
+    },
+    {
+      "turn": 54,
+      "type": "text",
+      "phase": "editing",
+      "summary": "Good — project is already ingested and the run folder exists. Let me read the manifest and check available files.",
+      "timestamp": "2026-10-08T02:50:10.086Z"
+    },
+    {
+      "turn": 55,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: cat /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/_manifest.json…",
+      "timestamp": "2026-10-08T02:50:11.050Z"
+    },
+    {
+      "turn": 57,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: ls /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/sound/",
+      "timestamp": "2026-10-08T02:50:11.377Z"
+    },
+    {
+      "turn": 59,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: cat /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/_manifest.json…",
+      "timestamp": "2026-10-08T02:50:13.573Z"
+    },
+    {
+      "turn": 61,
+      "type": "tool_use",
+      "phase": "editing",
+      "summary": "Bash: cat /Users/jennym/projects/nami/coconut-agent/projects/mudwitch-documentary/_manifest.json…",
+      "timestamp": "2026-10-08T02:50:17.026Z"
+    },
+    {
+      "turn": 544,
+      "type": "text",
+      "phase": "editing",
+      "summary": "Request timed out",
+      "timestamp": "2026-10-08T07:49:36.448Z"
+    }
+  ],
+  "createdAt": "2026-10-08T02:48:30.694Z",
+  "error": "coconut-agent process exited with code 1 and produced no usable render/timeline"
+}

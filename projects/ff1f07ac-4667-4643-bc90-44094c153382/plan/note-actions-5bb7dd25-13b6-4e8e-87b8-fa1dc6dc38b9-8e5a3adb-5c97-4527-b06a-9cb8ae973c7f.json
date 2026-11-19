@@ -1,0 +1,63 @@
+{
+  "id": "8e5a3adb-5c97-4527-b06a-9cb8ae973c7f",
+  "status": "done",
+  "cardId": "5bb7dd25-13b6-4e8e-87b8-fa1dc6dc38b9",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "80caf274-533b-48f6-8bc4-e7939de4ec18",
+        "rationale": "Shows Viviana playfully decorating ceramic dishware using a piping bag."
+      },
+      {
+        "momentId": "81d766be-aea0-43e8-81a4-e548c412b286",
+        "rationale": "Captures fine glaze application on a signature whimsical hand-shaped ceramic dish."
+      },
+      {
+        "momentId": "5112aa3b-dce0-41ba-87ef-b2c83ff4d9db",
+        "rationale": "Provides a playful, candid studio outtake of Viviana laughing about an indelicate piece dismount."
+      },
+      {
+        "momentId": "00350e1f-509b-4b2d-8f97-06b9d6752c28",
+        "rationale": "Captures a spontaneous, humorous interaction joking with the crew about the splash zone."
+      },
+      {
+        "momentId": "8bd258cb-1115-4196-b908-ca5a34bb705c",
+        "rationale": "Clear, direct footage of Viviana actively brushing glaze onto a ceramic piece in the studio."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Montage of Viviana piping glaze onto novelty hand-shaped ceramic dishes",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Cut between detail glaze brushing and playful banter about messy dismounts",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Close-up shots of brushing vibrant glaze onto ceramic bowl rims",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Quick-cut montage of humorous studio outtakes and pottery wheel banter",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes spontaneous studio humor and personality over technical glazing steps."
+      },
+      {
+        "text": "Tight macro detail of decorative glaze piping on colorful pottery",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses strictly on tactile craft and detailed surface design rather than candid moments."
+      },
+      {
+        "text": "Viviana laughing candidly while acknowledging the messy stress of glazing",
+        "durationSeconds": 5,
+        "howItDiffers": "Pairs the physical glazing process directly with authentic, self-deprecating interview banter."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The library contains strong, direct matches for both playful studio banter and hands-on ceramic glazing."
+  }
+}

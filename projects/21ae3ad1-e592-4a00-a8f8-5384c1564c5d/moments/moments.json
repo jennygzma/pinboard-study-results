@@ -1,0 +1,266 @@
+[
+  {
+    "id": "fb107d59-c559-4570-b40c-8358426ed07a",
+    "videoName": "01",
+    "startS": 0.3,
+    "endS": 2.44,
+    "kind": "interview",
+    "transcriptExcerpt": "And we're off. Let's go.",
+    "visualSummary": "First-person view starting a bike ride down an alley.",
+    "relevance": "Provides a natural, energetic opening line to kick off the journey narrative.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "25eb8970-1ad6-4bd7-b64a-ad6b2414114d",
+    "videoName": "01",
+    "startS": 13,
+    "endS": 40.8,
+    "kind": "broll",
+    "visualSummary": "Cyclist navigates residential streets and a roundabout past a park.",
+    "relevance": "Establishes the early neighborhood biking phase before heading toward transit.",
+    "tags": [
+      "sustained_shot_10s",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "a0e1d86b-0cbe-4c3e-bb04-f12a718fad3e",
+    "videoName": "02",
+    "startS": 0,
+    "endS": 23,
+    "kind": "broll",
+    "visualSummary": "Cyclist walks bike through a crowded train station concourse.",
+    "relevance": "Captures the transit transition connecting urban biking to the commuter rail.",
+    "tags": [
+      "wide_shot",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "66cc74c3-4fe0-419c-bdaf-235ef2d2c714",
+    "videoName": "02",
+    "startS": 122,
+    "endS": 169,
+    "kind": "broll",
+    "visualSummary": "Walking along platform and boarding train with bicycles.",
+    "relevance": "Shows the logistical step of loading bikes onto the train for the excursion.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "09564ebe-a9f3-4533-a76b-e5c6a87644be",
+    "videoName": "03",
+    "startS": 0.02,
+    "endS": 5.68,
+    "kind": "interview",
+    "transcriptExcerpt": "We are on the train. Next stop, Newbury Port. See you there.",
+    "visualSummary": "Couple on the train announces their destination.",
+    "relevance": "Explicitly sets up the destination and story arc on the train ride.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "3b18d28d-0da6-436e-89fc-4e11cab2721c",
+    "videoName": "04",
+    "startS": 0,
+    "endS": 46,
+    "kind": "broll",
+    "visualSummary": "Cyclist starts riding from Newburyport train station along tracks.",
+    "relevance": "Shows the arrival and start of the trail ride immediately after getting off the train.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "da556804-7546-4d10-b15d-68b6cd59bc0b",
+    "videoName": "04",
+    "startS": 156,
+    "endS": 248,
+    "kind": "broll",
+    "visualSummary": "Cyclist rides through lush, wooded Upper City Rail Trail.",
+    "relevance": "Provides scenic greenway cycling footage in the middle of the route.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "70b167eb-2585-49b6-b607-2b8e8f064aba",
+    "videoName": "04",
+    "startS": 384,
+    "endS": 428,
+    "kind": "broll",
+    "visualSummary": "Cyclists cross bridge and arrive at scenic marina overlook.",
+    "relevance": "Serves as a scenic payoff and destination marker along the daytime ride.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s",
+      "wide_shot"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "200d0697-9ffa-4d40-8cd6-ce7ae50c4a32",
+    "videoName": "05",
+    "startS": 0.78,
+    "endS": 8.4,
+    "kind": "interview",
+    "transcriptExcerpt": "Well got some rain clouds moving in I guess we should get moving get our tent set up",
+    "visualSummary": "Man points to rain clouds while partner relaxes in chair.",
+    "relevance": "Adds lighthearted conflict and natural story progression moving into campsite setup.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker",
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "6fa80a54-4b2c-4625-8b74-1382c144b3d0",
+    "videoName": "06",
+    "startS": 0,
+    "endS": 14.6,
+    "kind": "broll",
+    "visualSummary": "Black and white dog exploring sandy beach under dramatic skies.",
+    "relevance": "Offers a coastal beach interlude to balance cycling with scenic downtime.",
+    "tags": [
+      "wide_shot",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "d59c24aa-5fbb-471e-b753-849279365d4c",
+    "videoName": "07",
+    "startS": 0.91,
+    "endS": 18,
+    "kind": "interview",
+    "transcriptExcerpt": "welcome to our tent. We have our bikes, our tent set up, we have a bench with the appropriate amount of condiments, and Max is grilling up our dogs.",
+    "visualSummary": "Pan across campsite from tent and bikes to picnic table.",
+    "relevance": "Narrates the evening camp arrival, showcasing the bikes and evening meal.",
+    "tags": [
+      "complete_sentence",
+      "no_filler_words",
+      "single_speaker"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "253c9728-a006-421e-8ac8-222572d1ab42",
+    "videoName": "07",
+    "startS": 15,
+    "endS": 28,
+    "kind": "broll",
+    "visualSummary": "Close-up of hot dogs and corn grilling over barbecue.",
+    "relevance": "Provides delicious food b-roll grounding the overnight camping portion of the trip.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "3ab3f551-9627-4659-ad67-48ec9c801927",
+    "videoName": "08",
+    "startS": 0,
+    "endS": 20.16,
+    "kind": "interview",
+    "transcriptExcerpt": "okay we had a nice night a little bit chilly we got our morning beach here's our campsite we only have bikes our tent but yeah it was a peaceful morning",
+    "visualSummary": "Morning camp vlog panning around tent, bikes, and morning routine.",
+    "relevance": "Bridges the overnight stay into day two, highlighting the bike-only camping experience.",
+    "tags": [
+      "complete_sentence",
+      "single_speaker",
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  },
+  {
+    "id": "f0548432-4be9-4aff-8084-1f0cbe59be5e",
+    "videoName": "09",
+    "startS": 11,
+    "endS": 62,
+    "kind": "broll",
+    "visualSummary": "Cyclist follows partner down a paved, sunlit bike path.",
+    "relevance": "Shows the morning ride continuation, delivering clean cycling b-roll on a sunny day.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-06T21:19:07.538Z"
+  }
+]

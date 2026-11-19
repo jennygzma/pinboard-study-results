@@ -1,0 +1,55 @@
+{
+  "id": "3e34503a-d0e8-4149-af48-2c75a5007509",
+  "status": "done",
+  "cardId": "8735d917-65b7-44f0-91d2-b0e1fa95b1d1",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "77b09b4a-a465-44cd-b8bc-fd6cd7e0c651",
+        "rationale": "Viviana explains that being kind to yourself allows you to roll with the punches and create designs that turn out better than planned."
+      },
+      {
+        "momentId": "80a81be1-04dc-43ba-a051-396f9dd1f100",
+        "rationale": "Viviana describes treating time at the pottery wheel as a low-stakes, open-ended experiment where ideas grow freely."
+      },
+      {
+        "momentId": "68e164e8-293d-427a-b543-f7d66b79edca",
+        "rationale": "Viviana addresses the external pressure on artists to produce, emphasizing the need for kindness throughout the creative process."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Viviana on rolling with punches: flexibility yields better pottery designs",
+        "durationSeconds": 12
+      },
+      {
+        "text": "Viviana describes wheel throwing as a low-stakes experimental session",
+        "durationSeconds": 10
+      },
+      {
+        "text": "Viviana discusses rejecting production pressure in favor of self-compassion",
+        "durationSeconds": 9
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Viviana reflects on releasing perfectionism and embracing unexpected design accidents",
+        "durationSeconds": 12,
+        "howItDiffers": "Emphasizes the technical craft aspect of welcoming happy accidents over broad self-kindness."
+      },
+      {
+        "text": "Viviana shares her wish for beginner potters to prioritize self-compassion",
+        "durationSeconds": 9,
+        "howItDiffers": "Frames the creative philosophy specifically as advice aimed at beginners and readers of her book."
+      },
+      {
+        "text": "Viviana explains how playful warm-up pieces unlock creative freedom",
+        "durationSeconds": 11,
+        "howItDiffers": "Focuses on the practical studio habit of low-stakes warm-up exercises rather than abstract mindset."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Direct interview clips (77b09b4a-a465-44cd-b8bc-fd6cd7e0c651 and 80a81be1-04dc-43ba-a051-396f9dd1f100) specifically articulate rolling with the punches and low-stakes experimentation."
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e5507dcb-d35c-4e25-9043-d070e4b53d71",
+    "assetFile": "/Users/jennym/projects/nami/coconut-agent/projects/prj-brian/Day_Off_source_3264753.wav",
+    "name": "Day_Off_source_3264753",
+    "durationS": 163.5,
+    "description": "This is a laid-back lofi hip-hop track with a chill, contemplative, and warm mood. Its slow to mid-tempo feel is perfect for creating a relaxed or cozy atmosphere. The sound is defined by a jazzy piano melody, a smooth bassline, and a classic, simple hip-hop drum beat.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T22:10:31.833Z"
+  },
+  {
+    "id": "3f4bb214-67f3-4d49-b6fd-78c3a11011b8",
+    "assetFile": "/Users/jennym/projects/nami/coconut-agent/projects/prj-brian/Inspiring Piano 60 sec Version.wav",
+    "name": "Inspiring Piano 60 sec Version",
+    "durationS": 60,
+    "description": "This is an emotional and cinematic piano track with a slow to mid-tempo feel. It begins gently and reflectively, then builds with the addition of lush, sweeping strings to create a hopeful and inspiring mood. The piece is perfect for heartfelt storytelling, dramatic reveals, or uplifting montages.",
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-07T22:10:31.833Z"
+  }
+]

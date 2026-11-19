@@ -1,0 +1,62 @@
+{
+  "id": "5597ebc3-2132-466a-9254-30e029b40f79",
+  "status": "done",
+  "cardId": "f3e51bee-9706-4cff-af2a-93ac329c952f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "9b4414dc-9636-4770-bfe0-f5ab1e7482d9",
+        "rationale": "Shows signature pastel mugs, plates, and watermelon containers on display."
+      },
+      {
+        "momentId": "c64fa184-8144-4f2d-9e38-6677ab5068aa",
+        "rationale": "Features playful ice cream sundae figurines and colorful stacked plates."
+      },
+      {
+        "momentId": "90f5b709-e030-445a-b563-96891384626d",
+        "rationale": "Neatly arranged display of vibrant figurines and checkered decorative boxes."
+      },
+      {
+        "momentId": "31467d99-9e7b-40b1-ae22-616f217f8e2e",
+        "rationale": "Combines colorful finished pottery directly with the Mud Witch studio sign."
+      },
+      {
+        "momentId": "9f5c0107-115d-4b82-b609-2089bc795709",
+        "rationale": "Sunlit windowsill display showing smaller finished decorative pieces."
+      },
+      {
+        "momentId": "244776a9-0b41-4ad3-b41b-1065775efa0f",
+        "rationale": "Bright pop-art styling with decorative ceramic plates on yellow display shelves."
+      },
+      {
+        "momentId": "7f2df7de-999e-4388-bd9b-6c5971bc0799",
+        "rationale": "Clean display shot of finished decorative pieces on a pastel pink table."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rapid cuts of pastel mugs, sundae figurines, and watermelon containers",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Smooth pan across finished pastel wares ending on Mud Witch sign",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Single lingering close-up on the Mud Witch shelf sign and planters",
+        "durationSeconds": 3,
+        "howItDiffers": "Replaces the multi-shot montage with one focused establishing hero shot."
+      },
+      {
+        "text": "Pair finished pastel pieces directly with raw clay on worktables",
+        "durationSeconds": 5,
+        "howItDiffers": "Contrasts completed colorful ceramics against in-progress raw pieces rather than just showing finished work."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "There are several strong, distinct B-roll clips of colorful finished wares ready to build this opening montage."
+  }
+}

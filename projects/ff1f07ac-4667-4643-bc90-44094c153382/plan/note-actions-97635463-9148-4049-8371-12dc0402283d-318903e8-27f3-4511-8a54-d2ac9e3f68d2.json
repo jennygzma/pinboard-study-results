@@ -1,0 +1,67 @@
+{
+  "id": "318903e8-27f3-4511-8a54-d2ac9e3f68d2",
+  "status": "done",
+  "cardId": "97635463-9148-4049-8371-12dc0402283d",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "96fe4a62-7792-41e1-b1c9-f33b5b239a60",
+        "rationale": "Shows tactile, fluid hand motion centering and shaping wet clay on the pottery wheel."
+      },
+      {
+        "momentId": "b29a9695-09d1-413e-9d7a-3cccf9eaadcd",
+        "rationale": "Tight detail shot highlighting palm and finger pressure manipulating spinning clay."
+      },
+      {
+        "momentId": "80caf274-533b-48f6-8bc4-e7939de4ec18",
+        "rationale": "Provides a contrasting delicate hand movement squeezing glaze piping onto ceramics."
+      },
+      {
+        "momentId": "72ae7cd0-1b91-4ba8-b8cd-1b2f0927ecf2",
+        "rationale": "Captures smooth brushstroke hand action glazing a ceramic dish."
+      },
+      {
+        "momentId": "81d766be-aea0-43e8-81a4-e548c412b286",
+        "rationale": "Shows rhythmic hand movement using a tool to spread glaze."
+      },
+      {
+        "momentId": "ce9cd84f-e857-4713-b320-30a3e3e3d336",
+        "rationale": "Captures coordinated two-handed rotation and rim-painting motion."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rhythmic montage cutting between wheel shaping, tool spreading, and glaze brushing",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Intercut tactile wet-clay molding with delicate piping and brushwork details",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Cut fast between hands mixing glaze, squeezing bottles, and rotating bowls",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Hold on a single uninterrupted macro shot of clay rising between hands",
+        "durationSeconds": 6,
+        "howItDiffers": "Replaces the rapid montage with a calming, continuous tactile hold."
+      },
+      {
+        "text": "Quick-cut contrast between raw messy clay shaping and fine glaze detail",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes the contrast of textures and stages rather than general hand movement."
+      },
+      {
+        "text": "Montage focusing strictly on specialized tool-handling and delicate application",
+        "durationSeconds": 5,
+        "howItDiffers": "Centers on tool craft rather than bare-hand clay manipulation."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The library contains multiple strong, specific close-ups of distinct hand motions ready to be slotted into this edit."
+  }
+}

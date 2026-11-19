@@ -1,0 +1,51 @@
+{
+  "id": "ef7587bd-f846-418e-82eb-6868e7594e11",
+  "status": "done",
+  "cardId": "1117380a-cd78-46a6-b584-b1233d83c9dc",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "e27d26f7-9a9d-4e62-ac08-33290551260b",
+        "rationale": "Directly matches the first half of the action with the entire office gathered around a computer monitor watching the live standoff."
+      },
+      {
+        "momentId": "927969fa-b82d-468e-a35a-442dbc06374e",
+        "rationale": "Directly captures the continuation where the staff scrambles from the desk to the window to watch the chase speed past."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut to staff crowded around desk monitor watching live standoff",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Cut to office scrambling to window as police cars speed past",
+        "durationSeconds": 3
+      },
+      {
+        "text": "Two-shot cut: monitor standoff crowd followed by window stampede",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Open beat with Jim's talking head justifying dropping work for history",
+        "durationSeconds": 5,
+        "howItDiffers": "Frames the distraction through Jim's mock-serious interview before cutting to the commotion."
+      },
+      {
+        "text": "Hold exclusively on tense reactions crowded around the monitor screen",
+        "durationSeconds": 4,
+        "howItDiffers": "Focuses purely on the collective silence and suspense at the desk rather than the window rush."
+      },
+      {
+        "text": "Smash cut directly to the chaotic scramble to the window",
+        "durationSeconds": 3,
+        "howItDiffers": "Skips the monitor buildup for immediate, high-energy physical comedy."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note describes a specific sequence that is directly satisfied by two available B-roll clips in the library."
+  }
+}

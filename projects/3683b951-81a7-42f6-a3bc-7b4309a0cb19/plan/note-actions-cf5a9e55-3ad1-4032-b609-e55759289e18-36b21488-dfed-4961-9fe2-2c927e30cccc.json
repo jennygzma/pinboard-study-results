@@ -1,0 +1,59 @@
+{
+  "id": "36b21488-dfed-4961-9fe2-2c927e30cccc",
+  "status": "done",
+  "cardId": "cf5a9e55-3ad1-4032-b609-e55759289e18",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "ccecc3c1-a67c-4ae7-af29-faa2ffd55a8b",
+        "rationale": "A quick Vine boom sting provides a punchy, comedic punctuation mark right as Michael spots the police cars."
+      },
+      {
+        "momentId": "40758abf-f3bc-4d71-aa98-e2df60da19a7",
+        "rationale": "Offers a lighthearted, goofy comedic sound effect accentuating Michael's dramatic window reaction."
+      },
+      {
+        "momentId": "89110d09-2648-422d-b054-47dc0f498f42",
+        "rationale": "The exaggerated Hell's Kitchen dramatic violin sting mocks Michael's over-the-top reaction to the chase."
+      },
+      {
+        "momentId": "6612b35e-72f4-4d1c-9218-a840e8018851",
+        "rationale": "A short, dry Moai meme sound offers an understated comedic accent on Michael's realization."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Add a Vine boom SFX when Michael shouts 'There it is!'.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Punctuate the window reveal with a quick cartoon goofy sound.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Layer a mock-dramatic reality TV sting as the cop cars pass.",
+        "durationSeconds": 2
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Drop a high-pitched cartoon siren chirp as the cars speed by.",
+        "durationSeconds": 2,
+        "howItDiffers": "Employs exaggerated parody sirens rather than a meme reaction sound."
+      },
+      {
+        "text": "Cut abruptly to dead silence when Michael spots the cars outside.",
+        "durationSeconds": 2,
+        "howItDiffers": "Creates comedy through a sudden anti-climactic audio drop rather than adding an SFX hit."
+      },
+      {
+        "text": "Trigger an intense, bass-heavy action thud on the window reveal.",
+        "durationSeconds": 2,
+        "howItDiffers": "Plays up over-the-top faux thriller tension instead of cartoonish slapstick."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The media library contains several specific meme and comedy sound effect assets ready to pair directly with this moment."
+  }
+}

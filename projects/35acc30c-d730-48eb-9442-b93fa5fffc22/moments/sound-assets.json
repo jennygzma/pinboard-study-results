@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ab00ccd2-3938-420e-bb7a-93fda3780bf6",
+    "assetFile": "Everything Is Embarrassing.mp3",
+    "name": "Everything Is Embarrassing",
+    "durationS": 249.9,
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:18:05.151Z"
+  },
+  {
+    "id": "23f57963-a063-44ea-9941-09380da89111",
+    "assetFile": "Frank Ocean - Ivy.mp3",
+    "name": "Frank Ocean - Ivy",
+    "durationS": 251.4,
+    "starred": false,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:18:05.151Z"
+  }
+]

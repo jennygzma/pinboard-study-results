@@ -1,0 +1,91 @@
+[
+  {
+    "id": "5c07c85e-48ce-4507-9689-5709dd11dc28",
+    "videoName": "MVI_6216",
+    "startS": 0,
+    "endS": 21.19,
+    "kind": "broll",
+    "visualSummary": "Concert stage with bright lights and crowd.",
+    "relevance": "Serves as the required starting clip of the sequence.",
+    "tags": [
+      "wide_shot",
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:19:23.415Z"
+  },
+  {
+    "id": "e772cee0-a3a6-42a8-a747-dd0ba7570311",
+    "videoName": "MVI_3046",
+    "startS": 0,
+    "endS": 7.01,
+    "kind": "broll",
+    "visualSummary": "Nighttime street view panning up to bright digital billboards in Times Square.",
+    "relevance": "Serves as the required second clip following MVI_6216.",
+    "tags": [
+      "bright_lit"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:19:23.415Z"
+  },
+  {
+    "id": "03f19fc5-5d4e-4582-8167-8354924ba524",
+    "videoName": "MVI_3798",
+    "startS": 0,
+    "endS": 14.81,
+    "kind": "broll",
+    "visualSummary": "Illuminated purple spinning ride and roller coaster speeding along tracks.",
+    "relevance": "Serves as the required third clip following MVI_3046.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:19:23.415Z"
+  },
+  {
+    "id": "54806ce2-1f01-4101-9eac-e1f8136fff0f",
+    "videoName": "MVI_5431",
+    "startS": 0,
+    "endS": 43.63,
+    "kind": "broll",
+    "visualSummary": "Concert performance with stage lighting transitions and solo spotlight.",
+    "relevance": "Serves as the required final clip ending the sequence.",
+    "tags": [
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-03T21:19:23.415Z"
+  },
+  {
+    "id": "367b9e5b-0bed-460b-b64c-5c127da169d5",
+    "videoName": "MVI_5751-compressed",
+    "startS": 3,
+    "endS": 26,
+    "kind": "broll",
+    "visualSummary": "Two squirrels eating in a park during offscreen conversation",
+    "relevance": "Sustained footage of squirrels foraging and eating in a park.",
+    "tags": [
+      "bright_lit",
+      "sustained_shot_10s"
+    ],
+    "source": "ai",
+    "foundVia": "brief",
+    "starred": true,
+    "excluded": false,
+    "createdAt": "2026-10-04T19:50:32.717Z"
+  }
+]

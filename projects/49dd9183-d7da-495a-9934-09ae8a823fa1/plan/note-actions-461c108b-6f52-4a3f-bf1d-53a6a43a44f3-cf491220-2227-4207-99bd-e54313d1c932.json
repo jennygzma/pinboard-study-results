@@ -1,0 +1,51 @@
+{
+  "id": "cf491220-2227-4207-99bd-e54313d1c932",
+  "status": "done",
+  "cardId": "461c108b-6f52-4a3f-bf1d-53a6a43a44f3",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "a40c6e14-f0ae-402e-ba4d-e46b4f032f80",
+        "rationale": "Shows the physical action of grabbing cookies off the supermarket shelf and tossing them toward the basket."
+      },
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Shows grabbing pre-mixed gin and tonic bottles directly off the shelf to throw into the shopping cart."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rapid cut tossing snack boxes and cookies into the cart",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Quick drop of ready-to-drink gin bottles into the basket",
+        "durationSeconds": 2.5
+      },
+      {
+        "text": "Close-up punchy cut throwing instant coffee jars into basket",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "POV basket view catching groceries tossed directly toward camera",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Emphasizes an immersive internal basket angle rather than standard third-person shelf grabbing."
+      },
+      {
+        "text": "Time-lapse accumulation of the basket rapidly overflowing with items",
+        "durationSeconds": 3,
+        "howItDiffers": "Focuses on the visual build-up and basket fullness rather than individual toss actions."
+      },
+      {
+        "text": "Whip pans tracking hands snatching discount items off shelves",
+        "durationSeconds": 2,
+        "howItDiffers": "Focuses on kinetic camera movement and impulse buying rather than the basket landing."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Footage of grabbing snacks and alcohol bottles off shelves directly matches the basket-loading montage beat."
+  }
+}

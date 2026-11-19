@@ -1,0 +1,42 @@
+{
+  "id": "1eafef45-cecc-4afe-b7f7-c7e4eff75137",
+  "status": "done",
+  "cardId": "720cb98d-e2e0-4f6c-b116-459d8c5389ff",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Drop a punchy Vine boom SFX right on the kick impact",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Layer an exaggerated slapstick cartoon punch sound effect on the kick",
+        "durationSeconds": 1
+      },
+      {
+        "text": "Trigger a dramatic 'Aaaauggh' meme scream SFX when Sotos gets kicked",
+        "durationSeconds": 1.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut music to dead silence to highlight the real room audio kick",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Relies on anti-humor and deadpan awkward silence rather than meme sound effects."
+      },
+      {
+        "text": "Add a dramatic Hell's Kitchen reality-TV violin sting on the kick",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Parodies high-stakes reality TV conflict rather than slapstick cartoon comedy."
+      },
+      {
+        "text": "Sync the kick impact to a heavy percussion beat drop in the music",
+        "durationSeconds": 1,
+        "howItDiffers": "Blends the kick seamlessly into the rhythmic edit montage instead of using a standalone SFX."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note has a clear target action and directly matches specific comedy sound effect clips in the library."
+  }
+}

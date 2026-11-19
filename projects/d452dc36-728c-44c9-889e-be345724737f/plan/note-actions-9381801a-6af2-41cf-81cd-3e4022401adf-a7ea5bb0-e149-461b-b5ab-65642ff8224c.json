@@ -1,0 +1,59 @@
+{
+  "id": "a7ea5bb0-e149-461b-b5ab-65642ff8224c",
+  "status": "done",
+  "cardId": "9381801a-6af2-41cf-81cd-3e4022401adf",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "db118176-73d2-4d28-bfa9-010a7cb409cc",
+        "rationale": "A tight, shallow depth-of-field close-up of the artist's tattooed arm that obscures her identity while introducing personal artistic flair."
+      },
+      {
+        "momentId": "d5572f18-e19b-4e5b-b4c0-fb816538d9ff",
+        "rationale": "Evocative close-up focusing purely on the tactile craft and dripping glaze without showing the artist's face."
+      },
+      {
+        "momentId": "cdd71b18-a21a-4d4e-83d9-339f09c1043f",
+        "rationale": "Frames only the paint-stained apron and torso, building craft intrigue before the on-camera reveal."
+      },
+      {
+        "momentId": "95a13ea6-1587-418a-8bdd-496dada4cd18",
+        "rationale": "Tight detail of hands shaping spinning clay, highlighting the tactile craft anonymously."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Close-up of hands shaping wet clay on spinning wheel",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Macro shot of glaze slowly dripping off ceramic bowl",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Tight cutaway of paint-splattered apron and tattooed arms",
+        "durationSeconds": 4
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Wide atmospheric panning shot across colorful studio shelves",
+        "durationSeconds": 5,
+        "howItDiffers": "Focuses on the studio space and finished art rather than tight anonymous physical cutaways."
+      },
+      {
+        "text": "Fast rhythmic montage of tools scraping and trimming clay",
+        "durationSeconds": 6,
+        "howItDiffers": "Emphasizes kinetic craft motion and tool textures rather than slow, mysterious close-ups."
+      },
+      {
+        "text": "Focus pull onto the Mud Witch studio shelf sign",
+        "durationSeconds": 4,
+        "howItDiffers": "Establishes brand identity and environment up front instead of teasing the artist's appearance."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "There are several strong B-roll clips in the library that already provide faceless, tactile close-ups fitting this hook beat."
+  }
+}

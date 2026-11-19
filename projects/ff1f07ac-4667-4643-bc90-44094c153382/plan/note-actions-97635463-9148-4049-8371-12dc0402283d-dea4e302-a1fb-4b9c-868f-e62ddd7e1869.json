@@ -1,0 +1,63 @@
+{
+  "id": "dea4e302-a1fb-4b9c-868f-e62ddd7e1869",
+  "status": "done",
+  "cardId": "97635463-9148-4049-8371-12dc0402283d",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "96fe4a62-7792-41e1-b1c9-f33b5b239a60",
+        "rationale": "Shows active two-handed shaping on the spinning wheel for the tactile foundation."
+      },
+      {
+        "momentId": "b29a9695-09d1-413e-9d7a-3cccf9eaadcd",
+        "rationale": "Provides a tight macro detail of fingers pressing and molding wet clay."
+      },
+      {
+        "momentId": "80caf274-533b-48f6-8bc4-e7939de4ec18",
+        "rationale": "Adds dynamic variety with rhythmic hand piping glaze onto dishware."
+      },
+      {
+        "momentId": "ce9cd84f-e857-4713-b320-30a3e3e3d336",
+        "rationale": "Features coordinated hands spinning and painting a ceramic bowl rim."
+      },
+      {
+        "momentId": "81d766be-aea0-43e8-81a4-e548c412b286",
+        "rationale": "Captures tactile tool spreading across the ceramic surface to vary the montage tempo."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rhythmic montage cutting between wheel molding, glaze piping, and brushstrokes.",
+        "durationSeconds": 8
+      },
+      {
+        "text": "Intercut close-ups of hands shaping wet clay and detailing surfaces.",
+        "durationSeconds": 6
+      },
+      {
+        "text": "Fast-paced hand sequence matching tool scraping, stirring, and squeezing glaze.",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Slow, uninterrupted macro shot of hands shaping clay on the wheel.",
+        "durationSeconds": 8,
+        "howItDiffers": "Emphasizes sustained tactile focus rather than an energetic multi-clip montage."
+      },
+      {
+        "text": "Playful montage focused exclusively on colorful glaze piping and painting details.",
+        "durationSeconds": 6,
+        "howItDiffers": "Focuses solely on color and decoration instead of clay forming."
+      },
+      {
+        "text": "Gentle sequence of hands inspecting and holding finished ceramic forms.",
+        "durationSeconds": 7,
+        "howItDiffers": "Highlights finished tactile appreciation and self-kindness over active workshop fabrication."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The library contains multiple distinct close-up clips of hand techniques that directly fulfill this intercut sequence."
+  }
+}

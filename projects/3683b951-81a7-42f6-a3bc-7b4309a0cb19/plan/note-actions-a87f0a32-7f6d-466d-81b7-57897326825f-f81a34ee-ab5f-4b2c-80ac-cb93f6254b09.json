@@ -1,0 +1,38 @@
+{
+  "id": "f81a34ee-ab5f-4b2c-80ac-cb93f6254b09",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "60174fed-7082-4fbe-a0bf-96cee35f7ed0",
+        "rationale": "Jim deadpans to camera justifying why the Scranton Strangler chase stopped all office work, comparing it to Balloon Boy."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Jim interview comparing Scranton Strangler chase to Balloon Boy spectacle",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Cut to Jim deadpanning about historic events stopping office productivity",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim reflects on how smoothly the office runs without supervision",
+        "durationSeconds": 7,
+        "howItDiffers": "Replaces the Strangler commentary with Jim's deadpan interview on working unsupervised."
+      },
+      {
+        "text": "Jim addresses the camera crew directly asking for a favor",
+        "durationSeconds": 5,
+        "howItDiffers": "Breaks documentary convention by having Jim collude directly with the camera crew instead of reacting to office events."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "Clip 60174fed-7082-4fbe-a0bf-96cee35f7ed0 is the exact interview where Jim comments directly on the Scranton Strangler distraction in Beat 2."
+  }
+}

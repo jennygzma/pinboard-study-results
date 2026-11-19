@@ -1,0 +1,652 @@
+{
+  "projectId": "6c091136-d0ab-41aa-bb47-3a85b523a27f",
+  "phase": "initial",
+  "purpose": "Screenshot-matched review copy; not installed in the application. Existing video selection remains unchanged.",
+  "verification": "The generation matches the visible reference structure and text; included group-label edits match the screenshot labels. Cropped or hidden contents are recovered from that history state, not independently verified by the screenshot.",
+  "referenceImages": [
+    "e4 jonah grid initial .png"
+  ],
+  "sourceFile": "projects/6c091136-d0ab-41aa-bb47-3a85b523a27f/plan/interactions.jsonl",
+  "sourceEvents": [
+    {
+      "line": 30,
+      "id": "e81ad6c1-4fef-46e2-9fbb-6979cd0341b0",
+      "timestamp": "2026-10-08T02:31:41.705Z",
+      "action": "suggest-structure.apply"
+    },
+    {
+      "line": 65,
+      "id": "b02365e5-2830-44e0-b825-70469f0caa69",
+      "timestamp": "2026-10-08T02:38:31.177Z",
+      "action": "card.edit"
+    },
+    {
+      "line": 66,
+      "id": "cc4d025a-dd09-4d5f-b006-374ffedac5f8",
+      "timestamp": "2026-10-08T02:38:31.708Z",
+      "action": "card.edit"
+    },
+    {
+      "line": 67,
+      "id": "7c962466-262c-46a5-a97f-8198a669a28a",
+      "timestamp": "2026-10-08T02:38:32.743Z",
+      "action": "card.edit"
+    },
+    {
+      "line": 68,
+      "id": "44eae9d5-0fb7-4378-bb58-3019a71d6f0b",
+      "timestamp": "2026-10-08T02:38:33.457Z",
+      "action": "card.edit"
+    }
+  ],
+  "previouslySelectedByGallery": {
+    "sourceLine": 1,
+    "eventId": "4a79a940-01ee-462d-9aca-0f731b5ebc69"
+  },
+  "plan": {
+    "beats": [
+      {
+        "id": "d6ce2559-f1ad-408b-ab68-11a21f9844bb",
+        "name": "Beat 1: Cold Open & Introduction",
+        "order": 0,
+        "targetDurationSeconds": 14,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "83b0d840-2a7d-4bbb-8a88-ff21e41be6de",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "f97eea56-f868-41f7-ac9c-300104a3e200",
+                    "order": 0,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "momentId": "02bdf66a-d802-4cef-affb-df4b2bf2a20b",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 8.200000000000045
+                    },
+                    "row": "a_roll"
+                  },
+                  {
+                    "id": "46454ac3-692b-4557-9aa3-23de46fdfdc0",
+                    "order": 1,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "a_roll",
+                    "momentId": "bdafffed-aaa6-4ba0-a4b0-683222b3b023",
+                    "notes": "Hi, I'm Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I'm a full-time potter",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 9
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 8.200000000000045
+                },
+                "summary": "Asset footage selects"
+              },
+              {
+                "id": "e8fc5195-29a6-4e7d-8c13-496d34c10b42",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "paired with Viviana’s voiceover naming her signature shapes: \"I was like starting to make these like chubby shapes and they're literally called this is the Chubby Mug. This is the Venus mug\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 5
+                }
+              },
+              {
+                "id": "40d2cd8a-a713-4bd1-89db-e6e73b66437c",
+                "order": 3,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Directly on the cut following the cold open, cut on-camera to Viviana introducing herself and her studio: \"Hi, I'm Viviana Matsuda. I do pottery for a living. My brand name is Mud Witch. I'm a full-time potter\"",
+                "time": {
+                  "positionSeconds": 5,
+                  "durationSeconds": 9
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "0e35dba9-6c40-4982-9d75-2c910e9c1239",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "8412f005-3e5a-444c-b6be-ddc616d8f42d",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4.6
+                }
+              },
+              {
+                "id": "e066908d-9408-4b0f-95e5-1f8b4f0672cb",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Open cold in total silence without music. Establish the visual identity of Mud Witch through colorful shelf B-roll of pastel mugs and tableware",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 5
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "a2731381-84f5-4506-a04d-3cabd6dfd37f",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "c0e2c875-8cdb-4495-8be1-1347e1355675",
+                "time": {
+                  "positionSeconds": 5,
+                  "durationSeconds": 55,
+                  "endBeatId": "6d3ff114-b367-428f-998d-66ba30b97ad6"
+                }
+              },
+              {
+                "id": "7d6b5f6b-1697-4d55-9357-6d40ad9a6207",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "The music track calm_reflective enters right on this cut, establishing a gentle, contemplative tone beneath her introduction.",
+                "time": {
+                  "positionSeconds": 5,
+                  "durationSeconds": 9
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "0183d02e-cae7-434d-81c8-b8b19eac937b",
+        "name": "Beat 2: Mud Witch Origin & Body Positivity",
+        "order": 1,
+        "targetDurationSeconds": 18,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "fa83492d-069e-4486-8317-87eeca34748c",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "39af0ccd-92fa-420c-8668-211b24050ef0",
+                    "order": 0,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "momentId": "17f31ac8-b8b9-4aed-aa87-e9625850b1c3",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 13.600000000000023
+                    },
+                    "row": "a_roll"
+                  },
+                  {
+                    "id": "ea50fa32-f710-4a3d-854b-df161a945271",
+                    "order": 1,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "a_roll",
+                    "momentId": "147598c9-a23a-4e33-b444-b58d81c60464",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 8.700000000000045
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 13.600000000000023
+                },
+                "summary": "Uncategorized asset footage"
+              },
+              {
+                "id": "6f506efa-3cb4-4a0f-94fc-92fb39a9f1ec",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Viviana explains how her artistic voice formed at the intersection of learning ceramics and engaging with the body positivity movement",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 8
+                }
+              },
+              {
+                "id": "0f02f85c-f123-4284-a900-8279ba597bfc",
+                "order": 3,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "She describes her early experimentation with natural clay: \"I used like 11 different types of clay, and they were all the range of skin tones. So they were like naked\"",
+                "time": {
+                  "positionSeconds": 8,
+                  "durationSeconds": 6
+                }
+              },
+              {
+                "id": "a3ebf6c1-748c-4538-823e-b95c7c0c89a4",
+                "order": 4,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "7a5ada7f-4405-4a7a-8c91-a6230bc66295",
+                "notes": "Keep 'And then I was like, well, let's slap some color on these, let's clothe these babes'",
+                "time": {
+                  "positionSeconds": 14,
+                  "durationSeconds": 4
+                }
+              },
+              {
+                "id": "64845a8e-c69c-43f7-aac8-41d6492e5039",
+                "order": 5,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Cut immediately to her next line: \"And then I was like, well, let's slap some color on these, let's clothe these babes\"",
+                "time": {
+                  "positionSeconds": 14,
+                  "durationSeconds": 4
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "a301952d-a46c-479d-ace2-3ac69995434f",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "d5a8b524-a97d-4d22-8df0-aa9418672d1b",
+                    "order": 0,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "momentId": "f6009b61-9d10-47aa-95aa-8b69d3fc4786",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 5.3999999999999995
+                    },
+                    "row": "b_roll"
+                  },
+                  {
+                    "id": "7ecbf46d-5bbf-4bce-ba09-991e78c1c8da",
+                    "order": 1,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "b_roll",
+                    "momentId": "237306f5-4f9c-43bc-95ed-501c647f75a7",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 2.0999999999999943
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 11,
+                  "durationSeconds": 5.3999999999999995
+                },
+                "summary": "Assorted project asset clips"
+              },
+              {
+                "id": "701188d5-5db5-4fe0-8fb6-8863b239d68a",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Cover \"so they were like naked\" with B-roll of stacked, unpainted ceramic bisque wares resting on studio shelving",
+                "time": {
+                  "positionSeconds": 11,
+                  "durationSeconds": 3
+                }
+              },
+              {
+                "id": "28540d29-27da-4b34-9f02-c4609f5d911d",
+                "order": 3,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Cover this line with B-roll of glaze and color being painted onto a ceramic piece",
+                "time": {
+                  "positionSeconds": 14,
+                  "durationSeconds": 4
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": []
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "123d47d7-a390-4eb2-83cd-d1e6dbf2d49b",
+        "name": "Beat 3: The Value of Handmade Pottery",
+        "order": 2,
+        "targetDurationSeconds": 17,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "7601e92b-0c4d-426b-820c-21c28ff96f32",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "group",
+                "children": [
+                  {
+                    "id": "8606070b-cd79-4aad-a665-68e40c9e9a20",
+                    "order": 0,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "momentId": "bac84537-0974-46da-8e8c-59ce1fba3d0d",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 4.800000000000068
+                    },
+                    "row": "a_roll"
+                  },
+                  {
+                    "id": "4f921b97-b4b9-47bb-8652-009e0b417517",
+                    "order": 1,
+                    "createdAt": "2026-10-08T02:31:41.703Z",
+                    "status": "confirmed",
+                    "originatedBy": "ai",
+                    "aiSource": "initial",
+                    "kind": "asset",
+                    "row": "a_roll",
+                    "momentId": "a275ae80-ed03-430a-abce-c78c082a32dc",
+                    "time": {
+                      "positionSeconds": 0,
+                      "durationSeconds": 8.699999999999932
+                    }
+                  }
+                ],
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4.800000000000068
+                },
+                "summary": "Asset footage for the scene"
+              },
+              {
+                "id": "e5a71712-7146-4c23-8390-daf0978a3a75",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Transition into the deeper philosophical value of ceramics. Viviana reflects on physical mediums as a tool for human connection",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 4.5
+                }
+              },
+              {
+                "id": "dcdea344-d58a-459c-ba15-4215e2b9cb81",
+                "order": 3,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "and explains the tactile concept of the artist's hand: \"There's something called the artist's hand where when you hand-build something or wheel throw it, you can kind of feel where the artist's hands have been\"",
+                "time": {
+                  "positionSeconds": 4.5,
+                  "durationSeconds": 6
+                }
+              },
+              {
+                "id": "0e98f1bb-caca-463d-b6a2-164c54a1fd25",
+                "order": 4,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "a0f46c7b-3752-4762-9036-0b2e8ec38447",
+                "notes": "Keep 'People are like, well, why is it 50 bucks? I can buy ten mugs with that. And I'm like, but you need ten more mugs because like, do you have ten people in your family?'",
+                "time": {
+                  "positionSeconds": 10.5,
+                  "durationSeconds": 6.5
+                }
+              },
+              {
+                "id": "9facf155-d625-46cc-aea8-c4d8de4cbcde",
+                "order": 5,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Follow with her challenge to mass-consumer culture and questions around handmade pricing: \"People are like, well, why is it 50 bucks? I can buy ten mugs with that. And I'm like, but you need ten more mugs because like, do you have ten people in your family?\"",
+                "time": {
+                  "positionSeconds": 10.5,
+                  "durationSeconds": 6.5
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": [
+              {
+                "id": "3b29f02e-f8f3-4377-805e-cd4e1cc78b12",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "7fdd0d3a-adda-4e76-b4d0-f96e29f28fcb",
+                "time": {
+                  "positionSeconds": 4.5,
+                  "durationSeconds": 3.1999999999999993
+                }
+              },
+              {
+                "id": "976023f1-3895-45e9-a00c-c72c552f7539",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Support this sentiment with close-up footage of her hands actively shaping wet clay on the pottery wheel",
+                "time": {
+                  "positionSeconds": 4.5,
+                  "durationSeconds": 6
+                }
+              }
+            ]
+          },
+          {
+            "row": "music",
+            "cards": []
+          },
+          {
+            "row": "text_graphics",
+            "cards": []
+          }
+        ]
+      },
+      {
+        "id": "6d3ff114-b367-428f-998d-66ba30b97ad6",
+        "name": "Beat 4: Resolution & Outro",
+        "order": 3,
+        "targetDurationSeconds": 11,
+        "tracks": [
+          {
+            "row": "a_roll",
+            "cards": [
+              {
+                "id": "28ca20cd-7ce5-4b3b-b9e4-6020f9d8466f",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "asset",
+                "momentId": "264bb79c-635c-4de4-bb88-2c01b638c63a",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 6
+                }
+              },
+              {
+                "id": "c6f8d0fa-02dd-4094-ab4b-731a6e963d85",
+                "order": 1,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Bring the film to a warm, grounded conclusion. Viviana delivers the final spoken line of the piece on-camera: \"It started off as one thing, and now it's just like, I just want to make something that, like, makes people smile\"",
+                "time": {
+                  "positionSeconds": 0,
+                  "durationSeconds": 6
+                }
+              }
+            ]
+          },
+          {
+            "row": "b_roll",
+            "cards": []
+          },
+          {
+            "row": "music",
+            "cards": [
+              {
+                "id": "c49460b6-097f-4320-805d-8624a215d3ce",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Let the piano notes of calm_reflective ring out gently over the card before fading out.",
+                "time": {
+                  "positionSeconds": 6,
+                  "durationSeconds": 5
+                }
+              }
+            ]
+          },
+          {
+            "row": "text_graphics",
+            "cards": [
+              {
+                "id": "9396b8e4-659d-4c91-bf8e-88964b6b8a82",
+                "order": 0,
+                "createdAt": "2026-10-08T02:31:41.703Z",
+                "status": "confirmed",
+                "originatedBy": "ai",
+                "aiSource": "initial",
+                "kind": "text",
+                "text": "Cut directly from her line to a graphic title card displaying the Mud Witch text box.",
+                "time": {
+                  "positionSeconds": 6,
+                  "durationSeconds": 5
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

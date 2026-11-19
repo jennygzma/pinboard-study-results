@@ -1,0 +1,37 @@
+{
+  "id": "122a4b15-67b5-4de9-8e6c-eed546efb750",
+  "status": "done",
+  "lineNumber": 6,
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Cut to 50% slow-mo portrait smile as Jason says his name. [[clip: P1071658 | 1s-6s]]",
+        "durationSeconds": 3
+      },
+      {
+        "text": "Slow down Jason's direct-to-camera smile under 'Jason Deck' title card. [[clip: P1071658 | 2s-5s]]",
+        "durationSeconds": 3
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Cut to close-up of Star of David necklace over his name. [[clip: P1071659 | 4s-10.64s]]",
+        "durationSeconds": 3,
+        "howItDiffers": "Emphasizes his Jewish identity visually rather than his personal portrait."
+      },
+      {
+        "text": "Cut to jacket NJR logo b-roll as he introduces himself. [[clip: P1071652 | 7s-14s]]",
+        "durationSeconds": 3,
+        "howItDiffers": "Immediately highlights his club affiliation instead of a headshot."
+      },
+      {
+        "text": "Stay on Jason's talking head interview for his spoken introduction. [[clip: P1071636-003 | 114.81s-119.07s]]",
+        "durationSeconds": 4,
+        "howItDiffers": "Keeps sync sound on camera to build direct connection before cutting to b-roll."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The note describes a specific portrait smile setup that directly corresponds to an available b-roll clip."
+  }
+}

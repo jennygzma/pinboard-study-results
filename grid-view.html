@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pinboard · Interactive Grid</title>
+  <link rel="stylesheet" href="/grid-view.css">
+  <style>body{margin:0;background:#fff9f0}body[data-embed=true] .g-top,body[data-embed=true] .g-participant,body[data-embed=true] .g-supporting,body[data-embed=true] .g-provenance{display:none}body[data-embed=true] #pinboard-grid-study{border:0;border-radius:0}body[data-embed=true] #pinboard-grid-study .g-main{padding:12px}</style>
+</head>
+<body>
+  <div id="pinboard-grid-study" aria-label="Pinboard Grid plan">
+    <header class="g-top"><a href="/videos" class="g-brand">PINBOARD</a><span class="g-caption">Interactive Grid · <a href="/videos">Participant gallery</a></span></header>
+    <main class="g-main" id="grid-preview-content"><p role="status">Opening saved Grid…</p></main>
+    <dialog class="g-clip-dialog" id="source-dialog" aria-labelledby="source-heading">
+      <div class="g-clip-heading"><h2 id="source-heading">Source footage</h2><button class="g-button" id="source-close" type="button">Close</button></div>
+      <div id="source-content"></div>
+    </dialog>
+  </div>
+  <script src="/grid-view.js" defer></script>
+</body>
+</html>

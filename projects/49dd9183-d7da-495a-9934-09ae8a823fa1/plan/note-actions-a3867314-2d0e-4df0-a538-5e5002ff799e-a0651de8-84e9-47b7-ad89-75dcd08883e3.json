@@ -1,0 +1,38 @@
+{
+  "id": "a0651de8-84e9-47b7-ad89-75dcd08883e3",
+  "status": "done",
+  "cardId": "a3867314-2d0e-4df0-a538-5e5002ff799e",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [],
+    "makeMoreSpecific": [
+      {
+        "text": "Hit Vine boom SFX right on Giorgos's kick to Sotos.",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Cut backing percussion and trigger Vine boom on physical kick impact.",
+        "durationSeconds": 2
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Trigger dramatic Hell's Kitchen violin screech on the kick impact.",
+        "durationSeconds": 2,
+        "howItDiffers": "Swaps the bass drop for a tense, exaggerated reality TV sting."
+      },
+      {
+        "text": "Drop audio and hit a bass-boosted reverb fart on impact.",
+        "durationSeconds": 2,
+        "howItDiffers": "Leans into absurd slapstick internet humor rather than an action impact."
+      },
+      {
+        "text": "Hard cut to dead silence on impact with an abrupt record scratch.",
+        "durationSeconds": 1.5,
+        "howItDiffers": "Uses a sudden audio stop rather than an explosive bass punch."
+      }
+    ],
+    "primaryAction": "makeMoreSpecific",
+    "primaryActionReason": "The media library already contains the specific 'Vine boom' sound effect clip required for this edit."
+  }
+}

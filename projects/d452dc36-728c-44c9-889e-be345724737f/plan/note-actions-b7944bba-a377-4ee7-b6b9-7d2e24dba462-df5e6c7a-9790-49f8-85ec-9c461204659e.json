@@ -1,0 +1,59 @@
+{
+  "id": "df5e6c7a-9790-49f8-85ec-9c461204659e",
+  "status": "done",
+  "cardId": "b7944bba-a377-4ee7-b6b9-7d2e24dba462",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "c9641e7c-b3ed-49af-9cb0-899acb306945",
+        "rationale": "Directly illustrates tactile texturing and playful technique by showing glaze applied with a piping bag."
+      },
+      {
+        "momentId": "d5572f18-e19b-4e5b-b4c0-fb816538d9ff",
+        "rationale": "Glaze dripping freely down the side of the bowl visually embodies embracing creative imperfection."
+      },
+      {
+        "momentId": "933399f5-1d56-4ffb-a481-681da3ef6ffc",
+        "rationale": "Shows multi-colored blue and white glaze application on an unconventional, expressive ceramic shape."
+      },
+      {
+        "momentId": "df9174f5-0f22-45d0-a0cd-f8554af02102",
+        "rationale": "Features bold, vibrant color contrast as bright yellow glaze is painted onto a pink dish."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Piping thick textured glaze onto dishware in playful pastel patterns",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Close-up of glaze dripping down bowl edges, showcasing organic imperfection",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Viviana applying vibrant contrasting glazes across an asymmetrical hand dish",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Hands intuitively shaping clay on the wheel during low-stakes warmups",
+        "durationSeconds": 6,
+        "howItDiffers": "Focuses on the tactile flow of shaping wet clay at the wheel rather than painting glaze."
+      },
+      {
+        "text": "Viviana laughing and smiling while casually experimenting at her workbench",
+        "durationSeconds": 4,
+        "howItDiffers": "Emphasizes Viviana's playful attitude and emotional warmth over the ceramic surface details."
+      },
+      {
+        "text": "Montage showcasing quirky, finished ceramic pieces displayed across studio shelves",
+        "durationSeconds": 5,
+        "howItDiffers": "Highlights the final colorful, imperfect products rather than the painting process."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The footage library already contains specific, high-quality B-roll clips of Viviana piping textures and brushing colorful, dripping glazes."
+  }
+}

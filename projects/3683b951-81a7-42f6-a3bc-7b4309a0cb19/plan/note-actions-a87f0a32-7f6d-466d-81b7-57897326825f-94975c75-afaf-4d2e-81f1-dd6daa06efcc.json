@@ -1,0 +1,43 @@
+{
+  "id": "94975c75-afaf-4d2e-81f1-dd6daa06efcc",
+  "status": "done",
+  "cardId": "a87f0a32-7f6d-466d-81b7-57897326825f",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "60174fed-7082-4fbe-a0bf-96cee35f7ed0",
+        "rationale": "Jim's talking head interview reflecting on historic, stop-everything TV moments directly provides the Scranton Strangler commentary needed for Beat 2."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Jim reflects on historic, stop-everything TV spectacles during the police chase.",
+        "durationSeconds": 7
+      },
+      {
+        "text": "Jim deadpans to camera about the cultural magnitude of the standoff.",
+        "durationSeconds": 6
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Jim explains his 500-foot red wire prank in a talking head.",
+        "durationSeconds": 7,
+        "howItDiffers": "Shifts the talking head from the Strangler chase commentary to Jim narrating an elaborate practical prank on Dwight."
+      },
+      {
+        "text": "Jim admits defeat to the camera after Dwight leaves the office.",
+        "durationSeconds": 6,
+        "howItDiffers": "Focuses on Jim's emotional misery dealing with Andy in Dwight's absence rather than an ensemble event."
+      },
+      {
+        "text": "Jim breaks down the eleven-dollar cost of his Dwight costume.",
+        "durationSeconds": 8,
+        "howItDiffers": "Anchors the interview beat around his identity theft prank rather than the Strangler chase."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note is an exact match for Jim's Scranton Strangler talking head interview footage already present in the library."
+  }
+}

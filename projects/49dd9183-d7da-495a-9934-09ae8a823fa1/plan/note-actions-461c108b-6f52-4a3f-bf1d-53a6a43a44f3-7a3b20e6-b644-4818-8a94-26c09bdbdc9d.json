@@ -1,0 +1,55 @@
+{
+  "id": "7a3b20e6-b644-4818-8a94-26c09bdbdc9d",
+  "status": "done",
+  "cardId": "461c108b-6f52-4a3f-bf1d-53a6a43a44f3",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "a40c6e14-f0ae-402e-ba4d-e46b4f032f80",
+        "rationale": "Directly captures grabbing cookies and tossing snacks into the shopping cart."
+      },
+      {
+        "momentId": "491740c3-2c7b-4956-89df-b6a61a0e4aab",
+        "rationale": "Shows grabbing and tossing premixed gin and tonic bottles into the basket."
+      },
+      {
+        "momentId": "57f55b4d-696b-4c6d-8edc-a884e9825d29",
+        "rationale": "Shows selecting and grabbing instant coffee jars off the shelf into the basket."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Rapid cut tossing cookies and snacks into the basket",
+        "durationSeconds": 2
+      },
+      {
+        "text": "Close-up of canned drinks dropping into the shopping cart",
+        "durationSeconds": 1.5
+      },
+      {
+        "text": "Whip pan tracking multiple items dropped into the basket",
+        "durationSeconds": 2.5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "POV shot walking fast and tossing items into cart",
+        "durationSeconds": 3,
+        "howItDiffers": "Shifts perspective to an energetic first-person movement through the aisle."
+      },
+      {
+        "text": "Top-down shot of basket rapidly filling up with groceries",
+        "durationSeconds": 2,
+        "howItDiffers": "Uses an overhead framing focused purely on basket volume rather than shelf action."
+      },
+      {
+        "text": "Comedic cut to partner staring in disbelief at overflowing basket",
+        "durationSeconds": 2.5,
+        "howItDiffers": "Focuses on character reaction to the chaotic shopping frenzy instead of the grab action."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note describes a straightforward B-roll action that directly matches available footage of grabbing and tossing items into the cart."
+  }
+}

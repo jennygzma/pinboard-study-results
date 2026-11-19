@@ -1,0 +1,55 @@
+{
+  "id": "9f3242cb-6bab-43ef-a095-4f0bf988c4bc",
+  "status": "done",
+  "cardId": "04d5a74e-f815-4786-8109-18494409b155",
+  "mode": "menu",
+  "result": {
+    "groundInFootage": [
+      {
+        "momentId": "4035d7cf-35e9-4090-85cf-cdc5266efad4",
+        "rationale": "Direct portrait B-roll of Viviana in her studio with natural amusement and a warm closing smile."
+      },
+      {
+        "momentId": "b94cbbd9-ab93-4f30-9b02-15c8749095f3",
+        "rationale": "Clear B-roll shot focused squarely on Viviana's face, ideal for isolating a smile and extending it in slow motion."
+      },
+      {
+        "momentId": "473dd34c-cfaf-4fc1-ab8c-df695815f472",
+        "rationale": "Seated portrait frame centered entirely on Viviana, offering a relaxed smiling beat to slow down before the fade."
+      }
+    ],
+    "makeMoreSpecific": [
+      {
+        "text": "Slow-motion portrait B-roll of Viviana smiling, fading slowly to black",
+        "durationSeconds": 5
+      },
+      {
+        "text": "Over outro VO, hold Viviana's smile at 50% speed into fade-out",
+        "durationSeconds": 4
+      },
+      {
+        "text": "Cut to studio B-roll of Viviana, slowing her smile into outro fade",
+        "durationSeconds": 5
+      }
+    ],
+    "generateAlternatives": [
+      {
+        "text": "Stay on A-roll interview camera, letting Viviana's natural smile linger into fade",
+        "durationSeconds": 4,
+        "howItDiffers": "Avoids cutting away to B-roll or retiming footage, keeping the raw on-camera connection."
+      },
+      {
+        "text": "Cut to slow-motion candid B-roll of Viviana laughing while working",
+        "durationSeconds": 5,
+        "howItDiffers": "Shows an active, authentic laugh in her element rather than a direct posed smile."
+      },
+      {
+        "text": "Slow dissolve from Viviana smiling directly into the Mud Witch title card",
+        "durationSeconds": 4,
+        "howItDiffers": "Dissolves her face seamlessly into the brand logo rather than fading to black."
+      }
+    ],
+    "primaryAction": "groundInFootage",
+    "primaryActionReason": "The note gives clear instructions to find a portrait shot of Viviana smiling and slow it down, which can be directly linked to available B-roll clips."
+  }
+}
